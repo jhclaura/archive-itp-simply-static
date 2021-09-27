@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Circuit Design and Prototyping &#8211; ITP Days</title>
+	<atom:link href="/category/spring-2015/circuit-design-and-prototyping/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Thu, 30 Apr 2015 22:17:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>Circuit Design and Prototyping &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Final &#8211; Muscle Sensor for Duet the MASK</title>
+		<link>/2015/04/30/final-muscle-sensor-for-duet-the-mask/</link>
+					<comments>/2015/04/30/final-muscle-sensor-for-duet-the-mask/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 30 Apr 2015 22:17:10 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Circuit Design and Prototyping]]></category>
+		<category><![CDATA[EMG]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[muscle sensor]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=2099</guid>
+
+					<description><![CDATA[＼(^ω^＼) sch file. brd file. (／^ω^)／ Yeahhh so much laugh and tears. It&#8217;s a knowledgeable journey, and here&#8217;s the presentation. Ooorahh! &#160;]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone" src="https://lh4.googleusercontent.com/-fQY7_XXC2sE/VUJFUQzUhoI/AAAAAAAAJKc/PjkVBPzPAWE/w812-h601-no/IMG_20150429_161842-3393.jpg" alt="" width="812" height="601" /></p>
+<p>＼(^ω^＼) <span style="color: #33cccc;"><strong><a style="color: #33cccc;" href="https://github.com/jhclaura/MASK/blob/gh-pages/duet_sensor/muscleSensor.sch" target="_blank">sch file</a></strong></span>. <span style="color: #33cccc;"><strong><a style="color: #33cccc;" href="https://github.com/jhclaura/MASK/blob/gh-pages/duet_sensor/muscleSensor.brd" target="_blank">brd file</a></strong></span>. (／^ω^)／</p>
+<p>Yeahhh so much laugh and tears. It&#8217;s a knowledgeable journey, and here&#8217;s the presentation. Ooorahh!</p>
+<p><span id="more-2099"></span></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.001.jpg"><img loading="lazy" class="alignnone size-full wp-image-2104" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.001.jpg" alt="Duet.001" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.002.jpg"><img loading="lazy" class="alignnone size-full wp-image-2105" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.002.jpg" alt="Duet.002" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.003.jpg"><img loading="lazy" class="alignnone size-full wp-image-2106" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.003.jpg" alt="Duet.003" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.004.jpg"><img loading="lazy" class="alignnone size-full wp-image-2107" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.004.jpg" alt="Duet.004" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.005.jpg"><img loading="lazy" class="alignnone size-full wp-image-2108" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.005.jpg" alt="Duet.005" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.006.jpg"><img loading="lazy" class="alignnone size-full wp-image-2109" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.006.jpg" alt="Duet.006" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.007.jpg"><img loading="lazy" class="alignnone size-full wp-image-2110" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.007.jpg" alt="Duet.007" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.008.jpg"><img loading="lazy" class="alignnone size-full wp-image-2111" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.008.jpg" alt="Duet.008" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.009.jpg"><img loading="lazy" class="alignnone size-full wp-image-2112" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.009.jpg" alt="Duet.009" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.010.jpg"><img loading="lazy" class="alignnone size-full wp-image-2113" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.010.jpg" alt="Duet.010" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.011.jpg"><img loading="lazy" class="alignnone size-full wp-image-2114" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.011.jpg" alt="Duet.011" width="1920" height="1080" /></a></p>
+<p><iframe loading="lazy" src="https://www.youtube.com/embed/zJqQ1r0bIcc?rel=0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.013.jpg"><img loading="lazy" class="alignnone size-full wp-image-2116" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.013.jpg" alt="Duet.013" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.014.jpg"><img loading="lazy" class="alignnone size-full wp-image-2117" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.014.jpg" alt="Duet.014" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.015.jpg"><img loading="lazy" class="alignnone size-full wp-image-2118" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.015.jpg" alt="Duet.015" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.019.jpg"><img loading="lazy" class="alignnone size-full wp-image-2119" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.019.jpg" alt="Duet.019" width="1920" height="1080" /></a><a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.021.jpg"><img loading="lazy" class="alignnone size-full wp-image-2121" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.021.jpg" alt="Duet.021" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.022.jpg"><img loading="lazy" class="alignnone size-full wp-image-2122" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.022.jpg" alt="Duet.022" width="1920" height="1080" /></a><a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.024.jpg"><img loading="lazy" class="alignnone size-full wp-image-2124" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.024.jpg" alt="Duet.024" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.025.jpg"><img loading="lazy" class="alignnone size-full wp-image-2125" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.025.jpg" alt="Duet.025" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.026.jpg"><img loading="lazy" class="alignnone size-full wp-image-2126" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.026.jpg" alt="Duet.026" width="1920" height="1080" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.027.jpg"><img loading="lazy" class="alignnone size-full wp-image-2127" src="http://www.jhclaura.com/wp-content/uploads/2015/04/Duet.027.jpg" alt="Duet.027" width="1920" height="1080" /></a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/04/30/final-muscle-sensor-for-duet-the-mask/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Horrible mistakes &#8211; Wrong parts order</title>
+		<link>/2015/04/23/horrible-mistakes-wrong-parts-order/</link>
+					<comments>/2015/04/23/horrible-mistakes-wrong-parts-order/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 24 Apr 2015 02:21:52 +0000</pubDate>
+				<category><![CDATA[Circuit Design and Prototyping]]></category>
+		<category><![CDATA[mistakes]]></category>
+		<category><![CDATA[wtf]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=2092</guid>
+
+					<description><![CDATA[This week I finished the board design for the muscle sensor, after trying several layouts. ( old ones )   Here&#8217;s the fake final look. And I use OtherMill to mill the board, because the Roland can&#8217;t do the curvy routes. And here&#8217;s the result whoo! &#160; And then when I was happily ready to solder the parts [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>This week I finished the board design for the muscle sensor, after trying several layouts.</p>
+<p>( old ones )</p>
+<p><img loading="lazy" class="alignnone" src="https://lh6.googleusercontent.com/-Y5dxf-x9DJw/VTltTnWgt_I/AAAAAAAAIhM/92dbE12o6Ng/w834-h645-no/Screen%2BShot%2B2015-04-22%2Bat%2B12.52.52%2BPM.png" alt="" width="231" height="179" /> <img loading="lazy" class="alignnone" src="https://lh3.googleusercontent.com/-fU5DErNfEbU/VTluOoPVw7I/AAAAAAAAIhk/8v-imyHELFk/w1014-h645-no/Screen%2BShot%2B2015-04-23%2Bat%2B6.11.46%2BPM.png" alt="" width="279" height="178" /></p>
+<p>Here&#8217;s the <strong><em>fake</em></strong> final look.</p>
+<p><img loading="lazy" class="alignnone" src="https://lh4.googleusercontent.com/-24qaHWUkyvE/VUJCcuUHyvI/AAAAAAAAJJA/nuAOBh9SOZ8/w1116-h553-no/Screen%2BShot%2B2015-04-23%2Bat%2B6.01.49%2BPM.png" alt="" width="1116" height="553" /><br />
+<img loading="lazy" class="alignnone" src="https://lh5.googleusercontent.com/-QnXwC0e2h34/VTltTuSGOAI/AAAAAAAAIhU/TelKmSJSX9I/w1118-h552-no/Screen%2BShot%2B2015-04-23%2Bat%2B6.02.06%2BPM.png" alt="" width="1118" height="552" /></p>
+<p>And I use OtherMill to mill the board, because the Roland can&#8217;t do the curvy routes.</p>
+<p><img loading="lazy" class="alignnone" src="https://lh3.googleusercontent.com/-LkXfnFmzIhQ/VTlvVmj0T3I/AAAAAAAAIh8/zPY-VA2HzKc/w860-h645-no/IMG_20150422_221210.jpg" alt="" width="860" height="645" /><br />
+<img loading="lazy" class="alignnone" src="https://lh3.googleusercontent.com/-ToC9bBfNw9E/VUJC3TbISlI/AAAAAAAAJJc/AWFwVoMxpSA/w801-h601-no/IMG_20150422_221159~2.jpg" alt="" width="801" height="601" /></p>
+<p>And here&#8217;s the result whoo!<img loading="lazy" class="alignnone" src="https://lh4.googleusercontent.com/vBURx781383ja-k3xab4-M6Ho9Cb-tI8yFbc6BwAQUw=w860-h645-no" alt="" width="860" height="645" /></p>
+<p>&nbsp;</p>
+<p>And then when I was happily ready to solder the parts on, I found out that what I ordered for the 150K, and 80.6K resistors were way too small!! Their type are 0402 instead of 0603! What was I thinking?! So tiny omg *_*</p>
+<p><img loading="lazy" class="alignnone" src="https://lh4.googleusercontent.com/bIPa0VNDvyaBC7sGAgItJ-Sjp0NHfXgUgeTkX2aybUk=w860-h645-no" alt="" width="860" height="645" /></p>
+<p>SO.</p>
+<p>After being down for a while, I ordered parts from DigiKey again and refueled my life with hope.</p>
+<p>And, I also found out that I have surface mount 1N1418 diodes when I was examining my parts ( so many mistakes ooops ), so I changed the schematics again! Replacing the through hole diodes with the surface mount ones, creating curvy dimension, and a making a hole for hanging, possibly.</p>
+<p><img loading="lazy" class="alignnone" src="https://lh5.googleusercontent.com/-oKq_h0md5g8/VTmoG2M1M2I/AAAAAAAAIjw/1iTdjhYMnxM/w990-h645-no/Screen%2BShot%2B2015-04-23%2Bat%2B9.59.42%2BPM.png" alt="" width="990" height="645" /></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/04/23/horrible-mistakes-wrong-parts-order/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>muscle sensor schematics</title>
+		<link>/2015/04/09/muscle-sensor-schematics/</link>
+					<comments>/2015/04/09/muscle-sensor-schematics/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2015 18:02:31 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Circuit Design and Prototyping]]></category>
+		<category><![CDATA[Eagle]]></category>
+		<category><![CDATA[muscle sensor]]></category>
+		<category><![CDATA[schematics]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=2083</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone" src="https://lh4.googleusercontent.com/CeHbqpjQDX61GftVnSzkxulO8BocvcFOJ_URKLK5Bck=w958-h498-no" alt="" width="958" height="498" /></p>
+<p><img loading="lazy" class="alignnone" src="https://lh5.googleusercontent.com/rxgYev1eHeLfs6ujSKA4nggwDBe-kJFSERg7XNV9NPI=w752-h501-no" alt="" width="752" height="501" /></p>
+<p><img loading="lazy" class="alignnone" src="https://lh6.googleusercontent.com/iKzUEqQQByfEDSFTWvn5BCoErWq57p6kfYLqzeS60f4=w894-h596-no" alt="" width="894" height="596" /></p>
+<p><img loading="lazy" class="alignnone" src="https://lh6.googleusercontent.com/Cw7DRCsdVEKMflvuYWhL3aLSFuohBg36WUWOxWP7cRE=w795-h596-no" alt="" width="795" height="596" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/04/09/muscle-sensor-schematics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Muscle Sensor MASK version</title>
+		<link>/2015/04/02/muscle-sensor-mask-version/</link>
+					<comments>/2015/04/02/muscle-sensor-mask-version/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2015 12:27:13 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Circuit Design and Prototyping]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=2074</guid>
+
+					<description><![CDATA[For my final project in Circuit Design and Prototyping, I plan to make a customized muscle sensor (EMG) for my thesis MASK, and the idea is to use the data as a measurement of mask wearer&#8217;s nervousness, and try to cope with it with MASK (virtually and hopefully also physically). Research Tutorials: DIY EEG Circuit, DIY EMG [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>For my final project in Circuit Design and Prototyping, I plan to make a customized muscle sensor (EMG) for my thesis MASK, and the idea is to use the data as a measurement of mask wearer&#8217;s nervousness, and try to cope with it with MASK (virtually and hopefully also physically).</p>
+<p>Research</p>
+<ul>
+<li>Tutorials: <a href="http://www.instructables.com/id/DIY-EEG-and-ECG-Circuit/" target="_blank">DIY EEG Circuit</a>, <a href="http://www.instructables.com/id/Muscle-EMG-Sensor-for-a-Microcontroller/" target="_blank">DIY EMG Circuit</a></li>
+<li>Documents: <a href="http://cdn.intechopen.com/pdfs-wm/40131.pdf" target="_blank">1</a>(general introduction ppt), <a href="http://research.ijcaonline.org/volume82/number1/pxc3892073.pdf" target="_blank">2</a>(detailed paper), <a href="http://cdn.intechopen.com/pdfs-wm/40131.pdf" target="_blank">3</a>(a chapter of a book)</li>
+<li>Products: <a href="https://www.sparkfun.com/products/13027" target="_blank">Sparkfun</a>, Backyard Brains(<a href="https://backyardbrains.com/products/emgspikershield" target="_blank">1</a>, <a href="https://backyardbrains.com/products/emgspikershield" target="_blank">2</a>, <a href="https://backyardbrains.com/products/emgTwoChannelSpikerbox" target="_blank">3</a>[2 channels!])</li>
+</ul>
+<p>Breadboarding</p>
+<p><img loading="lazy" class="alignnone" src="https://lh6.googleusercontent.com/-nIU_87WcyAg/VR0wffuczRI/AAAAAAAAHXo/shEhvu_HQYc/w891-h668-no/IMG_20150402_013726.jpg" alt="" width="891" height="668" /></p>
+<p>This is the first attempt to breadboard the muscle sensor, based on the design of the one on Sparkfun and also the tutorials on instructables. Because I don&#8217;t have the component, e.g. instrumentation amp, specific resistors, there are a lot of hacky moves, and I need sticker patch electrodes, 9v batteries*2, and components to know if it&#8217;s working or not :/</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/04/muscleSensorBB.png"><img loading="lazy" class="alignnone size-full wp-image-2080" src="http://www.jhclaura.com/wp-content/uploads/2015/04/muscleSensorBB.png" alt="muscleSensorBB" width="2312" height="1734" /></a></p>
+<p><img loading="lazy" class="alignnone" src="https://lh4.googleusercontent.com/-NKQ_xFC0_nM/VR0wfdiIR9I/AAAAAAAAHXo/S10PaKtHsm0/w501-h668-no/IMG_20150402_013604.jpg" alt="" width="501" height="668" /> &lt;&#8211; originally thinking to hook up two power supplies, but because it requires one&#8217;s positive connecting to another&#8217;s negative, I think I should ask Eric first to see if it&#8217;s safe to do that instead of using two batteries</p>
+<p>&nbsp;</p>
+<p>Next steps</p>
+<ol>
+<li>Order components (Should I order both surface mount(for final) and through hole(for testing)?)</li>
+<li>Combine and adjust SpikeShield 2-Channel SpikerBox&#8217; schematics, so having two inputs for microcontroller (using ATTINY)</li>
+<li>Design the shape and arrangement of the circuit to fit on the mask</li>
+<li>Qs to answer
+<ul>
+<li>What&#8217;s the power supply strategy to integrate microcontroller on the same board, with 9V for sensors and 3~5V for microcontroller?</li>
+<li>&#8230;</li>
+</ul>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>Getting excited :DDD Lots of work and to be continued!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/04/02/muscle-sensor-mask-version/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>sound to light boards * 3!</title>
+		<link>/2015/03/12/sound-to-light-boards-3/</link>
+					<comments>/2015/03/12/sound-to-light-boards-3/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 12 Mar 2015 15:10:21 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Circuit Design and Prototyping]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=2071</guid>
+
+					<description><![CDATA[And the midterm presentation!]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone" src="https://lh6.googleusercontent.com/-TucczYzHws0/VQGo8yRczhI/AAAAAAAAGoY/C9mV2hxkE0Q/w801-h601-no/IMG_20150311_150200.jpg" alt="" width="801" height="601" /></p>
+<p>And the midterm presentation!</p>
+<p><iframe loading="lazy" src="https://docs.google.com/presentation/d/1kT6awbia1Q-YmmlUTn5IFI2gLRss4tzFVjD1Uuj36As/embed?start=false&amp;loop=false&amp;delayms=3000" width="960" height="569" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/03/12/sound-to-light-boards-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Roland &#038; Surface mount soldering</title>
+		<link>/2015/03/06/roland-surface-mount-soldering/</link>
+					<comments>/2015/03/06/roland-surface-mount-soldering/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 06 Mar 2015 19:05:01 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Circuit Design and Prototyping]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=2063</guid>
+
+					<description><![CDATA[3/6 2nd try &#8211; SUCCEEDED! Still couldn&#8217;t find 100 ohm resistor, so I tested with breadboard first and decided to use 68 ohm resistor. Extended 1/64 short wire Replaced some 1/64 with 1/32 to speed up milling &#160; 3/5 1st try &#8211; FAILED! When wiring 1/64 route for milling in Eagle, I made them too [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>3/6</p>
+<p>2nd try &#8211; SUCCEEDED!</p>
+<p><iframe loading="lazy" src="https://player.vimeo.com/video/121487044?color=c9ff23" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<ol>
+<li>Still couldn&#8217;t find 100 ohm resistor, so I tested with breadboard first and decided to use 68 ohm resistor.</li>
+<li>Extended 1/64 short wire</li>
+<li>Replaced some 1/64 with 1/32 to speed up milling</li>
+</ol>
+<p><img loading="lazy" class="alignnone" src="https://lh4.googleusercontent.com/8JJQzzwSP1EvX8FY3hdxkH0eV0TGO9Y2eZul7cxAM24=w801-h601-no" alt="" width="801" height="601" /></p>
+<p>&nbsp;</p>
+<p>3/5</p>
+<p>1st try &#8211; FAILED!</p>
+<ol>
+<li>When wiring 1/64 route for milling in Eagle, I made them too short underneath resistor and LEDs thus made circuits inseparate</li>
+<li>Wrong wiring to block the resistor to ground O_O <a href="http://www.jhclaura.com/wp-content/uploads/2015/03/mistake_1.png"><img loading="lazy" class="alignnone size-full wp-image-2066" src="http://www.jhclaura.com/wp-content/uploads/2015/03/mistake_1.png" alt="mistake_1" width="1000" height="483" /></a></li>
+<li>Couldn&#8217;t find 100 resistor and used 220 resistor &#8211;&gt; too much!</li>
+<li>So now it rest on my <strong><span style="font-family: 'Andale Mono', Times; color: #00d1c7;"><em>Failure Wall </em></span></strong><img loading="lazy" class="alignnone" src="https://lh5.googleusercontent.com/-Hkt_wn1kNjU/VPnsi0BJ6JI/AAAAAAAAGKo/BKTRPDIMNzE/w801-h601-no/IMG_20150306_130318.jpg" alt="" width="801" height="601" /></li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/03/06/roland-surface-mount-soldering/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Prepared to roland!</title>
+		<link>/2015/02/26/prepared-to-roland/</link>
+					<comments>/2015/02/26/prepared-to-roland/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 27 Feb 2015 02:35:45 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Circuit Design and Prototyping]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=2060</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-26-at-8.41.47-PM.png"><img loading="lazy" class="alignnone size-full wp-image-2061" src="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-26-at-8.41.47-PM.png" alt="Screen Shot 2015-02-26 at 8.41.47 PM" width="1440" height="900" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/02/26/prepared-to-roland/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>sound to light analog circuit!</title>
+		<link>/2015/02/22/sound-to-light-analog-circuit/</link>
+					<comments>/2015/02/22/sound-to-light-analog-circuit/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 23 Feb 2015 04:04:53 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Circuit Design and Prototyping]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=2025</guid>
+
+					<description><![CDATA[Reference: instructables&#60;3 I. Breadboarding &#160; II. Eagle Based on the tutorial of instructables, after calculation, with 9V input and yellow LEDs, I use 3 for 4 series, so total 12 LEDs, and the resistor connected to transistor will be 2.2k Ohm, and the one connected to emitter will be 22 Ohm. The most challenging part [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Reference: <span style="color: #00ccff;"><a style="color: #00ccff;" href="http://www.instructables.com/id/A-wearable-sound-to-light-display-without-a-micro/" target="_blank">instructables</a></span>&lt;3</p>
+<h2>I. Breadboarding</h2>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/02/soudntolight_schematic.jpg"><img loading="lazy" class="alignnone size-full wp-image-2026" src="http://www.jhclaura.com/wp-content/uploads/2015/02/soudntolight_schematic.jpg" alt="soudntolight_schematic" width="1000" height="678" /><br />
+</a> <a href="http://www.jhclaura.com/wp-content/uploads/2015/02/soundtolight.jpeg"><img loading="lazy" class="alignnone size-full wp-image-2027" src="http://www.jhclaura.com/wp-content/uploads/2015/02/soundtolight.jpeg" alt="soundtolight" width="1000" height="601" /></a><br />
+<iframe loading="lazy" src="//player.vimeo.com/video/120332751?color=c9ff23" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>&nbsp;</p>
+<h2>II. Eagle</h2>
+<p>Based on the tutorial of instructables, after calculation, with 9V input and yellow LEDs, I use 3 for 4 series, so total 12 LEDs, and the resistor connected to transistor will be 2.2k Ohm, and the one connected to emitter will be 22 Ohm.</p>
+<p>The most challenging part is routing on the board. How to have an efficient route map without overlapping? Here I did a dangerous move, having a route under the electret mic, between its positive and negative hole. Don&#8217;t know if it&#8217;s doable or not.</p>
+<p><span style="color: #ed005b;">[ UPDATED ]</span> It&#8217;s ok to route under the mic, but should be careful not touching the pad &#8211;&gt; adjust the width of the route to be thinner!</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-25-at-7.27.22-AM.png"><img loading="lazy" class="alignnone size-full wp-image-2032" src="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-25-at-7.27.22-AM.png" alt="Screen Shot 2015-02-25 at 7.27.22 AM" width="1127" height="595" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-25-at-12.14.52-PM.png"><img loading="lazy" class="alignnone size-full wp-image-2037" src="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-25-at-12.14.52-PM.png" alt="Screen Shot 2015-02-25 at 12.14.52 PM" width="1353" height="565" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-25-at-12.16.54-PM.png"><img loading="lazy" class="alignnone size-full wp-image-2038" src="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-25-at-12.16.54-PM.png" alt="Screen Shot 2015-02-25 at 12.16.54 PM" width="1319" height="534" /></a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/02/22/sound-to-light-analog-circuit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Surface mount soldering O_O!</title>
+		<link>/2015/02/17/surface-mount-soldering-o_o/</link>
+					<comments>/2015/02/17/surface-mount-soldering-o_o/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Wed, 18 Feb 2015 04:38:13 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Circuit Design and Prototyping]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=2020</guid>
+
+					<description><![CDATA[2/19 update, all LEDs lit up 😀 // &#160; Took so much time!! The issue is that the solder paste got cold so fast, and put it on top of the mug warmer would make it dry fast too! T_T The circle part is the only LED didn&#8217;t light up because I put too less [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>2/19 update, all LEDs lit up <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><iframe loading="lazy" src="https://player.vimeo.com/video/120095829?color=c9ff23" width="650" height="366" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p>//</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/02/solderedEye.jpg"><img loading="lazy" class="alignnone size-full wp-image-2021" src="http://www.jhclaura.com/wp-content/uploads/2015/02/solderedEye.jpg" alt="solderedEye" width="1000" height="750" /></a></p>
+<p>&nbsp;</p>
+<p>Took so much time!! The issue is that the solder paste got cold so fast, and put it on top of the mug warmer would make it dry fast too! T_T</p>
+<p>The circle part is the only LED didn&#8217;t light up because I put too less solder paste. Will try it again tomorrow <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/02/17/surface-mount-soldering-o_o/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Etching!</title>
+		<link>/2015/02/12/etching/</link>
+					<comments>/2015/02/12/etching/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 13 Feb 2015 02:42:36 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Circuit Design and Prototyping]]></category>
+		<category><![CDATA[developing]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=2012</guid>
+
+					<description><![CDATA[&#8211;&#62; Toxic process. Detailed process please see Michelle&#8217;s post! &#160; &#8211;&#62; Led EYE looks very aboriginal 😀 Left one is a failure because I just ran it through the laminating machine once&#8230; Should be 3-4 times! &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/02/eyeResult.jpg"><img loading="lazy" class="alignnone size-full wp-image-2014" src="http://www.jhclaura.com/wp-content/uploads/2015/02/process.jpg" alt="process" width="1000" height="750" /></a></p>
+<p>&#8211;&gt; Toxic process. Detailed process please see <span style="color: #00ccff;"><a style="color: #00ccff;" href="https://itp.nyu.edu/classes/cdp-spring2014/week-3/" target="_blank">Michelle&#8217;s post</a></span>!</p>
+<p>&nbsp;</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/02/eyeResult.jpg"><img loading="lazy" class="alignnone size-full wp-image-2013" src="http://www.jhclaura.com/wp-content/uploads/2015/02/eyeResult.jpg" alt="eyeResult" width="1000" height="671" /></a></p>
+<p>&#8211;&gt; Led EYE looks very aboriginal <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Left one is a failure because I just ran it through the laminating machine once&#8230; Should be <span style="color: #ff0051;">3-4 times</span>!</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/02/12/etching/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

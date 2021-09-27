@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>micro &#8211; ITP Days</title>
+	<atom:link href="/tag/micro/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Sat, 31 Jan 2015 20:27:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>micro &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>things through microscope</title>
+		<link>/2015/01/31/things-through-microscope/</link>
+					<comments>/2015/01/31/things-through-microscope/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sat, 31 Jan 2015 20:27:56 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Circuit Design and Prototyping]]></category>
+		<category><![CDATA[Spring 2015]]></category>
+		<category><![CDATA[micro]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1986</guid>
+
+					<description><![CDATA[I looked at LED, circuit board, paper, and herb tea through microscope. It&#8217;d be great if I can look at some twisting creatures.]]></description>
+										<content:encoded><![CDATA[<p>I looked at LED, circuit board, paper, and herb tea through microscope. It&#8217;d be great if I can look at some twisting creatures.</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/118354992?color=c9ff23" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/2015-01-31-12.55.18.jpg"><img loading="lazy" class="alignnone size-full wp-image-1987" src="http://www.jhclaura.com/wp-content/uploads/2015/01/2015-01-31-12.55.18.jpg" alt="2015-01-31 12.55.18" width="1500" height="1125" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/2015-01-31-13.14.25.jpg"><img loading="lazy" class="alignnone size-full wp-image-1988" src="http://www.jhclaura.com/wp-content/uploads/2015/01/2015-01-31-13.14.25.jpg" alt="2015-01-31 13.14.25" width="1500" height="1125" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/2015-01-31-13.15.42.jpg"><img loading="lazy" class="alignnone size-full wp-image-1989" src="http://www.jhclaura.com/wp-content/uploads/2015/01/2015-01-31-13.15.42.jpg" alt="2015-01-31 13.15.42" width="1500" height="1125" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/2015-01-31-13.19.56.jpg"><img loading="lazy" class="alignnone size-full wp-image-1990" src="http://www.jhclaura.com/wp-content/uploads/2015/01/2015-01-31-13.19.56.jpg" alt="2015-01-31 13.19.56" width="1500" height="1125" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/2015-01-31-13.27.39.jpg"><img loading="lazy" class="alignnone size-full wp-image-1991" src="http://www.jhclaura.com/wp-content/uploads/2015/01/2015-01-31-13.27.39.jpg" alt="2015-01-31 13.27.39" width="1500" height="1125" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/2015-01-31-13.34.43.jpg"><img loading="lazy" class="alignnone size-full wp-image-1992" src="http://www.jhclaura.com/wp-content/uploads/2015/01/2015-01-31-13.34.43.jpg" alt="2015-01-31 13.34.43" width="1500" height="1125" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/01/31/things-through-microscope/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

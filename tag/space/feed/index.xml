@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>space &#8211; ITP Days</title>
+	<atom:link href="/tag/space/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Tue, 04 Feb 2014 23:38:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>space &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A.Kitchen</title>
+		<link>/2014/02/04/a-kitchen/</link>
+					<comments>/2014/02/04/a-kitchen/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2014 23:38:36 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Spatial Media]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[space]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=950</guid>
+
+					<description><![CDATA[&#160; For the space redesign assignment of kitchen, I want to design a kitchen in tiny space, especially for someone live alone. I want it to be functional but at the same the most comfortable and relaxing place beside bedroom. Here&#8217;s my proposal.]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>For the space redesign assignment of kitchen, I want to design a kitchen in tiny space, especially for someone live alone. I want it to be functional but at the same the most comfortable and relaxing place beside bedroom.</p>
+<p>Here&#8217;s my proposal.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/02/AKitchen_Laura_Chen.jpg"><img loading="lazy" class="alignnone size-full wp-image-953" alt="AKitchen_Laura_Chen" src="http://www.jhclaura.com/wp-content/uploads/2014/02/AKitchen_Laura_Chen.jpg" width="1275" height="1650" srcset="/wp-content/uploads/2014/02/AKitchen_Laura_Chen.jpg 1275w, /wp-content/uploads/2014/02/AKitchen_Laura_Chen-232x300.jpg 232w, /wp-content/uploads/2014/02/AKitchen_Laura_Chen-791x1024.jpg 791w" sizes="(max-width: 1275px) 100vw, 1275px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/04/a-kitchen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

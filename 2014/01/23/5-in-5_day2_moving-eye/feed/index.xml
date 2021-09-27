@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 5-in-5_Day2_Moving Eye	</title>
+	<atom:link href="/2014/01/23/5-in-5_day2_moving-eye/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/01/23/5-in-5_day2_moving-eye/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Mon, 14 Apr 2014 00:20:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: Laura		</title>
+		<link>/2014/01/23/5-in-5_day2_moving-eye/#comment-11</link>
+
+		<dc:creator><![CDATA[Laura]]></dc:creator>
+		<pubDate>Mon, 14 Apr 2014 00:20:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=749#comment-11</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2014/01/23/5-in-5_day2_moving-eye/#comment-10&quot;&gt;multi&lt;/a&gt;.
+
+Hi, I didn&#039;t use any plugin for the comment form. Maybe it&#039;s set in either Appearance/Tools/Settings sections?]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2014/01/23/5-in-5_day2_moving-eye/#comment-10">multi</a>.</p>
+<p>Hi, I didn&#8217;t use any plugin for the comment form. Maybe it&#8217;s set in either Appearance/Tools/Settings sections?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

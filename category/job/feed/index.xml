@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Job &#8211; ITP Days</title>
+	<atom:link href="/category/job/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Thu, 26 Feb 2015 21:37:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>Job &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Note on creating 3D character for Kinect</title>
+		<link>/2015/02/26/note-on-creating-3d-character-for-kinect/</link>
+					<comments>/2015/02/26/note-on-creating-3d-character-for-kinect/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 26 Feb 2015 21:37:47 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Job]]></category>
+		<category><![CDATA[Spring 2015]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=2043</guid>
+
+					<description><![CDATA[This is a note on how I created 3D characters with Three.js for performers to control with Kinect, as part of professor Shawn Van Every&#8217;s project in Future of Storytelling. The idea is creating conversations between dancers and audiences through internet, thus audiences aren&#8217;t restricted within theatre. Inspiration key points: neutral characteristic for audience to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>This is a note on how I created 3D characters with Three.js for performers to control with Kinect, as part of professor Shawn Van Every&#8217;s project in Future of Storytelling. The idea is creating conversations between dancers and audiences through internet, thus audiences aren&#8217;t restricted within theatre.</p>
+<p><span style="font-size: 14pt; font-family: 'Andale Mono', Times;"><strong>Inspiration</strong></span></p>
+<ul>
+<li>key points: neutral characteristic for audience to easily relate to, simple and related action, the feeling of magic</li>
+</ul>
+<p>( insert video inspiration )</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt; font-family: 'Andale Mono', Times;"><strong>Experiment</strong></span></p>
+<p><a href="https://i-msdn.sec.s-msft.com/dynimg/IC584844.png" target="_blank"><img loading="lazy" class="alignnone" src="https://i-msdn.sec.s-msft.com/dynimg/IC584844.png" alt="" width="351" height="330" /></a>&lt;&#8211;What you can get from Kinect</p>
+<p><a href="https://github.com/jhclaura/stickFigure/raw/master/images/stickFigure_joints.png"><img loading="lazy" class="alignnone" src="https://github.com/jhclaura/stickFigure/raw/master/images/stickFigure_joints.png" alt="" width="447" height="299" /></a>&lt;&#8211;My simplified version</p>
+<p>To represent joints data as dancers, I tried different ways: 2D &#8211; plane, 3D &#8211; separate geometry, skeletal geometry, and joint geometry, and so far the most satisfying versions are 2D plane and 3D joint geometry, and the skeletal geometry didn&#8217;t suit this project because of the hierarchy structure of it, e.g. change joint_0 will also change joint_1, because joint_0 is the parent of joint_1.</p>
+<p>( insert video documentations )</p>
+<p><strong><span style="font-family: 'Andale Mono', Times;">2D plane version</span></strong></p>
+<p><strong>Steps</strong></p>
+<ol>
+<li>draw texture for limbs first<a href="http://www.jhclaura.com/wp-content/uploads/2015/02/bear.png"><img loading="lazy" class="alignnone size-full wp-image-2045" src="http://www.jhclaura.com/wp-content/uploads/2015/02/bear.png" alt="bear" width="1000" height="223" /></a></li>
+<li>based on the size of each picture, create THREE.PlaneGeometry</li>
+<li>offset the geometry &#8211;&gt; change the pivot to appropriate position, e.g. the head is rotating around neck, not around nose.<a href="http://www.jhclaura.com/wp-content/uploads/2015/02/offset.png"><img loading="lazy" class="alignnone size-full wp-image-2046" src="http://www.jhclaura.com/wp-content/uploads/2015/02/offset.png" alt="offset" width="500" height="244" /></a>
+<ul>
+<li>code example:
+<ul>
+<li>headTexHeight = headTex.image.height/111, headTexWidth = headTex.image.width/111;</li>
+<li>var headGeo = new THREE.PlaneGeometry(headTexWidth, headTexHeight);</li>
+<li>transY(headGeo, 4);</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>To make bear body part follow joint data, updating the position of bear body with joint data.</li>
+<li>Use <a href="http://threejs.org/docs/#Reference/Core/Object3D" target="_blank">lookAt</a> ( Rotates object to face point in space ) function of Three.js to update the rotation of bear body. !!Note!! also use matrix rotation to make sure the direction of rotation<a href="http://www.jhclaura.com/wp-content/uploads/2015/02/preRotate.png"><img loading="lazy" class="alignnone size-full wp-image-2049" src="http://www.jhclaura.com/wp-content/uploads/2015/02/preRotate.png" alt="preRotate" width="500" height="258" /></a></li>
+<li>To have stretchy effect, scale the bear body base on the distance changes between joints.
+<ul>
+<li>hL2.lookAt(joints[5].position);</li>
+<li>hL2.position.copy(joints[0].position);</li>
+<li>hL2MoveX = Math.sqrt(Math.pow((joints[0].position.x &#8211; joints[5].position.x), 2))-5;</li>
+<li>hL2MoveY = Math.sqrt(Math.pow((joints[0].position.y &#8211; joints[5].position.y), 2))-2;</li>
+<li>hL2.scale.set(1, 1, 1+( hL2MoveX/armULTexWidth + hL2MoveY/armULTexHeight/2 ));</li>
+</ul>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p><span style="font-family: 'Andale Mono', Times;"><strong>3D joint version</strong></span></p>
+<p>Steps</p>
+<ol>
+<li>Build 3D model in Maya</li>
+<li>Create joints<a href="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-26-at-4.17.27-PM.png"><img loading="lazy" class="alignnone size-full wp-image-2052" src="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-26-at-4.17.27-PM.png" alt="Screen Shot 2015-02-26 at 4.17.27 PM" width="1000" height="573" /></a></li>
+<li>Skin bind the joint with model</li>
+<li>Skin weight paint to fixed the weight of binding, creating smooth transformation<a href="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-26-at-4.18.04-PM.png"><img loading="lazy" class="alignnone size-full wp-image-2053" src="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-26-at-4.18.04-PM.png" alt="Screen Shot 2015-02-26 at 4.18.04 PM" width="1000" height="571" /></a></li>
+<li>Export as FBX file, and then import to Blender, and then export as JS file (I know there&#8217;s a lot of detouring, but it&#8217;s so far the only successful method I&#8217;ve tried)<a href="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-26-at-4.20.45-PM.png"><img loading="lazy" class="alignnone size-full wp-image-2054" src="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-26-at-4.20.45-PM.png" alt="Screen Shot 2015-02-26 at 4.20.45 PM" width="1000" height="578" /></a></li>
+<li>Compared with 2D version&#8217;s hacky way to update the position of character&#8217;s body part, the skinned mesh is much easier to do the animation. Since the geometry is already binded with joints, what I have to do is updating the joint position correctly.
+<ol>
+<li>elmoBone[0].position.copy( joints[5].position );</li>
+</ol>
+</li>
+<li>For the rotation part, I can get the desired rotation angle based on the relationship of each joints&#8217; positions<a href="http://www.jhclaura.com/wp-content/uploads/2015/02/rotate.png"><img loading="lazy" class="alignnone size-full wp-image-2056" src="http://www.jhclaura.com/wp-content/uploads/2015/02/rotate.png" alt="rotate" width="1000" height="487" /></a>
+<ol>
+<li>lengthForRot = elmoBone[3].position.distanceTo( elmoBone[2].position );<br />
+rotForJoint = Math.asin( (elmoBone[3].position.y-elmoBone[2].position.y)/lengthForRot );<br />
+elmoBone[3].rotation.y = rotForJoint;</li>
+</ol>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>And here&#8217;s a snippet!</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-26-at-4.36.35-PM.png"><img loading="lazy" class="alignnone size-full wp-image-2058" src="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-26-at-4.36.35-PM.png" alt="Screen Shot 2015-02-26 at 4.36.35 PM" width="823" height="370" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/02/26/note-on-creating-3d-character-for-kinect/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Virtual Reality Tour of Met</title>
+		<link>/2014/05/09/virtual-reality-tour-of-met/</link>
+					<comments>/2014/05/09/virtual-reality-tour-of-met/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 09 May 2014 22:40:34 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Job]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[3D]]></category>
+		<category><![CDATA[Oculus Rift]]></category>
+		<category><![CDATA[The Metropolitan Museum of Art]]></category>
+		<category><![CDATA[tour]]></category>
+		<category><![CDATA[Unity]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1444</guid>
+
+					<description><![CDATA[For my internship during Spring semester 2014 in Media Lab of The Metropolitan Museum of Art, I hooked up 3D models of Met from the Architecture Department Official Audio Guide 3D models art pieces in Greek and Roman gallery, made by 3D scan with photos Unity as game engine virtual reality head-mounted display Oculus Rift as [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>For my internship during Spring semester 2014 in Media Lab of The Metropolitan Museum of Art, I hooked up</p>
+<ol>
+<ol>
+<li>3D models of Met from the Architecture Department</li>
+<li>Official Audio Guide</li>
+<li>3D models art pieces in Greek and Roman gallery, made by 3D scan with photos</li>
+<li>Unity as game engine</li>
+<li>virtual reality head-mounted display Oculus Rift as controller</li>
+</ol>
+</ol>
+<p>and create an immersive virtual reality tour of Met!</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/98892817?byline=0&amp;color=c9ff23" width="840" height="473" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/05/forBlog.png"><img loading="lazy" class="alignnone size-full wp-image-1448" src="http://www.jhclaura.com/wp-content/uploads/2014/05/forBlog.png" alt="forBlog" width="1000" height="548" /></a> With Oculus Rift, users can wonder around the museum, listening to the audio guide and admiring art pieces, walk upstair, watch butterflies, being blocked by huge bowl, and being inside of the surreal mash-up models(credits to Decho&lt;horse&gt; and Rui&lt;uncolor triangulars&gt;). <a href="http://www.jhclaura.com/wp-content/uploads/2014/05/metTour.png"><img loading="lazy" class="alignnone size-full wp-image-1446" src="http://www.jhclaura.com/wp-content/uploads/2014/05/metTour.png" alt="metTour" width="3318" height="804" /></a></p>
+<h2><span style="font-family: 'andale mono', times;">IDEA</span></h2>
+<p>With a background as VFX artist of 3D animation and post production, I&#8217;m always interested in 3D and how it can be interactive in the creative way. Once I got the chance to intern in Media Lab of the Met and knew we can access the 3D models of museum, I wanted to use Oculus Rift to walk inside the fantasy version of the Met, and to enjoy the immersive experience in space.</p>
+<p>&nbsp;</p>
+<h2><span style="font-family: 'andale mono', times;">PROJECT_DEVELOPMENT</span></h2>
+<p>Virtual Met Museum &#8211;&gt; Fantasy Experiment &#8211;&gt; Art piece + Audio Guide</p>
+<p>&nbsp;</p>
+<h2><span style="font-family: 'andale mono', times;">BASIC_SETUP_HOW_TO</span></h2>
+<p style="padding-left: 30px;">First of all, tons of basic knowledge about Unity <a href="https://unity3d.com/learn/tutorials/projects/stealth" target="_blank">here</a>. And setup a project from scratch, <a href="https://unity3d.com/learn/tutorials/projects/roll-a-ball/set-up" target="_blank">here</a>.</p>
+<p>&nbsp;</p>
+<h3><span style="font-family: 'andale mono', times;"><span style="color: #545454;">✓ </span>Import BIM 3D models into Unity</span></h3>
+<p style="padding-left: 30px;">Basically just put the <strong>fbx</strong> file into the <span style="color: #ff6600;"><strong>Assets</strong></span> folder of the project you just created. Not too complicated but there&#8217;s one thing you should be aware of, the SCALE. It&#8217;s a good practice to setup scale right in the modeling application before importing the model to Unity, and associated details described as below:</p>
+<ul>
+<li>1 Unity unit = 1m</li>
+<li>the fewer GameObjects the better. Also, use 1 material if you can</li>
+<li>useful link: <a href="http://wiki.unity3d.com/index.php/Tips#3D_Tools" target="_blank">wiki unity3d</a></li>
+</ul>
+<p>&nbsp;</p>
+<h3><span style="font-family: 'andale mono', times;"><span style="color: #545454;">✓ </span>Oculus Rift Plugin in Unity 3d Setup</span></h3>
+<p style="padding-left: 30px;">Just follow<a href="https://www.youtube.com/watch?v=7kuQYcIYPvQ" target="_blank"> the clear instruction on youtube</a>!</p>
+<p>&nbsp;</p>
+<h3><span style="font-family: 'andale mono', times;"><span style="color: #545454;">✓ Add collider to meshes</span></span></h3>
+<p style="padding-left: 30px;">In order to preventing player walking through meshes(e.g. walls, stairs), we need to add <span style="color: #ff6600;"><strong>Collider</strong></span> attribute on models, steps as below:</p>
+<ul>
+<li>select model</li>
+<li>@inspector</li>
+<li><span style="color: #ff6600;"><strong>Add Component</strong></span> &#8211;&gt; <strong><span style="color: #ff6600;">Physics</span></strong> &#8211;&gt; <span style="color: #ff6600;"><strong>Box Collider</strong></span> or <strong><span style="color: #ff6600;">Mesh Collider</span></strong></li>
+<li>Mesh Collider is more specific than box collider but at the same time is more expensive to use.</li>
+</ul>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/05/collider-copy.png"><img loading="lazy" class="alignnone size-full wp-image-1456" src="http://www.jhclaura.com/wp-content/uploads/2014/05/collider-copy.png" alt="collider copy" width="1000" height="537" /></a></p>
+<p>&nbsp;</p>
+<h3><span style="font-family: 'andale mono', times;"><span style="color: #545454;">✓ </span>Occlusion Culling</span></h3>
+<p style="padding-left: 30px;">Means that things you aren&#8217;t looking at, aren&#8217;t loading into memory, so game will run faster.</p>
+<ul>
+<li> geometry must be broken into sensibly sized pieces.
+<ul>
+<li>if you have one object that contains all the furniture, either all or none of the entire set of furniture will be culled.</li>
+</ul>
+</li>
+<li>tag all scene objects that you want to be part of the occlusion to <b>Occluder Static</b> in the <b>Inspector</b>.</li>
+<li>Back!</li>
+<li>useful link: <a href="https://docs.unity3d.com/Documentation/Manual/OcclusionCulling.html" target="_blank">unity3d manual</a></li>
+</ul>
+<p>&nbsp;</p>
+<h3><span style="font-family: 'andale mono', times;"><span style="color: #545454;">✓ Import 3D-Scanned Models from </span></span></h3>
+<ul>
+<li>Take about 20 photos around the object you want to 3D scan of(360 degrees!).</li>
+<li>Upload the photos to <a href="http://www.123dapp.com/catch" target="_blank">123D Catch</a>.</li>
+<li>Yeah now you&#8217;ll have both .obj model file and texture file!</li>
+<li>Just download the file, and drag whole folder into the <span style="color: #ff6600; font-size: 12pt;"><strong>Asset</strong></span> folder of Unity!</li>
+</ul>
+<p>&nbsp;</p>
+<h2><span style="font-family: 'andale mono', times;">POSSIBILITIES</span></h2>
+<ul>
+<li>Gain accessibility for people who can&#8217;t visit the museum in person.</li>
+<li>Installation design simulation.</li>
+</ul>
+<p>&nbsp;</p>
+<h2><span style="font-family: 'andale mono', times;">Thank_to</span></h2>
+<p style="padding-left: 30px;">It&#8217;s really a good experience interning at MediaLab of Met. I know I want to keep working on 3D and also step into virtual reality world with Oculus Rift, and it&#8217;s a great match that I can have this topic as my own project, and also match to the needs of Met! From this internship, I gained valuable resources from the museum, and also knowing amazing mentors and colleagues from Labs. This project leads me to the world of virtual reality and I&#8217;m glad and also thankful that I&#8217;m a Spring 14&#8242; intern of Media Lab of The Metropolitan Museum of Art.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/05/09/virtual-reality-tour-of-met/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

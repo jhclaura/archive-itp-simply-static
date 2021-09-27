@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bitter and sweet &#8211; ITP Days</title>
+	<atom:link href="/tag/bitter-and-sweet/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Sat, 04 Apr 2015 05:07:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>bitter and sweet &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WTF Moment_03</title>
+		<link>/2015/04/04/wtf-moment_03/</link>
+					<comments>/2015/04/04/wtf-moment_03/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sat, 04 Apr 2015 05:07:04 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Thesis - MASK]]></category>
+		<category><![CDATA[bitter and sweet]]></category>
+		<category><![CDATA[murmur]]></category>
+		<category><![CDATA[wtf]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=2294</guid>
+
+					<description><![CDATA[Debug forever and ever yeahhhhhhh. &#160;]]></description>
+										<content:encoded><![CDATA[<p>Debug forever and ever yeahhhhhhh.</p>
+<div id="attachment_372" style="width: 510px" class="wp-caption alignnone"><a href="http://itp.io/thesis/jhc551/wp-content/uploads/sites/617/2015/04/deltaError.gif"><img aria-describedby="caption-attachment-372" loading="lazy" class="wp-image-372 size-full" src="http://itp.io/thesis/jhc551/wp-content/uploads/sites/617/2015/04/deltaError.gif" alt="deltaError" width="500" height="294" /></a><p id="caption-attachment-372" class="wp-caption-text">Too big delta(speed to move the camera), just changing from 0.1 to 0.5</p></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/04/04/wtf-moment_03/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

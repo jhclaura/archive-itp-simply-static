@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Basic Analog Circuits &#8211; ITP Days</title>
+	<atom:link href="/category/spring-2014/basic-analog-circuits/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Sat, 22 Feb 2014 15:16:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>Basic Analog Circuits &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>555 transistor to flash LED!</title>
+		<link>/2014/02/22/555-transistor-to-flash-led/</link>
+					<comments>/2014/02/22/555-transistor-to-flash-led/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sat, 22 Feb 2014 15:16:06 +0000</pubDate>
+				<category><![CDATA[Basic Analog Circuits]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[circuits]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[pure electronic]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1127</guid>
+
+					<description><![CDATA[Flash the LED without Arduino. Pure electrons flow between resistors, capacitors, diodes, and 555 transistor. Feeling gradually getting more well along with electronic schematic. Love the class and teacher Eric! Proof below.]]></description>
+										<content:encoded><![CDATA[<p><img style="border-style: none; height: 467px; width: 605px;" alt="" src="http://www.basicanalogcircuits.com/Session_4_files/555_LED_Flasher.png" /></p>
+<p>Flash the LED <strong>without Arduino</strong>. Pure electrons flow between resistors, capacitors, diodes, and 555 transistor. Feeling gradually getting more well along with electronic schematic. Love the <a href="http://www.basicanalogcircuits.com/Syllabus.html" target="_blank"><strong>class</strong></a> and teacher Eric!</p>
+<p>Proof below.</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/87334047?byline=0&amp;color=c9ff23" height="394" width="700" allowfullscreen="" frameborder="0"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/22/555-transistor-to-flash-led/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Project Development Studio &#8211; ITP Days</title>
+	<atom:link href="/category/fall-2014/project-development-studio/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Tue, 30 Dec 2014 22:33:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>Project Development Studio &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>M a r e</title>
+		<link>/2014/12/30/m-a-r-e/</link>
+					<comments>/2014/12/30/m-a-r-e/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Tue, 30 Dec 2014 22:33:23 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Project Development Studio]]></category>
+		<category><![CDATA[final]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1795</guid>
+
+					<description><![CDATA[Description &#8220;Are you sure you are awake? Are you sure you are not in a dream?&#8221;It&#8217;s a journey to embrace discomforts and explore the unknown. Maximizing the immersive experience with visual, audio, and physical interactions, Mare let users to challenge their comfort zone and take in the rare stimulus which exists in dreams but people [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" src="//player.vimeo.com/video/115589955?color=c9ff23" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'Andale Mono', Times;">Description</span></strong></span></p>
+<div id="description">&#8220;Are you sure you are awake? Are you sure you are not in a dream?&#8221;It&#8217;s a journey to embrace discomforts and explore the unknown. Maximizing the immersive experience with visual, audio, and physical interactions, <i>Mare</i> let users to challenge their comfort zone and take in the rare stimulus which exists in dreams but people often easily forget.</div>
+</p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'Andale Mono', Times;">Keywords</span></strong></span></p>
+<div id="description">VR, Oculus Rift, 3D, Arduino, Web, Motor</div>
+</p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'Andale Mono', Times;">Official Website</span></strong></span></p>
+<div id="projectLink">
+<div id="urlPara">
+<div id="urlText"><strong><span style="color: #bf0404;"><a style="color: #bf0404;" href="http://mare-the-dream.tumblr.com/" target="_blank">mare-the-dream.tumblr</a></span></strong></div>
+</p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'Andale Mono', Times;">Personal Statement</span></strong></span></p>
+<div id="statement">“Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.” -Viktor FranklFascinated by Literary Nonsense, which has an beyond-our-grasp inscrutable logic, I found <i>Dream</i>extremely interesting. Dynamic, blur, nonsense, surreal, and easy to forget. Dream is an exciting world where any unexpected transition of scene, characters, and objects all seem to be normal, but it&#8217;s a personal, night-time-only world. Is it possible to replicate the experience of dreaming? Is it possible to change the world with different responses? Is it possible to share a personal dream? I want to build an journey to mimic the dream, where users can create their world based on their response to the stimulus, and enjoy the combination of rare objects and unexpected events.</div>
+</p>
+<p><strong><span style="font-family: 'Andale Mono', Times; font-size: 14pt;">Storyboard</span></strong></p>
+
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'Andale Mono', Times;">Background</span></strong></span></p>
+<div id="background">The visual and often illogical aspects of dreams make them perfect for out-of-the-box thinking stimulus, which is helpful to figure out some puzzles in life.</div>
+</p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'Andale Mono', Times;">Audience</span></strong></span></p>
+<div id="audience">Whoever wants to dream in daytime, and interests in adding some weird stimulus into daily life.</div>
+</p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'Andale Mono', Times;">User Scenario</span></strong></span></p>
+
+<p>User is invited to experience the journey. Sitting down first, user will be helped by me to put on the slippers(which are the foot-controller), headphone with microphone, and Oculus Rift.Then user need to follow the instructions from headphone, fronting the illogical events, and find the way to complete the journey, achieving the <i>Finale</i>.</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'Andale Mono', Times;">Implementation</span></strong></span></p>
+<h2><a href="http://www.jhclaura.com/wp-content/uploads/2014/12/components.png"><img loading="lazy" class="alignnone size-large wp-image-1812" src="http://www.jhclaura.com/wp-content/uploads/2014/12/components-1024x515.png" alt="components" width="1024" height="515" /></a></h2>
+<div id="tech">Using Oculus Rift, Three.js, Node.js, WebRTC, Arduino, and vibration motor to build an immersive surreal journey, lived on web.Mare is composed of <i>Intro</i>, the <i>Forest</i>, the <i>Surreal</i>, and the <i>Glitch</i>, and if users show enough strength throughout the journey, they might reach the hidden layer of dream, the <i>Finale.</i></div>
+</p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'Andale Mono', Times;">Conclusion</span></strong></span></p>
+<div id="conclusion">I learned it&#8217;s extremely challenging to make a playable game. Interactions have to be designed carefully to suit different response and what I assume to be normal is different from others most of the time.</div>
+</p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'Andale Mono', Times;">References</span></strong></span></p>
+<ul>
+<li id="references">Three.js library:<span style="color: #bf0404;"><a style="color: #bf0404;" href="%20http://threejs.org/" target="_blank"> http://threejs.org/</a></span></li>
+<li>Nature of Code: <span style="color: #bf0404;"><a style="color: #bf0404;" href="http://natureofcode.com/" target="_blank">http://natureofcode.com/</a></span></li>
+<li>WebVR tutorial: <span style="color: #bf0404;"><a style="color: #bf0404;" href="http://blog.tojicode.com/2014/07/bringing-vr-to-chrome.html" target="_blank">http://blog.tojicode.com/2014/07/bringing-vr-to-chrome.html</a></span></li>
+<li>Web Audio API tutorial: <span style="color: #bf0404;"><a style="color: #bf0404;" href="http://www.html5rocks.com/en/tutorials/webaudio/positional_audio/" target="_blank">http://www.html5rocks.com/en/tutorials/webaudio/positional_audio/</a></span></li>
+<li>Spherical-Harmonics formulate: <span style="color: #bf0404;"><a style="color: #bf0404;" href="http://paulbourke.net/geometry/sphericalh/" target="_blank">http://paulbourke.net/geometry/sphericalh/</a></span></li>
+<li>and last but not least, A-Glitch-Is-A-Glitch episode of Adventure time: <span style="color: #bf0404;"><a style="color: #bf0404;" href="http://curtisbaigent.com/Adventure-Time-A-Glitch-Is-A-Glitch" target="_blank">http://curtisbaigent.com/Adventure-Time-A-Glitch-Is-A-Glitch</a></span></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/12/30/m-a-r-e/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>[ Mare ] &#8211; script for instructions</title>
+		<link>/2014/11/13/mare-script-for-instructions/</link>
+					<comments>/2014/11/13/mare-script-for-instructions/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 13 Nov 2014 22:59:23 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Project Development Studio]]></category>
+		<category><![CDATA[script]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1725</guid>
+
+					<description><![CDATA[For Mare, I want to use audio as instructions to let users know what they should do in &#8220;the world&#8221;. And it&#8217;s my pleasure to have lovely Kate Godwin to be my instructor to comfort and lead users the way 😀 Here are some draft scripts of instructions. Basic lines to insert into Mare with Web Audio [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>For <strong><span style="color: #99cc00;"><a style="color: #99cc00;" href="http://mare-the-dream.tumblr.com/" target="_blank">Mare</a></span></strong>, I want to use audio as instructions to let users know what they should do in &#8220;the world&#8221;. And it&#8217;s my pleasure to have lovely <a href="http://make.kategodwin.com/" target="_blank">Kate Godwin</a> to be my instructor to comfort and lead users the way <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Here are some draft scripts of instructions. Basic lines to insert into <strong><a style="color: #99cc00;" href="http://mare-the-dream.tumblr.com/" target="_blank">Mare</a></strong> with Web Audio API to test with.</p>
+<ul>
+<li>Hmm&#8230; It&#8217;s 3 AM. Why are you here, standing in black instead of being in bed?</li>
+<li>Are you sure you are awake?</li>
+<li>Hey (different kinds of)</li>
+<li>You think you&#8217;re not sleeping.</li>
+<li>Are you sure?</li>
+<li>Please close your eyes. / Do you mind closing your eyes?</li>
+<li>Calm down.</li>
+<li>Don&#8217;t be afraid.</li>
+<li>Just do as I do.</li>
+<li>Louder?</li>
+<li>See. Very easy.</li>
+<li>~ small singing <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ~</li>
+<li>Just let go.</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/11/13/mare-script-for-instructions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mare</title>
+		<link>/2014/11/09/mare/</link>
+					<comments>/2014/11/09/mare/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 09 Nov 2014 20:31:42 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Project Development Studio]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[Daniel Shiffman]]></category>
+		<category><![CDATA[mare]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[Oculus Rift]]></category>
+		<category><![CDATA[project]]></category>
+		<category><![CDATA[three.js]]></category>
+		<category><![CDATA[Web Audio API]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1717</guid>
+
+					<description><![CDATA[The Dream. &#160; (Click to enter the official blog) It&#8217;s going to happen. Woohoo. What will be involved? Three.js Web Audio API Oculus Rift Foot controller(Arduino + Node.js) Special thanks to The Nature of Code by Daniel Shiffman]]></description>
+										<content:encoded><![CDATA[<p>The Dream.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/11/for-blog.png"><img loading="lazy" class="alignnone size-large wp-image-1726" src="http://www.jhclaura.com/wp-content/uploads/2014/11/for-blog-1024x613.png" alt="Mare" width="1024" height="613" /></a></p>
+<p>&nbsp;</p>
+<p>(Click to enter the official blog) It&#8217;s going to happen. Woohoo.</p>
+<p>What will be involved?</p>
+<ul>
+<li>Three.js</li>
+<li>Web Audio API</li>
+<li>Oculus Rift</li>
+<li>Foot controller(Arduino + Node.js)</li>
+<li>Special thanks to <a href="http://natureofcode.com/" target="_blank">The Nature of Code</a> by Daniel Shiffman</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/11/09/mare/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>[ d r e a m ] _ updated</title>
+		<link>/2014/10/23/d-r-e-a-m-_-updated/</link>
+					<comments>/2014/10/23/d-r-e-a-m-_-updated/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 23 Oct 2014 16:03:39 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Project Development Studio]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1714</guid>
+
+					<description><![CDATA[Physical changed from joystick to buttons for fitting into slippers slippers will arrive soon&#8230; Coding made a stand-alone version, working without plugging Oculus &#38; physical controller, for the convenience of coding and making scene trying objects chasing data tring physics and animation library]]></description>
+										<content:encoded><![CDATA[<p>Physical</p>
+<ul>
+<li>changed from joystick to buttons for fitting into slippers</li>
+<li>slippers will arrive soon&#8230;</li>
+</ul>
+<p>Coding</p>
+<ul>
+<li>made a stand-alone version, working without plugging Oculus &amp; physical controller, for the convenience of coding and making scene</li>
+<li>trying objects chasing data</li>
+<li>tring physics and animation library</li>
+<li></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/10/23/d-r-e-a-m-_-updated/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>[ D R E A M ] &#8211; final concept</title>
+		<link>/2014/10/16/d-r-e-a-m-final-concept/</link>
+					<comments>/2014/10/16/d-r-e-a-m-final-concept/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2014 19:02:04 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Project Development Studio]]></category>
+		<category><![CDATA[concept]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[presentation]]></category>
+		<category><![CDATA[project]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1704</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/concept_s.png"><img loading="lazy" class="alignnone wp-image-1705 size-full" src="http://www.jhclaura.com/wp-content/uploads/2014/10/concept_s.png" alt="concept_s" width="2500" height="1883" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/10/16/d-r-e-a-m-final-concept/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>D R E A M</title>
+		<link>/2014/10/07/d-r-e-a-m/</link>
+					<comments>/2014/10/07/d-r-e-a-m/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2014 01:24:27 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Project Development Studio]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1657</guid>
+
+					<description><![CDATA[(will be updated throughout the semester; last update time: 10/09/14)]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" src="https://docs.google.com/presentation/d/1sZ0oNpmgi67nGDSR8Yv2MJLVqf5ahni8DmHGdFYquho/embed?start=false&amp;loop=false&amp;delayms=3000" width="960" height="569" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>(will be updated throughout the semester; last update time: <span style="font-size: 12pt; color: #33cccc;"><strong>10/09/14</strong></span>)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/10/07/d-r-e-a-m/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Project Development Studio &#8211; Untangle Ideas for project</title>
+		<link>/2014/09/18/project-development-studio-untangle-ideas-for-project/</link>
+					<comments>/2014/09/18/project-development-studio-untangle-ideas-for-project/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 18 Sep 2014 15:23:24 +0000</pubDate>
+				<category><![CDATA[Project Development Studio]]></category>
+		<category><![CDATA[it's coming]]></category>
+		<category><![CDATA[omg]]></category>
+		<category><![CDATA[thesis]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1611</guid>
+
+					<description><![CDATA[T H E S I S     I S     C O M I N G      O M G. But this is not a thesis. So calm down. Yet still, please excuse me to use bullets to slowly untangle my thoughts. &#160; P R O B L E M S socially [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>T H E S I S     I S     C O M I N G      O M G.</p>
+<p>But this is not a thesis. So calm down. Yet still, please excuse me to use bullets to slowly untangle my thoughts.</p>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline;">P R O B L E M S</span></p>
+<ul>
+<li>socially awkward</li>
+<li>improve attention and social skills of children</li>
+<li>time control</li>
+<li>help building personal values
+<ul>
+<li>imprint period &#8211; from birth to 7 years</li>
+<li>modelling period &#8211; from 8 to 13 years</li>
+<li>socialization period &#8211; from 13 to 21 years</li>
+</ul>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">I N T E R E S T S</span></p>
+<ul>
+<li>perception &amp; imaginative
+<ul>
+<li><em>&#8220;Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.”</em></li>
+<li><em>“We are imaginative beasts.&#8221;</em></li>
+</ul>
+</li>
+<li>dream, waking dream</li>
+<li>details</li>
+<li>memory</li>
+<li>flow of time</li>
+<li>food</li>
+<li>game</li>
+</ul>
+<p>Before answering teacher Despina&#8217;s questions, I jotted down ideas came out from <em><strong>problems</strong>(public)</em> side and from <strong><em>interests</em></strong><em>(personal)</em> side, and I found I had more ideas about <strong><em>interests </em></strong>than <em><strong>problems</strong></em>, does it mean I&#8217;m a selfish person?</p>
+<p>&nbsp;</p>
+<p>And here&#8217;s the answer of Despina&#8217;s questions:</p>
+<ol>
+<li>A description of my project
+<ul>
+<li>&#8211; concise description of what your project is &#8211;&gt; <span style="color: #00d9c3;"><strong>An online journey within <span style="font-family: 'Andale Mono', Times; font-size: 12pt;"><em>Dream</em></span>, where world is ambiguous and fulls of traces for you to figure out; e.g. first person view game</strong></span>
+<ul>
+<li>&#8211; who is it for &#8211;&gt; <span style="color: #00d9c3;"><strong>Anyone who is troubled by tangled thoughts and feels lost in waking dream</strong></span></li>
+<li>&#8211; what do you want your user (even if it yourself) when interacting with the work to:
+<ul>
+<li>&#8211; &#8211; feel &#8211;&gt;<span style="color: #00d9c3;"><strong> Intrigued, surreal </strong></span></li>
+<li>&#8211; &#8211; do &#8211;&gt; <span style="color: #00d9c3;"><strong>Wonder in the world of the dream, embrace the emotions, and try to figure it out the circumstances</strong></span></li>
+<li>&#8211; &#8211; know (information and insights) &#8211;&gt; <span style="color: #00d9c3;"><strong>By collecting traces and clues in <span style="font-family: 'Andale Mono', Times;"><em>Dream</em></span>, users reflect it to their daily lives, knowing they are not the only one who lost, and hopefully feel less lost after that</strong></span></li>
+</ul>
+</li>
+<li>&#8211; what is the “problem” you are trying to solve and what is your recommended solution &#8211;&gt; <span style="color: #00d9c3;"><strong>problem: information explosion, tangled thoughts, lost feeling; solution: be in a place where users forget about reality, and spread positive(?) seed in user&#8217;s perception thus change user&#8217;s state of mind when user comes back to real life</strong></span></li>
+<li>&#8211; what are the opportunities that you see in the problem space &#8211;&gt;<span style="color: #00d9c3;"> <strong>???</strong></span></li>
+<li>&#8211; what are the general challenges in the problem area and what do you think will be your specific challenges &#8211;&gt;<span style="color: #00d9c3;"><strong> ???</strong></span></li>
+<li>&#8211; what research (with references) have you done so far (articles, related projects, materials etc) &#8211;&gt; <span style="color: #00d9c3;"><strong>Froid, David Lynch; keywords: dream, perception, memory</strong></span></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>What are the technical, spatial, interactional requirements for your project &#8211;&gt;<span style="color: #00d9c3;"> <strong>webGL/Three.js or Unity, screen based or Oculus Rift, game controller or hopefully physically involved</strong></span></li>
+<li>List of questions and answer them for your project &#8211;&gt; <span style="color: #00d9c3;"><strong>TO-DO</strong></span></li>
+<li>Your criteria of success &#8211;&gt; <span style="color: #00d9c3;"><strong>User leaves with smile</strong></span></li>
+<li>how do you plan to evaluate this success &#8211;&gt; <span style="color: #00d9c3;"><strong>1) Observe in present, 2) website visit count and duration w/ Google Analytics, 3) email/mail for getting feedback</strong></span></li>
+<li>Draft timeline of how you will spend the next 13(-3) weeks &#8211;&gt;<span style="color: #00d9c3;"><strong>TO-DO</strong></span></li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/09/18/project-development-studio-untangle-ideas-for-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

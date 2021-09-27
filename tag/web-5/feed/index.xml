@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>web &#8211; ITP Days</title>
+	<atom:link href="/tag/web-5/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Mon, 14 Apr 2014 02:41:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>web &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>{Rabbit_Hole}</title>
+		<link>/2014/04/13/composition-rabbit_hole/</link>
+					<comments>/2014/04/13/composition-rabbit_hole/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 14 Apr 2014 02:41:32 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Coding for Emotional Impact]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[Maya]]></category>
+		<category><![CDATA[project]]></category>
+		<category><![CDATA[three.js]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1409</guid>
+
+					<description><![CDATA[{currently works with Chrome and Firefox browser} For the composition assignment the final of Coding for Emotional Impact class, I want to create something with multiple layers and is self-explained. Inspired by the description of computer vision is a rabbit hole from Andy(because I&#8217;m learning Three.js by myself recently), I wanted to make a game about &#8220;Rabbit [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-size: 14pt;">{currently works with <span style="color: #000000;">Chrome</span> and Firefox browser}</span></p>
+<p>For <del>the composition assignment</del> the final of <em>Coding for Emotional Impact</em> class, I want to create something with multiple layers and is self-explained. Inspired by the description of computer vision is a rabbit hole from <a href="http://andysigler.com/" target="_blank">Andy</a>(because I&#8217;m learning <a href="http://threejs.org/" target="_blank">Three.js</a> by myself recently), I wanted to make a game about &#8220;Rabbit Hole&#8221;, and my biggest assumption is that everyone is sort of down the rabbit hole.</p>
+<p>ps. It&#8217;s not really a fun game to play. Still confusing should it be fun to play or just an emotion-building nowhere&#8230;</p>
+<div style="color: #222222;">&#8211; Title</div>
+<div style="color: #222222;"><strong><span style="font-size: 12pt;"><span style="font-family: 'andale mono', times;">Rabbit Hole</span></span></strong></div>
+<div style="color: #222222;"></div>
+<div style="color: #222222;"></div>
+<div style="color: #222222;">&#8211; Environment</div>
+<div style="color: #222222;"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/environment.png"><img loading="lazy" class="alignnone wp-image-1426 " src="http://www.jhclaura.com/wp-content/uploads/2014/04/environment.png" alt="environment" width="382" height="494" /></a>     <a href="http://www.jhclaura.com/wp-content/uploads/2014/04/environment2.png"><img loading="lazy" class="alignnone wp-image-1427 " src="http://www.jhclaura.com/wp-content/uploads/2014/04/environment2.png" alt="environment2" width="383" height="496" /></a></div>
+<div style="color: #222222;"></div>
+<div style="color: #222222;">&#8211; Audience</div>
+<div style="color: #222222;"><span style="font-family: 'andale mono', times; font-size: 12pt;">Whoever also down the rabbit hole or wonder how it feel down there.</span></div>
+<div style="color: #222222;"></div>
+<div style="color: #222222;"><span style="font-family: 'andale mono', times; font-size: 12pt;"> </span></div>
+<div style="color: #222222;">&#8211; Narrative arc</div>
+<div style="color: #222222;"><span style="font-family: 'Book Antiqua', Palatino; font-size: medium;"><span style="font-family: 'Andale Mono', Times;"><strong>Rabbit Hole</strong>&#8211;</span></span><span style="font-family: 'Book Antiqua', Palatino; font-size: medium; color: #888888;"><em>Metaphor for the conceptual path which is thought to lead to the true nature of reality. Infinitesimally deep and complex, venturing too far down is probably not that great of an idea.</em></span></div>
+<p dir="ltr"><span style="font-family: 'Andale Mono', Times; font-size: medium;"><strong>Literary Nonsense-</strong></span> <span style="font-size: medium; color: #808080;"><em><span style="line-height: 1.5em; font-family: 'Book Antiqua', Palatino;">has no system of logic, although it may imply the existence of an inscrutable one, just beyond our grasp.</span></em></span></p>
+<p dir="ltr">And below are three snapshots of what I&#8217;ve built so far. I made my own models in Maya and drew textures in Photoshop. <span style="color: #999999;"><del>Can&#8217;t view online because of some web-related issue I can&#8217;t solve to load the music</del></span>(SOLVED_by hard coding the url of music file path). But have no ideas how to do the transition from scene to scene&#8230;</p>
+<p dir="ltr">SCENE_ZERO: <a href="http://www.rabbithole.link/" target="_blank">http://www.rabbithole.link/</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/open.png"><img loading="lazy" class="alignnone size-full wp-image-1477" src="http://www.jhclaura.com/wp-content/uploads/2014/04/open.png" alt="open" width="800" height="403" /></a></p>
+<p dir="ltr">SCENE_ONE: <a href="http://www.rabbithole.link/index_D.html" target="_blank">http://www.rabbithole.link/index_D.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-13-at-10.26.14-PM.png"><img loading="lazy" class="alignnone size-full wp-image-1411" src="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-13-at-10.26.14-PM.png" alt="Screen Shot 2014-04-13 at 10.26.14 PM" width="800" height="436" /></a></p>
+<p dir="ltr">SCENCE_TWO: <a href="http://www.rabbithole.link/index_G.html" target="_blank">http://www.rabbithole.link/index_G.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-13-at-10.27.30-PM.png"><img loading="lazy" class="alignnone size-full wp-image-1412" src="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-13-at-10.27.30-PM.png" alt="Screen Shot 2014-04-13 at 10.27.30 PM" width="800" height="436" /></a></p>
+<p dir="ltr">SCENE_THREE: <a href="http://www.rabbithole.link/index_S.html" target="_blank">http://www.rabbithole.link/index_S.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-20-at-6.44.00-PM.png"><img loading="lazy" class="alignnone size-full wp-image-1425" src="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-20-at-6.44.00-PM.png" alt="Screen Shot 2014-04-20 at 6.44.00 PM" width="800" height="397" /></a></p>
+<p dir="ltr">SCENE_FOUR: <a href="http://www.rabbithole.link/index_M.html" target="_blank">http://www.rabbithole.link/index_M.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/maze.png"><img loading="lazy" class="alignnone size-full wp-image-1463" src="http://www.jhclaura.com/wp-content/uploads/2014/04/maze.png" alt="maze" width="800" height="401" /></a></p>
+<p dir="ltr">SCENE_FIVE: <a href="http://www.rabbithole.link/index_T.html" target="_blank">http://www.rabbithole.link/index_T.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/TV.png"><img loading="lazy" class="alignnone size-full wp-image-1467" src="http://www.jhclaura.com/wp-content/uploads/2014/04/TV.png" alt="TV" width="800" height="295" /></a></p>
+<p dir="ltr">SCENE_SIX: <a href="http://www.rabbithole.link/index_F.html" target="_blank">http://www.rabbithole.link/index_F.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/jump.png"><img loading="lazy" class="alignnone size-full wp-image-1472" src="http://www.jhclaura.com/wp-content/uploads/2014/04/jump.png" alt="jump" width="800" height="397" /></a></p>
+<p dir="ltr">SCENE_SEVEN: <a href="http://www.rabbithole.link/index_V.html" target="_blank">http://www.rabbithole.link/index_V.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/voice.png"><img loading="lazy" class="alignnone size-full wp-image-1469" src="http://www.jhclaura.com/wp-content/uploads/2014/04/voice.png" alt="voice" width="800" height="309" /></a></p>
+<p dir="ltr">SCENE_EIGHT: <a href="http://www.rabbithole.link/index_E.html" target="_blank">http://www.rabbithole.link/index_E.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/Elevator.png"><img loading="lazy" class="alignnone size-full wp-image-1474" src="http://www.jhclaura.com/wp-content/uploads/2014/04/Elevator.png" alt="Elevator" width="800" height="399" /></a></p>
+<p dir="ltr">( Three.js + web stuff ) == super deep rabbit hole.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/04/13/composition-rabbit_hole/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Eat w/o Quilt.</title>
+		<link>/2014/02/24/eat-wo-quilt/</link>
+					<comments>/2014/02/24/eat-wo-quilt/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2014 03:32:25 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Mashups Web APIs]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[idea]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1147</guid>
+
+					<description><![CDATA[Happy Movie Night Woohoo! Let&#8217;s enjoy the lovely film with your nom nom food, without quilt. Type in the movie you want to watch. Type in the food you want to eat. Choose the workout you want to do. BANG. Just have the exact portion you get from website, and enjoy the film without even noticing you&#8217;re [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Happy Movie Night Woohoo! Let&#8217;s enjoy the lovely film with your nom nom food, <strong>without quilt</strong>.</p>
+<p>Type in the movie you want to watch. Type in the food you want to eat. Choose the workout you want to do.</p>
+<p>BANG. Just have the exact portion you get from website, and enjoy the film without even noticing you&#8217;re exercising.</p>
+<h1><a style="font-size: 14px; line-height: 1em;" href="http://www.jhclaura.com/wp-content/uploads/2014/02/Eat-wo-Quilt.jpg"><img loading="lazy" class="alignnone  wp-image-1149" alt="Eat wo Quilt" src="http://www.jhclaura.com/wp-content/uploads/2014/02/Eat-wo-Quilt-689x1024.jpg" width="516" height="768" /></a></h1>
+<p>&nbsp;</p>
+<p>API: <a href="https://developer.nutritionix.com/">Nutritionixn</a>, <a href="http://www.omdbapi.com/" target="_blank">OMDB</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/24/eat-wo-quilt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>answers to hw and hopely to project</title>
+		<link>/2014/02/13/answers-to-hw-and-hopely-to-project/</link>
+					<comments>/2014/02/13/answers-to-hw-and-hopely-to-project/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2014 19:37:24 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Mashups Web APIs]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1060</guid>
+
+					<description><![CDATA[Answer#1 var print = &#34;#&#34;; for(var i=0; i&#60;7; i++){ console.log(print); print += &#34;#&#34;; } Answer#2 for(var i=0; i&#60;100; i++){ if((i+1)%3==0 &#124;&#124; (i+1)%5==0){ console.log(&#34;FizzBuzz&#34;); } else { console.log(i+1); } } Answer#3 var size = 8; var print1 = &#34;#&#34;; var print2 = &#34; &#34;; var printFinal1 = &#34;&#34;; var printFinal2 = &#34;&#34;; for(var i=1; i&#60;size+1; i++){ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Answer#1</p>
+<pre class="brush: javascript; gutter: true">var print = &quot;#&quot;;
+for(var i=0; i&lt;7; i++){
+
+	console.log(print);
+	print += &quot;#&quot;;	
+}</pre>
+<p>Answer#2</p>
+<pre class="brush: javascript; gutter: true">for(var i=0; i&lt;100; i++){
+
+	if((i+1)%3==0 || (i+1)%5==0){
+		console.log(&quot;FizzBuzz&quot;);
+	} else {
+	console.log(i+1);
+	}
+}</pre>
+<p>Answer#3</p>
+<pre class="brush: javascript; gutter: true">var size = 8;
+var print1 = &quot;#&quot;;
+var print2 = &quot; &quot;;
+var printFinal1 = &quot;&quot;;
+var printFinal2 = &quot;&quot;;
+for(var i=1; i&lt;size+1; i++){
+	if (i%2==1){
+		printFinal1+=print1;
+		printFinal2+=print2;
+	}
+	else{
+		printFinal1+=print2;
+		printFinal2+=print1;
+	}
+}
+
+for(var i=0; i&lt;printFinal.length; i++){
+	if(i%2==0){
+		console.log(printFinal1);
+	} else {
+		console.log(printFinal2);
+	}
+}</pre>
+<p>Yeah hay.</p>
+<p>As for the project that</p>
+<blockquote><p>Create a single web page experience that, <span style="text-decoration: underline;">upon user input</span>, responds with data from<span style="text-decoration: underline;"> at least 2 web apis</span>. (1) a user needs to &#8220;trigger&#8221; an event, (2) data needs to be requested via AJAX from two APIs, (3) and the page should update appropriately.</p></blockquote>
+<p>I&#8217;m not sure yet&#8230; stiill tuning!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/13/answers-to-hw-and-hopely-to-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

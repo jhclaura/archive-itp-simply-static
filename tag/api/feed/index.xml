@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>api &#8211; ITP Days</title>
+	<atom:link href="/tag/api/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Sun, 02 Mar 2014 19:57:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>api &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>HealthyMovieNight</title>
+		<link>/2014/03/02/healthymovienight/</link>
+					<comments>/2014/03/02/healthymovienight/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 02 Mar 2014 19:57:29 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Mashups Web APIs]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[life]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1161</guid>
+
+					<description><![CDATA[(click pic to enter) Idea: choose your movie choose your food give me your weight movie length * calories burn by exercising per min = calories of food in certain amount you have. Issues: hard to find regular food calories API right now just use the first item in the array pizza has no serving [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h1><a href="http://jhclaura.com/meshup/HealthyMovieNight/index.html"><img loading="lazy" class="alignnone size-large wp-image-1149" alt="Eat wo Quilt" src="http://www.jhclaura.com/wp-content/uploads/2014/02/Eat-wo-Quilt-689x1024.jpg" width="689" height="1024" /></a></h1>
+<h2><strong><span style="color: #07f7d5;">(click pic to enter)</span></strong></h2>
+<p>Idea:</p>
+<ol>
+<li>choose your movie</li>
+<li>choose your food</li>
+<li>give me your weight</li>
+<li>movie length * calories burn by exercising per min = calories of food in certain amount you have.</li>
+</ol>
+<p>Issues:</p>
+<ol>
+<li>hard to find regular food calories API
+<ul>
+<li>right now just use the first item in the array</li>
+</ul>
+</li>
+<li>pizza has no serving size unit(null)</li>
+<li>id &#8211;&gt; name</li>
+</ol>
+<p>API:</p>
+<ol>
+<li><a href="http://docs.themoviedb.apiary.io/" target="_blank">The Movie Database API</a></li>
+<li><a href="https://developer.nutritionix.com/" target="_blank">Nutritionix</a></li>
+</ol>
+<p>Source:</p>
+<ul>
+<li><a href="http://www.nutristrategy.com/activitylist4.htm" target="_blank">Calories Burned During Exercise by NutriStrategy</a></li>
+</ul>
+<p>&nbsp;</p>
+<p>html</p>
+<pre class="brush: html; gutter: true">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;meta charset=&quot;utf-8&quot;/&gt;
+		&lt;title&gt; FanGuide &lt;/title&gt;
+		&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;style.css&quot;/&gt;
+
+		&lt;script type=&quot;text/javascript&quot; src=&quot;http://code.jquery.com/jquery-2.0.3.min.js&quot;&gt;&lt;/script&gt;
+		&lt;script type=&quot;text/javascript&quot; src=&quot;http://underscorejs.org/underscore-min.js&quot;&gt;&lt;/script&gt;
+
+	&lt;/head&gt;
+	&lt;body&gt;
+		&lt;p&gt;The Movie Tonight
+		&lt;input id=&quot;movie&quot; type=&quot;text&quot;/&gt;&lt;/p&gt;
+		&lt;p&gt;The Food Tonight
+		&lt;input id=&quot;food&quot; type=&quot;text&quot;/&gt;&lt;/p&gt;
+		&lt;p&gt;Feel Like
+		&lt;button id=&quot;saw&quot;&gt;Forestry&lt;/button&gt; 
+		&lt;button id=&quot;fish&quot;&gt;Fishing&lt;/button&gt;
+		&lt;button id=&quot;dance&quot;&gt;Ballet&lt;/button&gt;
+		&lt;button id=&quot;jog&quot;&gt;Water Jogging&lt;/button&gt;
+		Tonight&lt;/p&gt;
+		&lt;p&gt;Your Weight
+		&lt;input id=&quot;weight&quot; type=&quot;text&quot;/&gt;
+		&lt;button id=&quot;kgButton&quot;&gt;kg&lt;/button&gt;
+		&lt;button id=&quot;lbsButton&quot;&gt;lbs&lt;/button&gt;
+		&lt;/p&gt;
+
+		&lt;button id=&quot;searchButton&quot;&gt;Search&lt;/button&gt;
+		&lt;!-- &lt;button onClick=&quot;getFoodData();return false;&quot;&gt;ARMS Surveys&lt;/button&gt;
+		&lt;div id=&quot;divResultARMS&quot;&gt;&lt;/div&gt; --&gt;
+		&lt;!-- &lt;button id=&quot;update&quot;&gt;UPDATE&lt;/button&gt; --&gt;
+		&lt;div id=&quot;articles&quot;&gt;&lt;/div&gt;
+		&lt;div id=&quot;articles2&quot;&gt;&lt;/div&gt;
+
+	&lt;/body&gt;
+		&lt;script type=&quot;text/javascript&quot; src=&quot;script_new.js&quot;&gt;&lt;/script&gt;
+&lt;/html&gt;</pre>
+<p>js</p>
+<pre class="brush: javascript; gutter: true">var idMovie;
+var movieTitle;
+var duration;
+
+var idFood;
+var nameFood;
+var calories;
+var servingSize;
+var servingSizeUnit;
+
+var weightUnit;
+var exerciseType;	// int
+var exerciseTypeText;
+var caloriesExercise;
+
+var caloriesBurnAfterExersice;
+var amountToEat;
+
+var base_url = &quot;http://image.tmdb.org/t/p/w500&quot;;
+
+function getDuration(){
+	var url = &#039;https://api.themoviedb.org/3/&#039;,
+		mode = &#039;movie/&#039;,
+		key = &#039;?api_key=YourKey&#039;;
+
+	$.ajax({
+		url: url + mode + idMovie + key,
+		dataType: &#039;jsonp&#039;,
+		success: function(data){
+			console.log(data);
+			console.log(&quot;&lt;img srt=&quot;&quot; + base_url + data.backdrop_path + &quot;&quot;&gt;&quot;);
+
+			movieTitle = data.original_title;
+
+			duration = data.runtime;
+			$(&#039;#articles&#039;).append(&quot;&lt;div class=&#039;articleBox&#039;&gt;&quot;);
+			//$(&#039;#articles&#039;).append(&quot;&lt;p&gt;&quot; + movieTitle + &quot;&#039;s runtime: &quot; + duration +&quot;min&quot; + &quot;&lt;/p&gt;&quot;);
+			//$(&#039;#articles&#039;).append(&quot;&lt;img src=&quot;&quot; + base_url + data.backdrop_path + &quot;&quot;&gt;&quot;);
+			$(&#039;#articles&#039;).append(&quot;&lt;/div&gt;&quot;);
+
+			$(&#039;#articles&#039;).css({
+				&quot;color&quot;: &quot;white&quot;
+			});
+
+			$(&#039;body&#039;).css({
+				&quot;background-image&quot;: &quot;url(&quot;&quot; + base_url + data.backdrop_path + &quot;&quot;)&quot;,
+				&quot;color&quot;: &quot;white&quot;
+			});
+			getFoodID();
+		}
+	});
+
+}
+
+function getFoodID(){
+	var url = &#039;https://api.nutritionix.com/v1_1/&#039;,
+		search = &#039;search/&#039;,
+		appId = &#039;&amp;appId=YourId&#039;,
+		appKey = &#039;&amp;appKey=YourKey&#039;,
+		setUp = &#039;results=0%3A10&amp;cal_min=0&amp;cal_max=50000&amp;fields=item_name%2Cbrand_name%2Citem_id%2Cbrand_id&#039;;
+
+	var input = $(&#039;#food&#039;).val(),
+		foodName = encodeURI(input);
+
+	$.ajax({
+		url: url + search + foodName + &#039;?&#039; + setUp + appId + appKey,
+		dataType: &#039;json&#039;,
+
+		error: function(data){
+			console.log(&quot;Something wrong!&quot;);
+		},
+		success: function(data){
+			console.log(data);
+
+			idFood = data.hits[0]._id;
+			nameFood = data.hits[0].fields.brand_name + &quot;&#039;s &quot; + data.hits[0].fields.item_name;
+
+			console.log(idFood + nameFood);
+
+			getNutrition();
+		}
+	});
+
+}
+
+function getNutrition(){
+	var url = &#039;https://api.nutritionix.com/v1_1/&#039;,
+		item = &#039;item?&#039;,
+		appId = &#039;&amp;appId=YourId&#039;,
+		appKey = &#039;&amp;appKey=YourKey&#039;;
+
+	// nutrition search
+	$.ajax({
+		url: url + item + &#039;id=&#039; + idFood + appId + appKey,
+		dataType: &#039;json&#039;,
+
+		error: function(data){
+			console.log(&quot;Something wrong!&quot;);
+		},
+		success: function(data){
+			console.log(data);
+
+			// calories = data.nf_calories;
+			// servingSize = data.nf_serving_size_qty;
+			if(data.nf_serving_size_unit !== null){
+				servingSizeUnit = data.nf_serving_size_unit;
+			}
+
+			if(data.nf_serving_size_qty !== null){
+				calories = data.nf_calories / data.nf_serving_size_qty;
+			} else {
+				calories = data.nf_calories;
+			}
+
+			$(&#039;#articles&#039;).append(&quot;&lt;div class=&#039;articleBox&#039;&gt;&quot;);
+			//$(&#039;#articles&#039;).append(&quot;&lt;p&gt;&quot; + nameFood + &quot;&#039;s calories: &quot; + calories + &quot; per 1 &quot; + servingSizeUnit + &quot;&lt;/p&gt;&quot;);
+			$(&#039;#articles&#039;).append(&quot;&lt;/div&gt;&quot;);
+
+			calculateEat();
+		}
+	});
+}
+
+function caloriesSetUp(){
+
+	$(&#039;#jog&#039;).click(function(){
+		exerciseType = 363;
+		exerciseTypeText = &quot;jog in water&quot;;
+	});
+
+	$(&#039;#saw&#039;).click(function(){
+		exerciseType = 318;
+		exerciseTypeText = &quot;saw trees&quot;;
+	});
+
+	$(&#039;#fish&#039;).click(function(){
+		exerciseType = 114;
+		exerciseTypeText = &quot;fish&quot;;
+	});
+
+	$(&#039;#dance&#039;).click(function(){
+		exerciseType = 205;
+		exerciseTypeText = &quot;dance ballet&quot;;
+	});
+
+	// unit set-up
+	$(&#039;#kgButton&#039;).click(function(){
+		weightUnit = &quot;kg&quot;;
+	});
+
+	$(&#039;#lbsButton&#039;).click(function(){
+		weightUnit = &quot;lbs&quot;;
+	});
+
+}
+
+function caloriesBurn(){
+
+	var input = $(&#039;#weight&#039;).val();
+	if (weightUnit == &quot;lbs&quot;) {
+		caloriesExercise = exerciseType / 100 * input;
+	} else {
+		caloriesExercise = exerciseType / 100 * (input*2.20462);
+	}
+
+	return caloriesExercise;
+}
+
+function calculateEat(){
+
+	caloriesBurn();
+
+	// how many calories it will burn after exercising
+	caloriesBurnAfterExersice = caloriesExercise / 60 * duration;
+
+	// for certain calories, how many I can eat(per 1 serving size)
+	amountToEat = caloriesBurnAfterExersice / calories;
+	amountToEat = Math.round( amountToEat *10)/10;
+
+	console.log(amountToEat);
+
+	$(&#039;#articles2&#039;).append(&quot;&lt;div class=&#039;articleBox&#039;&gt;&quot;);
+	if(servingSizeUnit !== null){
+		$(&#039;#articles2&#039;).append(&quot;&lt;p&gt;During &quot; + movieTitle + &quot;, if you &quot; + exerciseTypeText + &quot; all the way through it, you can eat &quot; + amountToEat + &quot; &quot; + servingSizeUnit + &quot; of &quot; + nameFood + &quot; without worrying gaining any weights!&lt;/p&gt;&quot;);
+	} else {
+		$(&#039;#articles2&#039;).append(&quot;&lt;p&gt;During &quot; + movieTitle + &quot;, if you &quot; + exerciseTypeText + &quot; all the way through it, you can eat &quot; + amountToEat + &quot; &quot; + nameFood + &quot; without worrying gaining any weights!&lt;/p&gt;&quot;);
+	}
+	$(&#039;#articles2&#039;).append(&quot;&lt;p&gt;Calories burnnnnnn.&lt;/p&gt;&quot;);
+	// $(&#039;#articles&#039;).append(&quot;&lt;img src=&quot;&quot; + base_url + data.backdrop_path + &quot;&quot;&gt;&quot;);
+	$(&#039;#articles2&#039;).append(&quot;&lt;/div&gt;&quot;);
+}
+
+$(document).ready(function(){
+	var url = &#039;https://api.themoviedb.org/3/&#039;,
+		mode = &#039;search/movie&#039;,
+		input,
+		movieName,
+		//var url = &quot;https://api.themoviedb.org/3/movie/550?api_key=&quot;;
+		key = &#039;?api_key=YourKey&#039;;
+
+	caloriesSetUp();
+
+	$(&#039;#searchButton&#039;).click(function(){
+		var input = $(&#039;#movie&#039;).val(),
+			movieName = encodeURI(input);
+
+		$.ajax({
+			url: url + mode + key + &#039;&amp;query=&#039; + movieName,
+			dataType: &#039;jsonp&#039;,
+			success: function(data){
+				console.log(data);
+
+				idMovie = data.results[0].id;
+
+				getDuration();
+
+			}
+		});
+
+	});
+
+});</pre>
+<p>css</p>
+<pre class="brush: css; gutter: true">.searchButton{
+	width: 100px;
+	height: 50px;
+	text-align: center
+}
+
+.articles {
+	text-align: center;
+
+}</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/03/02/healthymovienight/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Eat w/o Quilt.</title>
+		<link>/2014/02/24/eat-wo-quilt/</link>
+					<comments>/2014/02/24/eat-wo-quilt/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2014 03:32:25 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Mashups Web APIs]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[idea]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1147</guid>
+
+					<description><![CDATA[Happy Movie Night Woohoo! Let&#8217;s enjoy the lovely film with your nom nom food, without quilt. Type in the movie you want to watch. Type in the food you want to eat. Choose the workout you want to do. BANG. Just have the exact portion you get from website, and enjoy the film without even noticing you&#8217;re [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Happy Movie Night Woohoo! Let&#8217;s enjoy the lovely film with your nom nom food, <strong>without quilt</strong>.</p>
+<p>Type in the movie you want to watch. Type in the food you want to eat. Choose the workout you want to do.</p>
+<p>BANG. Just have the exact portion you get from website, and enjoy the film without even noticing you&#8217;re exercising.</p>
+<h1><a style="font-size: 14px; line-height: 1em;" href="http://www.jhclaura.com/wp-content/uploads/2014/02/Eat-wo-Quilt.jpg"><img loading="lazy" class="alignnone  wp-image-1149" alt="Eat wo Quilt" src="http://www.jhclaura.com/wp-content/uploads/2014/02/Eat-wo-Quilt-689x1024.jpg" width="516" height="768" /></a></h1>
+<p>&nbsp;</p>
+<p>API: <a href="https://developer.nutritionix.com/">Nutritionixn</a>, <a href="http://www.omdbapi.com/" target="_blank">OMDB</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/24/eat-wo-quilt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Web_Start Your Day</title>
+		<link>/2013/11/22/web_start-your-day/</link>
+					<comments>/2013/11/22/web_start-your-day/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sat, 23 Nov 2013 03:52:59 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[CommLab Web]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[open weather]]></category>
+		<category><![CDATA[php]]></category>
+		<category><![CDATA[youtube]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=418</guid>
+
+					<description><![CDATA[Start Your Day Tell you what&#8217;s the weather today and pick a song for you to start your day! (codes below) page_1 &#60;?php /* ----- Start your day with setting up goal, knowing the weather, and enjoying music picked up for you. ----- */ ?&#62; &#60;!DOCTYPE HTML&#62; &#60;html&#62; &#60;head&#62; &#60;title&#62;Start Your Day&#60;/title&#62; &#60;/head&#62; &#60;body&#62; &#60;h1 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: center;"><a href="http://jhclaura.com/web_05/Start_Your_Day/start.php"><img loading="lazy" class="aligncenter  wp-image-419" alt="start" src="http://www.jhclaura.com/wp-content/uploads/2013/11/start.png" width="214" height="206" srcset="/wp-content/uploads/2013/11/start.png 396w, /wp-content/uploads/2013/11/start-300x289.png 300w" sizes="(max-width: 214px) 100vw, 214px" /></a></p>
+<p style="text-align: center;"><a href="http://jhclaura.com/web_05/Start_Your_Day/start.php" target="_blank">Start Your Day</a></p>
+<p style="text-align: center;">Tell you what&#8217;s the weather today and pick a song for you to start your day!</p>
+<p style="text-align: center;">(codes below)</p>
+<p style="text-align: center;"><span id="more-418"></span></p>
+<p style="text-align: center;">page_1</p>
+<pre class="brush: php; gutter: true">&lt;?php
+/* 
+-----
+Start your day with setting up goal, knowing the weather, and enjoying music picked up for you.
+-----
+*/
+?&gt;
+&lt;!DOCTYPE HTML&gt; 
+&lt;html&gt; 
+	&lt;head&gt;
+		&lt;title&gt;Start Your Day&lt;/title&gt;
+	&lt;/head&gt;
+	
+	&lt;body&gt;
+	&lt;h1 align=&quot;center&quot;&gt;Start Your Day&lt;/h1&gt;
+	
+	&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;start.png&quot; alt=&quot;Start&quot; height=&quot;150&quot; width=&quot;160&quot;/&gt;&lt;/p&gt;
+
+	&lt;p align=&quot;center&quot;&gt;Good morning stranger.&lt;br/&gt;What&#039;s your mood today?&lt;/b&gt;&lt;/p&gt;
+		
+	&lt;form align=&quot;center&quot; action=&quot;/web_05/Start_Your_Day/myDay.php&quot; method=&quot;post&quot;&gt;
+		&lt;div class=&quot;selec_box&quot;&gt;
+  			&lt;label for=&quot;mood&quot;&gt;mood:&lt;/label&gt;
+        	&lt;!-- The second value will be selected initially --&gt;
+			&lt;select name=&quot;mood&quot;&gt;
+				&lt;option selected&gt;-----&lt;/option&gt;
+			    &lt;option value=&quot;workaholic&quot;&gt;workaholic&lt;/option&gt; 
+			    &lt;option value=&quot;relaxed&quot;&gt;holiday&lt;/option&gt;
+				&lt;option value=&quot;lost&quot;&gt;lost&lt;/option&gt;
+			&lt;/select&gt;
+	    &lt;/div&gt;
+	    &lt;div&gt;
+        	&lt;label for=&quot;city&quot;&gt;city:&lt;/label&gt;
+	        &lt;input type=&quot;text&quot; name=&quot;city&quot; /&gt;
+    	&lt;/div&gt;
+    	&lt;div&gt;
+        	&lt;label for=&quot;country&quot;&gt;country:&lt;/label&gt;
+	        &lt;input type=&quot;text&quot; name=&quot;country&quot; /&gt;
+    	&lt;/div&gt;
+    	&lt;div class=&quot;button&quot;&gt;
+        	&lt;button type=&quot;submit&quot;&gt; :) &lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;
+	
+	
+
+&lt;/body&gt; 
+&lt;/html&gt;</pre>
+<p style="text-align: center;">page_2</p>
+<pre class="brush: php; gutter: true"> &lt;?php
+
+ 	// mood
+	//session_start();
+
+	if ( $_POST[&#039;mood&#039;] == &quot;-----&quot; ) {
+		echo &quot;It&#039;d be lovely if you tell me your mood.&quot;;
+	} else if ( empty($_POST[&#039;city&#039;]) || empty($_POST[&#039;country&#039;]) ) {
+		echo &quot;It&#039;d be lovely if you tell me your location.&quot;;
+	} else if ( empty($_POST[&#039;mood&#039;]) &amp;&amp; empty($_POST[&#039;city&#039;]) &amp;&amp; empty($_POST[&#039;country&#039;]) ) {
+		echo &quot;It&#039;d be lovely if you tell me your mood and location.&quot;;
+	} else {
+		$mood = $_POST[&#039;mood&#039;];
+		$city = $_POST[&#039;city&#039;];
+		$country = $_POST[&#039;country&#039;];
+	
+
+	if ($mood == &quot;workaholic&quot;) {
+		$imgMood = &quot;work.png&quot;;
+	} else if ($mood == &quot;relaxed&quot;) {
+		$imgMood = &quot;holidays.png&quot;;
+	} else if ($mood == &quot;lost&quot;) {
+		$imgMood = &quot;lost.png&quot;;
+	}
+ 	// weather
+ 	$data = file_get_contents(
+	&quot;http://api.openweathermap.org/data/2.5/weather?q=&quot; . $city . &quot;,&quot; . $country . &quot;&amp;units=metric&quot;);
+	// turn the JSON data into a PHP object
+	$myday = json_decode($data);
+
+	//var_dump($myday); //for debugging
+	$today = date(&#039;M d&#039;,$myday-&gt;dt); // format the timestamp as a human-readable date
+	$tempMinMax = $myday-&gt;main-&gt;temp .&#039; C&#039;;
+	$myweather = $myday-&gt;weather[0]-&gt;description;
+	
+	
+?&gt;
+
+&lt;!DOCTYPE HTML&gt; 
+&lt;html&gt; 
+	&lt;head&gt;
+		&lt;title&gt;In this way.&lt;/title&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+	&lt;h1 align=&quot;center&quot;&gt;&lt;font size=&quot;5&quot;&gt;It will be a good day!&lt;/font&gt;&lt;/h1&gt;
+	&lt;p align=&quot;center&quot;&gt;
+		&lt;?php
+			echo &quot;Today is &quot; . $today . &quot;.&lt;br/&gt; Temperature is around &quot; . $tempMinMax .&quot;
+				; &quot; . $myweather . &quot;.&lt;br/&gt;&quot;;	
+			echo &quot; &lt;br/&gt;&quot;;
+			echo &quot;I woke up in &quot; . $city . &quot;, feeling &quot; . $mood . &quot;.&lt;br/&gt;&quot;;
+			echo &quot; &lt;br/&gt;&quot;;
+			echo &#039;&lt;img src=&quot;&#039;. $imgMood . &#039;&quot;alt=&quot;Start&quot; height=&quot;150&quot; width=&quot;160&quot;/&gt;&#039;;
+			echo &quot; &lt;br/&gt;&quot;;
+			echo &quot;Today will be a good day,&lt;br/&gt; because I start it with this song.&lt;br/&gt;&quot;;
+			echo &quot; &lt;br/&gt;&quot;;
+
+			require(&#039;google-api-php-client/src/Google_Client.php&#039;);
+			require(&#039;google-api-php-client/src/contrib/Google_YouTubeService.php&#039;);
+
+			/* Set $developer_key to the &quot;API key&quot; value from the &quot;Access&quot; tab of the
+			Google APIs Console &lt;http://code.google.com/apis/console#access&gt;
+			Go to your app, then open &quot;Server Key&quot; and copy the &quot;API Key&quot; value
+			Please ensure that you have enabled the YouTube Data API for your project. */
+			$developer_key = &#039;AIzaSyBq4Y_-39wzoHM1c5xd19SXORtjA31As7A&#039;;
+
+
+			// create a new Google Client object
+			$client = new Google_Client();
+			$client-&gt;setDeveloperKey($developer_key);
+
+			$youtube = new Google_YoutubeService($client);
+
+			$search_term = $mood . &quot; music &quot; . $myweather . &quot; &quot; . $city;
+			//echo $search_term;
+
+			// You could make the search term dynamic by sending it in the query string with GET
+			// ex: yoursite.com/thispage.php?search=puppies
+			// You could also make a form to allow someone to fill out a search field
+			if (isset($_GET[&#039;search&#039;])){
+				$search_term = $_GET[&#039;search&#039;];
+			}
+
+			// see more about the available search parameters here: https://developers.google.com/youtube/v3/docs/search/list
+			$searchResponse = $youtube-&gt;search-&gt;listSearch(&#039;id,snippet&#039;, array(
+			  &#039;q&#039; =&gt; $search_term,
+			  &#039;maxResults&#039; =&gt; 20,
+			  &#039;type&#039;=&gt;&#039;video&#039;
+			));
+
+			//var_dump($searchResponse); // for debugging
+			//echo &quot;Search: &lt;em&gt;$search_term&lt;/em&gt;&lt;br/&gt;&quot;;
+
+			/*
+			foreach ($searchResponse[&#039;items&#039;] as $searchResult) {
+				$title = $searchResult[&#039;snippet&#039;][&#039;title&#039;];
+				$thumbnail_src = $searchResult[&#039;snippet&#039;][&#039;thumbnails&#039;][&#039;default&#039;][&#039;url&#039;];
+				$video_id = $searchResult[&#039;id&#039;][&#039;videoId&#039;];
+				//YouTube video URL format: http://www.youtube.com/watch?v=mmf0KAHWlnk
+				$video_url = &#039;http://www.youtube.com/watch?v=&#039;.$video_id;
+				echo &#039;&lt;a href=&quot;&#039;.$video_url.&#039;&quot;&gt;&#039;;
+				echo &#039;&lt;img src=&quot;&#039;.$thumbnail_src.&#039;&quot; height=&quot;250&quot; width=&quot;400&quot;/&gt;&#039;;
+				echo &#039;&lt;/a&gt;&lt;br/&gt;&#039;;
+			}*/
+
+			
+			$length = count($searchResponse[&#039;items&#039;]);
+			$num = rand(1, $length) - 1;
+			$searchResult = $searchResponse[&#039;items&#039;][$num];
+
+			$title = $searchResult[&#039;snippet&#039;][&#039;title&#039;];
+			$thumbnail_src = $searchResult[&#039;snippet&#039;][&#039;thumbnails&#039;][&#039;default&#039;][&#039;url&#039;];
+			$video_id = $searchResult[&#039;id&#039;][&#039;videoId&#039;];
+			//YouTube video URL format: http://www.youtube.com/watch?v=mmf0KAHWlnk
+			$video_url = &#039;http://www.youtube.com/watch?v=&#039;.$video_id;
+			//echo $num;
+			echo &quot; &lt;br/&gt;&quot;;
+			//echo &#039;&lt;a href=&quot;&#039;.$video_url.&#039;&quot;&gt;&#039;;
+			//echo &#039;&lt;img src=&quot;&#039;.$thumbnail_src.&#039;&quot; height=&quot;250&quot; width=&quot;400&quot;/&gt;&#039;;
+			echo &#039;&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/&#039;. $video_id .&#039;&quot;&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&#039;;
+			// echo &quot; &lt;br/&gt;&quot;;
+			// echo $thumbnail_src;
+			//echo &#039;&lt;/a&gt;&lt;br/&gt;&#039;;
+			echo &#039;&lt;br/&gt;&#039;;
+			
+
+		}
+		?&gt;
+	&lt;/p&gt;
+
+	&lt;p align=&quot;center&quot;&gt;
+	&lt;a href=&quot;start.php&quot;&gt;&lt;font size=&quot;2&quot;&gt;somehow... my mood changes!&lt;/font&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;/p&gt;
+	
+	
+	
+&lt;/body&gt; 
+&lt;/html&gt;</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/11/22/web_start-your-day/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

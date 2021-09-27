@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PComp_Physical Computing &#8211; ITP Days</title>
+	<atom:link href="/category/fall-2013/pcomp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Wed, 22 Jan 2014 07:25:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>PComp_Physical Computing &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>5-in-5_Day1_Unicorn Striking through the Grass</title>
+		<link>/2014/01/22/5-in-5_day1_unicorn-striking-through-the-grass/</link>
+					<comments>/2014/01/22/5-in-5_day1_unicorn-striking-through-the-grass/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2014 07:25:17 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[5-in-5]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=736</guid>
+
+					<description><![CDATA[&#8220;n-in-n&#8221;, a tradition around ITP, where students complete n project in n day, over a certain number of days. In this case, 5 days, 5 projects. Besides participating bunch of workshops held by amazing 2nd-years, for my Day1 project, I was thinking about doing StormLighter with this tutorial, but cut it off because of the shortage [&#8230;]]]></description>
+										<content:encoded><![CDATA[<blockquote><p>&#8220;n-in-n&#8221;, a tradition around ITP, where students complete <b>n project in n day</b>, over a certain number of days.</p></blockquote>
+<p>In this case, 5 days, 5 projects. Besides participating bunch of workshops held by amazing 2nd-years, f<span style="font-size: 1em;">or my Day1 project, I was thinking about doing </span><span style="color: #ff0000;">S</span><span style="color: #ff6600;">t</span><span style="color: #ffcc99;">o</span><span style="color: #99cc00;">r</span><span style="font-size: 1em; color: #339966;">m</span><span style="color: #33cccc;">L</span><span style="color: #3366ff;">i</span><span style="color: #333399;">g</span><span style="color: #cc99ff;">h</span><span style="color: #993366;">t</span><span style="font-size: 1em; color: #993300;">e</span><span style="color: #ff00ff;">r</span><span style="font-size: 1em;"> with this </span><a style="font-size: 1em;" href="http://www.instructables.com/id/Storm-lighter/" target="_blank">tutorial</a><span style="font-size: 1em;">, but cut it off because of the shortage of materials. So I moved on to other new stuff: </span><strong style="font-size: 1em;">Capacity Sensing Library</strong><span style="font-size: 1em;">, which I always wanted to try, and </span><strong style="font-size: 1em;">RGB Led</strong><span style="font-size: 1em;">, because why not. For few hours here&#8217;s my rainbow-ish project result.</span></p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/84747766?color=c9ff23" height="438" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p><strong>wires</strong></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/01/unicorn_circuits.jpg"><img loading="lazy" class="aligncenter size-large wp-image-742" alt="unicorn_circuits" src="http://www.jhclaura.com/wp-content/uploads/2014/01/unicorn_circuits-1024x613.jpg" width="1024" height="613" srcset="/wp-content/uploads/2014/01/unicorn_circuits-1024x613.jpg 1024w, /wp-content/uploads/2014/01/unicorn_circuits-300x180.jpg 300w, /wp-content/uploads/2014/01/unicorn_circuits.jpg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><strong></strong><strong>code</strong></p>
+<pre class="brush: cpp; gutter: true">#include &lt;CapacitiveSensor.h&gt;
+
+int redPin = 11;
+int greenPin = 10;
+int bluePin = 9;
+
+int sendPin = 4;
+int RreceivePin = 2;
+int GreceivePin = 6;
+int BreceivePin = 8;
+
+CapacitiveSensor   cs_4_2 = CapacitiveSensor(4,2);
+CapacitiveSensor   cs_4_6 = CapacitiveSensor(4,6);
+CapacitiveSensor   cs_4_8 = CapacitiveSensor(4,8);
+
+void setup()
+{
+  pinMode(redPin, OUTPUT);
+  pinMode(greenPin, OUTPUT);
+  pinMode(bluePin, OUTPUT);
+
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  long start = millis();
+  long total1 =  cs_4_2.capacitiveSensor(30);
+  long total2 =  cs_4_6.capacitiveSensor(30);
+  long total3 =  cs_4_8.capacitiveSensor(30);
+
+  Serial.print(millis() - start);       
+  Serial.print(&quot;t&quot;);                   
+  Serial.print(total1);                 
+  Serial.print(&quot;t&quot;);
+  Serial.print(total2);
+  Serial.print(&quot;t&quot;);
+  Serial.println(total3);
+
+  int colorR = (int)map(total1, 0, 100, 0, 255);
+  int colorG = (int)map(total2, 0, 100, 0, 255);
+  int colorB = (int)map(total3, 0, 100, 0, 255);
+
+  setColor(colorR, colorG, colorB);
+
+  delay(50);
+}
+
+void setColor(int red, int green, int blue)
+{
+  analogWrite(redPin, red);
+  analogWrite(greenPin, green);
+  analogWrite(bluePin, blue);  
+}</pre>
+<p><strong>references</strong>: <a href="http://playground.arduino.cc//Main/CapacitiveSensor?from=Main.CapSense" target="_blank">1</a>, <a href="http://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds/overview" target="_blank">2</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/01/22/5-in-5_day1_unicorn-striking-through-the-grass/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hacking flashlight for party!</title>
+		<link>/2013/12/29/hacking-flashlight-for-party/</link>
+					<comments>/2013/12/29/hacking-flashlight-for-party/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 29 Dec 2013 08:32:20 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fall 2013]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=641</guid>
+
+					<description><![CDATA[Collaborated w/ Ziv, Alex, Jorge, and Kristina. Long long time ago(Oct, 2013), Ziv came out of an idea for the photo booth of ITP Halloween party&#8211;&#62; Photoboo, which is using strong light to frighten whoever walk in and taking pictures of them. Big success. I was responsible for the light part and came out of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Collaborated w/ <a href="http://youareblank.com/" target="_blank">Ziv</a>, <a href="http://acoym.com/" target="_blank">Alex</a>, <a href="http://jabrake.com/" target="_blank">Jorge</a>, and <a href="http://www.kristinabudelis.com/itpblog/" target="_blank">Kristina</a>.</p>
+<p>Long long time ago(Oct, 2013), Ziv came out of an idea for the photo booth of ITP Halloween party&#8211;&gt; <strong>Photoboo</strong>, which is using strong light to frighten whoever walk in and taking pictures of them. Big success.</p>
+<p>I was responsible for the light part and came out of an idea that just using the external flashlight kit of Canon 5D. With this <a href="http://www.glacialwanderer.com/hobbyrobotics/?p=10" target="_blank">reference</a>, flashlight worked like a charm with a simple button(P.s. We used transistor instead of optoisolator).</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/82868863?color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Connected to the complicated Max/MSP patch Alex made, the flashlight triggered once infrared sensor detecting people approaching.</p>
+<p>Here&#8217;s the simple circuit.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/12/flashlight_hack.jpeg"><img loading="lazy" class="wp-image-642 alignnone" alt="flashlight_hack" src="http://www.jhclaura.com/wp-content/uploads/2013/12/flashlight_hack.jpeg" width="1200" height="642" srcset="/wp-content/uploads/2013/12/flashlight_hack.jpeg 1200w, /wp-content/uploads/2013/12/flashlight_hack-300x161.jpeg 300w, /wp-content/uploads/2013/12/flashlight_hack-1024x548.jpeg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
+<p>And here&#8217;s the code for Arduino.</p>
+<pre class="brush: cpp; gutter: true">#define CAMERA_FLASH_PIN 8
+#define BUTTOM_PIN 2
+
+void setup()
+{
+  pinMode(BUTTOM_PIN, INPUT);
+  pinMode(CAMERA_FLASH_PIN, OUTPUT);
+  digitalWrite(CAMERA_FLASH_PIN, LOW);
+  Serial.begin(9600); // open serial
+  Serial.println(&quot;Press the button to trigger the flash&quot;);
+}
+
+void loop()
+{
+  if (digitalRead(BUTTOM_PIN) == HIGH) {
+    digitalWrite(CAMERA_FLASH_PIN, HIGH);
+    delay(100);
+    digitalWrite(CAMERA_FLASH_PIN, LOW);
+  }
+  else {
+    digitalWrite(CAMERA_FLASH_PIN, LOW);
+
+    Serial.println(&quot;Press the button to trigger the flash&quot;);
+  }
+}</pre>
+<p>&nbsp;</p>
+<p>And&#8230;. I also designed some frames for the Photoboo!</p>
+
+<a href='/halloween_frame_laura_a/'><img width="583" height="350" src="/wp-content/uploads/2013/12/halloween_frame_laura_A.png" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/halloween_frame_laura_A.png 1044w, /wp-content/uploads/2013/12/halloween_frame_laura_A-300x180.png 300w, /wp-content/uploads/2013/12/halloween_frame_laura_A-1024x615.png 1024w" sizes="(max-width: 583px) 100vw, 583px" /></a>
+<a href='/halloween_frame_laura_b/'><img width="575" height="350" src="/wp-content/uploads/2013/12/halloween_frame_laura_B.png" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/halloween_frame_laura_B.png 1041w, /wp-content/uploads/2013/12/halloween_frame_laura_B-300x183.png 300w, /wp-content/uploads/2013/12/halloween_frame_laura_B-1024x624.png 1024w" sizes="(max-width: 575px) 100vw, 575px" /></a>
+
+<p>&nbsp;</p>
+<p>Happy time <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/78495010?color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/12/29/hacking-flashlight-for-party/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Quick notes after Winter Show 2013</title>
+		<link>/2013/12/17/notes-after-winter-show-2013/</link>
+					<comments>/2013/12/17/notes-after-winter-show-2013/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Tue, 17 Dec 2013 20:32:48 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[ICM_Processing]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[feedback]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[show]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=565</guid>
+
+					<description><![CDATA[Dope Ropes Feedback &#8220;Is it NIME? Just PComp? Wow good job guys, amazing!&#8221; &#8220;What does it do?&#8221; &#8220;Wow I like that, check this out, this is my favorite!&#8221; &#8220;Why do you choose those sounds?&#8221; advices for the ropes attachment very satisfying when pulling bell instrument &#8220;Are they sex tool ropes?&#8221; pretty on and off switch [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h1>Dope Ropes</h1>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/12/doperope1.jpeg"><img loading="lazy" class="aligncenter size-full wp-image-571" alt="doperope" src="http://www.jhclaura.com/wp-content/uploads/2013/12/doperope1.jpeg" width="1552" height="751" srcset="/wp-content/uploads/2013/12/doperope1.jpeg 1552w, /wp-content/uploads/2013/12/doperope1-300x145.jpeg 300w, /wp-content/uploads/2013/12/doperope1-1024x496.jpeg 1024w" sizes="(max-width: 1552px) 100vw, 1552px" /></a></p>
+<h4>Feedback</h4>
+<ul>
+<li>&#8220;Is it NIME? Just PComp? Wow good job guys, amazing!&#8221;</li>
+<li>&#8220;What does it do?&#8221;</li>
+<li>&#8220;Wow I like that, check this out, this is my favorite!&#8221;</li>
+<li>&#8220;Why do you choose those sounds?&#8221;</li>
+<li>advices for the ropes attachment</li>
+<li>very satisfying when pulling</li>
+<li>bell instrument</li>
+<li>&#8220;Are they sex tool ropes?&#8221;</li>
+<li>pretty on and off switch LED</li>
+<li>&#8220;LED is fun.&#8221;</li>
+<li>Are you a musician?</li>
+<li>Can you compose song with this?</li>
+<li>Using headphones for this.</li>
+<li>Speakers can be located separately for each set.</li>
+<li>People are afraid they&#8217;re going to pull it down; afraid to pull in the beginning</li>
+<li></li>
+</ul>
+<h4>Aftershow Notes</h4>
+<ul>
+<li>too high to adjust, all the wires need to be glued to be stable</li>
+<li>xbee data sending &#8211;&gt; glitch!</li>
+<li>pulling instrument &#8211;&gt; potential, because it&#8217;s rare. The only association people have is ringing the bell.</li>
+<li>people seems more related to recognizable sample sounds</li>
+<li>pitch changing one needs to be more subtle and gentle</li>
+<li>Pulling demonstration helps people understand</li>
+<li></li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1>Glitchtchtchitch</h1>
+<p><img loading="lazy" class="aligncenter  wp-image-566" alt="glitchtchtchitch" src="http://www.jhclaura.com/wp-content/uploads/2013/12/glitchtchtchitch.jpeg" width="1361" height="664" srcset="/wp-content/uploads/2013/12/glitchtchtchitch.jpeg 2268w, /wp-content/uploads/2013/12/glitchtchtchitch-300x146.jpeg 300w, /wp-content/uploads/2013/12/glitchtchtchitch-1024x499.jpeg 1024w" sizes="(max-width: 1361px) 100vw, 1361px" /></p>
+<h4>Feedback</h4>
+<ul>
+<li>some just pass by</li>
+<li>some enjoy it, standing for a long time and coming back later</li>
+<li>people feel more comfortable when I&#8217;m not beside the stand</li>
+<li><span style="line-height: 1.5em;">watching &#8211;&gt; realizing &#8211;&gt; smiling &#8211;&gt; seeing EyesMouthes &#8211;&gt; laughing</span></li>
+<li><span style="line-height: 1.5em;">&#8220;Ha. Big brother is watching.&#8221;</span></li>
+<li><span style="line-height: 1.5em;">&#8220;How do you say this title?&#8221;  &#8220;I see. Sounds like what they look like.&#8221;</span></li>
+<li><span style="line-height: 1.5em;">&#8220;Fun&#8221; &#8220;Very interesting&#8221;</span></li>
+<li><span style="line-height: 1.5em;">&#8220;Hmm&#8221;</span></li>
+<li>&#8220;What should I do?&#8221; &#8220;How does it work?&#8221;</li>
+<li>&#8220;Can I take picture with it?&#8221;</li>
+<li>&#8220;Can I record this?&#8221;</li>
+<li>people wave at the camera</li>
+<li>&#8220;It&#8217;d be cool if it can detect me smiling&#8221;</li>
+<li>interested in how it works</li>
+<li>&#8220;I want to take this home and put it in my room.&#8221;</li>
+<li></li>
+</ul>
+<h4>Aftershow Notes</h4>
+<ul>
+<li>If it&#8217;s workable would be more interesting to open more sketches</li>
+<li>Ideally two computers with 4 projectors!</li>
+<li>can add more interaction function e.g. detect smile and laugh</li>
+<li>more knowledge about surveillance and psychology of people&#8217;s react with it</li>
+<li></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/12/17/notes-after-winter-show-2013/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PComp_Dope Ropes</title>
+		<link>/2013/12/06/pcomp_dope-ropes/</link>
+					<comments>/2013/12/06/pcomp_dope-ropes/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2013 21:14:50 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[group]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[presentation]]></category>
+		<category><![CDATA[xbee]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=510</guid>
+
+					<description><![CDATA[Those crazy ropes have their own homepage ohya! Click click click me! Group project with fabrication king Billy.]]></description>
+										<content:encoded><![CDATA[<p><a href="http://doperopes.tumblr.com/" target="_blank">Those crazy ropes have their own homepage ohya! Click click click me!</a></p>
+<p>Group project with fabrication king <a href="http://ifiwerericher.com/" target="_blank">Billy</a>.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/12/dope_ropes.jpeg"><img loading="lazy" class="aligncenter size-full wp-image-535" alt="dope_ropes" src="http://www.jhclaura.com/wp-content/uploads/2013/12/dope_ropes.jpeg" width="1000" height="1500" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/12/06/pcomp_dope-ropes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PComp_Hang and Pull_vMidterm</title>
+		<link>/2013/11/23/pcomp_hang-and-pull_vmidterm/</link>
+					<comments>/2013/11/23/pcomp_hang-and-pull_vmidterm/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 24 Nov 2013 01:23:19 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[group]]></category>
+		<category><![CDATA[midterm]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=428</guid>
+
+					<description><![CDATA[Pullllling to make/alter sounnnnnd. &#160; &#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p>Pullllling to make/alter sounnnnnd.</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/80164050?color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/11/Pull_closeUPS.jpeg"><img loading="lazy" class="aligncenter size-full wp-image-431" alt="Pull_closeUPS" src="http://www.jhclaura.com/wp-content/uploads/2013/11/Pull_closeUPS.jpeg" width="900" height="600" srcset="/wp-content/uploads/2013/11/Pull_closeUPS.jpeg 900w, /wp-content/uploads/2013/11/Pull_closeUPS-300x200.jpeg 300w" sizes="(max-width: 900px) 100vw, 900px" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/11/Pull_wholeS.jpeg"><img loading="lazy" class="aligncenter size-full wp-image-432" alt="Pull_wholeS" src="http://www.jhclaura.com/wp-content/uploads/2013/11/Pull_wholeS.jpeg" width="642" height="900" srcset="/wp-content/uploads/2013/11/Pull_wholeS.jpeg 642w, /wp-content/uploads/2013/11/Pull_wholeS-214x300.jpeg 214w" sizes="(max-width: 642px) 100vw, 642px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/11/23/pcomp_hang-and-pull_vmidterm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PComp_Interaction_Rethink</title>
+		<link>/2013/10/23/pcomp_interaction_rethink/</link>
+					<comments>/2013/10/23/pcomp_interaction_rethink/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Wed, 23 Oct 2013 07:01:38 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[mind-blown]]></category>
+		<category><![CDATA[observation]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=293</guid>
+
+					<description><![CDATA[7 weeks past, I&#8217;ve seen a lot of interaction thought through a lot of ideas for midterm project. Personally, it strengthens my favor for the tangible interaction. It doesn&#8217;t necessarily need to be touched to activate but it&#8217;s really a satisfying moment to be able to be touched, if users want to. For me, touching [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>7 weeks past, I&#8217;ve seen a lot of interaction thought through a lot of ideas for midterm project. Personally, it strengthens my favor for the tangible interaction. It doesn&#8217;t necessarily need to be touched to activate but it&#8217;s really a satisfying moment to be able to be touched, if users want to. For me, touching strengthen the level of interaction, since touching make workpiece more lively and real. More approachable. And that also strengthen my desire to make some low-fi thing! The original, unpolished appearing can let users focus on the content, and the exposed, seeable technology(e.g. motor, mechanical and physical stuff) can surprise users with familiar things doing unfamiliar things, and might even catalyze users to have new ideas to live the life.</p>
+<p>About whether interaction to be implicit or explicit, I think it is case by case. Personally, unpredictable and surprise is my thing but some people might find it annoying and uncomfortable. Moreover, measuring the level of implicit is also an important issue. It should still have patterns or certain amount of logic, in that way users can still have the power of control.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/10/23/pcomp_interaction_rethink/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PComp_UnoBurnedNO0oo&#8230;</title>
+		<link>/2013/10/19/pcomp_unoburnedno0oo/</link>
+					<comments>/2013/10/19/pcomp_unoburnedno0oo/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sat, 19 Oct 2013 05:49:17 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[noooooo]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=295</guid>
+
+					<description><![CDATA[Inspired by the crazy servo motor workpiece by David Bowen, I tried to learned controlling DC motor rotating direction with H-bridge through this tutorial but failed to change the direction. The result was either rotated or stopped. Thinking the possibility of my motor might be broken, I borrowed other&#8217;s official stater kit&#8217;s DC motor, which was [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/10/photo.jpeg"><img loading="lazy" class="wp-image-296 alignnone" alt="Burned my arduino..." src="http://www.jhclaura.com/wp-content/uploads/2013/10/photo.jpeg" width="614" height="384" srcset="/wp-content/uploads/2013/10/photo.jpeg 768w, /wp-content/uploads/2013/10/photo-300x188.jpeg 300w" sizes="(max-width: 614px) 100vw, 614px" /></a></p>
+<p>Inspired by the crazy servo motor workpiece by <span style="color: #003366;"><strong><a href="http://www.dezeen.com/2012/11/04/underwater-installation-by-david-bowen/" target="_blank"><span style="color: #003366;">David Bowen</span></a></strong></span>, I tried to learned controlling DC motor rotating direction with H-bridge through <strong><a href="http://itp.nyu.edu/physcomp/Labs/DCMotorControl" target="_blank">this tutorial</a></strong> but failed to change the direction. The result was either rotated or stopped. Thinking the possibility of my motor might be broken, I borrowed other&#8217;s official stater kit&#8217;s DC motor, which was smaller than mine, and then things just went wrong&#8230;</p>
+<p>The motor spun so fast and Uno became kind of warm. I pulled out the power supply but it was too late. I couldn&#8217;t upload any sketches anymore. Even unplugged all the wires and run the Example sketch&#8230;. NOOO000ooo&#8230;.</p>
+<p>Too frustrated to take a pic of my breadboard. Should remember to avoid emotions stopping you document next time&#8230;</p>
+<p style="text-align: center;">
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/10/19/pcomp_unoburnedno0oo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PComp_5_Don&#8217;t Touch My Cookie!</title>
+		<link>/2013/10/09/pcomp_5_dont-touch-my-cookie/</link>
+					<comments>/2013/10/09/pcomp_5_dont-touch-my-cookie/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2013 21:29:49 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[processing]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=251</guid>
+
+					<description><![CDATA[Fantasy kind of comes to live guys! After the PComp class, I was inspired to do more about how the communications between Arduino and Processing. I want them to be more instinct, more meaningful, and more related to each other, not just switching on and off. And stay away using MOUSE to control/adjust my work [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Fantasy kind of comes to live guys!</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/76550717?byline=0&amp;portrait=0&amp;color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>After the PComp class, I was inspired to do more about how the communications between Arduino and Processing. I want them to be more instinct, more meaningful, and more related to each other, not just switching on and off. And stay away using MOUSE to control/adjust my work all the time. My works should have their own behaviors patterns, without others tell them what to do. (kind of like users can only have small control/impact on them ;))</p>
+<p style="text-align: center;">So I came out of an idea to control the chocolate spiders amount of my this week&#8217;s ICM homework! Since my intention of this project is scaring away people who try to eat it, why not building the interaction based on that? The more you come closer to the cookie(I use photosensor), the more chocolate spiders will come out alive. And the button at Top Left corner will turn red to warn!<a href="http://www.jhclaura.com/wp-content/uploads/2013/10/PComp_cookie_spider.png"><img loading="lazy" class="aligncenter  wp-image-256" alt="PComp_cookie_spider" src="http://www.jhclaura.com/wp-content/uploads/2013/10/PComp_cookie_spider.png" width="478" height="475" srcset="/wp-content/uploads/2013/10/PComp_cookie_spider.png 597w, /wp-content/uploads/2013/10/PComp_cookie_spider-150x150.png 150w, /wp-content/uploads/2013/10/PComp_cookie_spider-300x298.png 300w" sizes="(max-width: 478px) 100vw, 478px" /></a></p>
+<p>And it worked! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> The contends and the behavior matched perfectly. First time! Exciting!! And my circuit looked simple as well.</p>
+<p><img loading="lazy" class="aligncenter  wp-image-252" alt="2013-10-09 14.33.07" src="http://www.jhclaura.com/wp-content/uploads/2013/10/2013-10-09-14.33.07-613x1024.jpg" width="400" height="668" srcset="/wp-content/uploads/2013/10/2013-10-09-14.33.07-613x1024.jpg 613w, /wp-content/uploads/2013/10/2013-10-09-14.33.07-180x300.jpg 180w, /wp-content/uploads/2013/10/2013-10-09-14.33.07.jpg 1552w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p>Come out a good/crazy idea, and then execute it well in the most instinct and simplest way. It&#8217;s my goal of life now.</p>
+<p style="text-align: left;">Below are my To-Do-Lists that inspired through today&#8217;s PComp class:</p>
+<ol>
+<li>Change velocity, acceleration, changes, instead of just position and on-and-off, so when there’s no input(no one using it), animation still runs.</li>
+<li>Different modes with different compositions of inputs. (e.g. Mode A: button 1; Mode B: button 1+2 &#8230;)</li>
+<li>Let users feel they control something in an abstract way. (Wwwwooo complicated&#8230;)</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/10/09/pcomp_5_dont-touch-my-cookie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PComp_4_MusicInstrument</title>
+		<link>/2013/09/30/pcomp_4_musicinstrument/</link>
+					<comments>/2013/09/30/pcomp_4_musicinstrument/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 30 Sep 2013 04:25:06 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[group]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=210</guid>
+
+					<description><![CDATA[In PComp class Billy and I make a Music Instrument that can adjust the pitch by pressing and tapping. Check this out! &#160; #include &#34;pitches.h&#34; int lastButtonState = LOW; boolean switchIsOn = false; const int threshold = 10; const int speakerPinNum = 8; const int noteDuration = 20; const int potenPinNum = 5; int volumeAnalogValue [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>In PComp class <a href="http://ifiwerericher.com/" target="_blank">Billy</a> and I make a Music Instrument that can adjust the pitch by pressing and tapping. Check this out!</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/75725911?byline=0&amp;portrait=0&amp;color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+<pre class="brush: java; gutter: true">#include &quot;pitches.h&quot;
+
+int lastButtonState = LOW;
+boolean switchIsOn = false;
+
+const int threshold = 10;
+const int speakerPinNum = 8;
+const int noteDuration = 20;
+
+const int potenPinNum = 5;
+int volumeAnalogValue = 0;
+int volume = 0;
+
+const int potPinNum = 2;
+float saveNote;
+
+int note[] = {
+  NOTE_C4, NOTE_E4};
+
+void setup() {
+  Serial.begin(9600);
+  saveNote = note[1];
+
+}
+
+void loop() {
+
+  int buttonState = digitalRead(2);
+
+  if (buttonState != lastButtonState) {
+    if (buttonState == HIGH) {
+      switchIsOn = !switchIsOn;
+    }
+  }
+
+  lastButtonState = buttonState;
+
+  if (switchIsOn == true) {
+
+    int pitchRead = analogRead(0);
+    int noteRead = analogRead(1);
+
+    float pitch = map(pitchRead, 0, 950, 0, 100);
+
+    if (pitch &gt; 0) {
+      note[1] += pitch;
+    } 
+    else {
+      note[1] = saveNote;
+    }
+
+    Serial.print(pitch);
+    Serial.print(&quot; &quot;);
+    Serial.println(noteRead);
+
+    if(noteRead &gt; threshold) {
+      tone(speakerPinNum, note[1], noteDuration);
+    } 
+  }
+}</pre>
+<p>As for my review for this on Sunday, I made a basic music kit that you can control on/off, volumes, pitches(higher/lower), and tempo. But since it&#8217;s a single-note playing machine instead of templates/clip of music triggered one, it makes no difference with the changes of tempo.</p>
+<p style="text-align: center;"><a href="http://www.jhclaura.com/wp-content/uploads/2013/09/MusicPractive1.jpg"><img loading="lazy" class="aligncenter  wp-image-221" alt="MusicPractive" src="http://www.jhclaura.com/wp-content/uploads/2013/09/MusicPractive1.jpg" width="707" height="423" srcset="/wp-content/uploads/2013/09/MusicPractive1.jpg 786w, /wp-content/uploads/2013/09/MusicPractive1-300x179.jpg 300w" sizes="(max-width: 707px) 100vw, 707px" /></a></p>
+<p>And thanks to almighty <a href="http://moqn.net/" target="_blank">Moon</a>! I got the idea of setting button-&#8220;released&#8221; as the command to adjust pitches, so that pitches won&#8217;t go crazy because of the unmeasurable amount/time of button-&#8220;pressed&#8221; when you press the button. Thank you Moon <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>What I want to do next&#8211;</p>
+<ol>
+<li>make chords (office hour w/ resident booked!)</li>
+<li>play continuous clips instead of single notes</li>
+<li>be creative! not just pressing buttons&#8230; not interesting at all&#8230; go go go!</li>
+</ol>
+<p>And here&#8217;s the code.</p>
+<pre class="brush: java; gutter: true">#include &quot;pitches.h&quot;
+
+int lastButtonState = LOW;
+boolean switchIsOn = false;
+
+const int threshold = 600;
+const int speakerPinNum = 8;
+const int switchPinNum = 2;
+const int higherPitchPinNum = 4;
+const int lowerPitchPinNum = 3;
+
+int pre_higherPitchRead = 0;
+int pre_lowerPitchRead = 0;
+
+const int tempoPinNum = 0;
+const int noteGPinNum = 1;
+const int noteEPinNum = 2;
+const int noteCPinNum = 3;
+
+const int noteDuration = 20;
+
+int saveNote[3];
+int note[] = {NOTE_C4, NOTE_E4, NOTE_G4};
+
+void setup() {
+  Serial.begin(9600);
+
+  // save the original notes
+  for (int i=0; i&lt;3; i++) {
+    saveNote[i] = note[i];
+  }
+}
+
+void loop() {
+
+  // on-off switch setting
+  int buttonState = digitalRead(switchPinNum);
+  if (buttonState != lastButtonState) {
+    if (buttonState == HIGH) {
+      switchIsOn = !switchIsOn;
+    }
+  }
+  lastButtonState = buttonState;
+
+  // read different notes
+  int noteCRead = analogRead(noteCPinNum);
+  int noteERead = analogRead(noteEPinNum);
+  int noteGRead = analogRead(noteGPinNum);
+
+  // set up duration of notes
+  int tempoRead = analogRead(tempoPinNum);
+  int tempo = map(tempoRead, 0, 1023, 5, 100);
+
+  // press buttons to make notes go higher/lower 
+  int higherPitchRead = digitalRead(higherPitchPinNum);
+  int lowerPitchRead = digitalRead(lowerPitchPinNum);
+
+  // when switch is on
+  if (switchIsOn == true) {
+
+    Serial.print(tempo);
+    Serial.print(&quot;  &quot;);
+
+    // make notes go higher or lower
+    for (int i=0; i&lt;3; i++) {
+      if (higherPitchRead == LOW &amp;&amp; pre_higherPitchRead == HIGH) {
+        note[i] *= 2;
+      }
+     if (lowerPitchRead == LOW &amp;&amp; pre_lowerPitchRead == HIGH) {
+        note[i] /= 2;
+      }
+      note[0] = constrain(note[0], 32, 4192);
+      note[1] = constrain(note[1], 41, 5280);
+      note[2] = constrain(note[2], 49, 6272);
+    }
+
+    // make sounds!
+    if(noteCRead &lt; threshold &amp;&amp; noteERead &lt; threshold &amp;&amp; noteGRead &lt; threshold) {
+      for (int i=0; i&lt;3; i++) {
+        tone(speakerPinNum, note[i], tempo);
+      }
+    } else if(noteCRead &lt; threshold &amp;&amp; noteERead &lt; threshold) {
+      tone(speakerPinNum, note[0], tempo);
+      tone(speakerPinNum, note[1], tempo);
+    } else if(noteCRead &lt; threshold &amp;&amp; noteGRead &lt; threshold) {
+      tone(speakerPinNum, note[0], tempo);
+      tone(speakerPinNum, note[2], tempo);
+    } else if(noteGRead &lt; threshold &amp;&amp; noteERead &lt; threshold) {
+      tone(speakerPinNum, note[2], tempo);
+      tone(speakerPinNum, note[3], tempo);
+    } else if(noteCRead &lt; threshold) {
+      tone(speakerPinNum, note[0], tempo);
+    } else if(noteERead &lt; threshold) {
+      tone(speakerPinNum, note[1], tempo);
+    } else if(noteGRead &lt; threshold) {
+      tone(speakerPinNum, note[2], tempo);
+    }
+
+    Serial.print(note[0]);
+    Serial.print(&quot; &quot;);
+    Serial.print(note[1]);
+    Serial.print(&quot; &quot;);
+    Serial.print(note[2]);
+    Serial.print(&quot; &quot;);
+    Serial.println(&quot; &quot;);
+
+  } else {
+    for (int i=0; i&lt;3; i++) {      // when swtich-off
+      note[i] = saveNote[i];       // restore the original notes
+    }
+  }
+
+  // remember the previouse higher/lower pitch buttons status
+  pre_higherPitchRead = higherPitchRead;
+  pre_lowerPitchRead = lowerPitchRead;
+}</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/09/30/pcomp_4_musicinstrument/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>inspiration_Nick Yulamn</title>
+		<link>/2013/09/25/inspiration_nick-yulamn/</link>
+					<comments>/2013/09/25/inspiration_nick-yulamn/#comments</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Wed, 25 Sep 2013 05:30:03 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fall 2013]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[mind-blown]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=187</guid>
+
+					<description><![CDATA[(( click me to see magic )) Reading through the reading of PComp and found this ITP alum guy doing amazing stuff with servomotor and solenoid to make an elegant drum set! So artistic done with small drum from Borneo and snail shells! That&#8217;s exactly what I want to do, delicate stuff with low-fi appearing. Simply [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong><a href="http://www.jhclaura.com/wp-content/uploads/2013/09/Acoustic-Drum-Machine_Nick-Yulman.png"><img loading="lazy" class="aligncenter size-full wp-image-192" alt="Acoustic Drum Machine_Nick Yulman" src="http://www.jhclaura.com/wp-content/uploads/2013/09/Acoustic-Drum-Machine_Nick-Yulman.png" width="499" height="280" srcset="/wp-content/uploads/2013/09/Acoustic-Drum-Machine_Nick-Yulman.png 499w, /wp-content/uploads/2013/09/Acoustic-Drum-Machine_Nick-Yulman-300x168.png 300w" sizes="(max-width: 499px) 100vw, 499px" /></a>(( <a href="http://itp.nyu.edu/~ndy204/blog/?p=141" target="_blank"><span style="color: #33cccc;">click me to see magic</span></a> ))</strong></p>
+<p>Reading through the reading of PComp and found this ITP alum guy doing amazing stuff with servomotor and solenoid to make an elegant drum set! So artistic done with small drum from Borneo and snail shells! That&#8217;s exactly what I want to do, delicate stuff with low-fi appearing. Simply blown my mind. And this work was done in ITP during 2010 I guess.</p>
+<p>UNBELIEVABLE.</p>
+<p>Inspired at the same time. Thank you(who?) so much to let me become part of ITP. Thank you(who?).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/09/25/inspiration_nick-yulamn/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

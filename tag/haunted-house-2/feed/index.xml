@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>haunted house &#8211; ITP Days</title>
+	<atom:link href="/tag/haunted-house-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Fri, 02 Jan 2015 20:40:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>haunted house &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Haunted House _{ Brothers&#8217; Room }</title>
+		<link>/2015/01/02/haunted-house-_-brothers-room/</link>
+					<comments>/2015/01/02/haunted-house-_-brothers-room/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 02 Jan 2015 20:40:46 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fall 2014]]></category>
+		<category><![CDATA[Haunted House]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[dmx lights]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[haunted house]]></category>
+		<category><![CDATA[immersive theatre]]></category>
+		<category><![CDATA[installation]]></category>
+		<category><![CDATA[max/msp]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1842</guid>
+
+					<description><![CDATA[For the class Haunted House Final, which is a real haunted house held on the floor of ITP, Jonathan, Michelle and I created &#8220;Brothers&#8217; Room&#8220;, depicting a tragedy happened between brothers and how the lived one is haunted by the guilt and grief. &#160; Story Pere and his brother died in an accident and arrived [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/poster.jpg"><img loading="lazy" class="alignnone size-full wp-image-1862" src="http://www.jhclaura.com/wp-content/uploads/2015/01/poster.jpg" alt="poster" width="667" height="1000" /></a></p>
+<p>For the class <strong>Haunted House</strong> Final, which is a real haunted house held on the floor of ITP, <a href="http://jonathansparks.com/" target="_blank">Jonathan</a>, <a href="http://www.michellechandra.com/" target="_blank">Michelle</a> and I created &#8220;<span style="font-family: 'Book Antiqua', Palatino; font-size: 12pt;"><strong>Brothers&#8217; Room</strong></span>&#8220;, depicting a tragedy happened between brothers and how the lived one is haunted by the guilt and grief.</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'Andale Mono', Times;">Story</span></strong></span></p>
+<ul>
+<li>Pere and his brother died in an accident and arrived at this intermediate stage between life/death. Brother, feeling unconflicted, moved on to afterlife, but Pere stays out of guilt, because he’s responsible for his brother’s death.</li>
+<li>Pere is haunted by himself.</li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-family: 'Andale Mono', Times; font-size: 14pt;"><strong>Concept</strong></span></p>
+<ul>
+<li>The room is a representation of Pere&#8217;s mind.</li>
+<li>Showing the loop of emotions</li>
+<li>(1) sweet memory with brother</li>
+<li>(2) scared of Brother&#8217;s death</li>
+<li>(3) freaks out as Brother&#8217;s ghost showing up in the mirror</li>
+<li>(4) guilty and asks for forgiving</li>
+<li>back to (1)</li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'Andale Mono', Times;">Technique / Effects</span></strong></span><br />
+&#8211;&gt; Reflecting Pere&#8217;s emotions, the room reflects this with more intense light, sound, and walls shaking. At the climax, the man realizes he&#8217;s responsible for his brother&#8217;s death, the wall of the hidden room drops, and his brother appears in the 2-way mirror. The man sees him and cracks. Annnnd, start over!</p>
+<ul>
+<li>DMX lights: controlled by Arduino, Tinker.it! DMX shield, and Max/Msp patch</li>
+<li>Sounds / Music: controlled by Max/Msp patch</li>
+<li>Burned scar of Brother: latex gel, tissues, and colors</li>
+<li>Hidden Room Revealed: fabric and strings!</li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-family: 'Andale Mono', Times; font-size: 14pt;"><strong>Script</strong></span></p>
+<p><iframe loading="lazy" src="https://docs.google.com/document/d/1ve6zJlP6JA-JbEVyS-L8knrjYkQcQIs04ScedIysGzc/pub?embedded=true" width="800" height="300"></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-family: 'Andale Mono', Times; font-size: 14pt;"><strong>Prep / Installation</strong></span></p>
+
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'Andale Mono', Times;">Show Time</span></strong></span></p>
+
+<p>&nbsp;</p>
+<p><span style="font-family: 'Andale Mono', Times; font-size: 14pt;"><strong>Other Scenes</strong></span></p>
+
+<p>&nbsp;</p>
+<p><span style="font-family: 'Andale Mono', Times; font-size: 14pt;"><strong>Whole Crews <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></span></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/staff.jpg"><img loading="lazy" class="alignnone wp-image-1864 size-full" src="http://www.jhclaura.com/wp-content/uploads/2015/01/staff.jpg" alt="" width="1000" height="750" /></a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/01/02/haunted-house-_-brothers-room/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

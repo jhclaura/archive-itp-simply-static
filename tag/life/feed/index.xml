@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>life &#8211; ITP Days</title>
+	<atom:link href="/tag/life/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Mon, 08 Dec 2014 16:07:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>life &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Forever TIP120</title>
+		<link>/2014/12/08/forever-tip120/</link>
+					<comments>/2014/12/08/forever-tip120/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2014 16:07:13 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[life]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1767</guid>
+
+					<description><![CDATA[Since I forget all the time.]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/12/tip120.png"><img loading="lazy" class="alignnone size-full wp-image-1768" src="http://www.jhclaura.com/wp-content/uploads/2014/12/tip120.png" alt="tip120" width="676" height="242" /></a></p>
+<p>Since I forget all the time.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/12/08/forever-tip120/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>{Rabbit_Hole}</title>
+		<link>/2014/04/13/composition-rabbit_hole/</link>
+					<comments>/2014/04/13/composition-rabbit_hole/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 14 Apr 2014 02:41:32 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Coding for Emotional Impact]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[Maya]]></category>
+		<category><![CDATA[project]]></category>
+		<category><![CDATA[three.js]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1409</guid>
+
+					<description><![CDATA[{currently works with Chrome and Firefox browser} For the composition assignment the final of Coding for Emotional Impact class, I want to create something with multiple layers and is self-explained. Inspired by the description of computer vision is a rabbit hole from Andy(because I&#8217;m learning Three.js by myself recently), I wanted to make a game about &#8220;Rabbit [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-size: 14pt;">{currently works with <span style="color: #000000;">Chrome</span> and Firefox browser}</span></p>
+<p>For <del>the composition assignment</del> the final of <em>Coding for Emotional Impact</em> class, I want to create something with multiple layers and is self-explained. Inspired by the description of computer vision is a rabbit hole from <a href="http://andysigler.com/" target="_blank">Andy</a>(because I&#8217;m learning <a href="http://threejs.org/" target="_blank">Three.js</a> by myself recently), I wanted to make a game about &#8220;Rabbit Hole&#8221;, and my biggest assumption is that everyone is sort of down the rabbit hole.</p>
+<p>ps. It&#8217;s not really a fun game to play. Still confusing should it be fun to play or just an emotion-building nowhere&#8230;</p>
+<div style="color: #222222;">&#8211; Title</div>
+<div style="color: #222222;"><strong><span style="font-size: 12pt;"><span style="font-family: 'andale mono', times;">Rabbit Hole</span></span></strong></div>
+<div style="color: #222222;"></div>
+<div style="color: #222222;"></div>
+<div style="color: #222222;">&#8211; Environment</div>
+<div style="color: #222222;"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/environment.png"><img loading="lazy" class="alignnone wp-image-1426 " src="http://www.jhclaura.com/wp-content/uploads/2014/04/environment.png" alt="environment" width="382" height="494" /></a>     <a href="http://www.jhclaura.com/wp-content/uploads/2014/04/environment2.png"><img loading="lazy" class="alignnone wp-image-1427 " src="http://www.jhclaura.com/wp-content/uploads/2014/04/environment2.png" alt="environment2" width="383" height="496" /></a></div>
+<div style="color: #222222;"></div>
+<div style="color: #222222;">&#8211; Audience</div>
+<div style="color: #222222;"><span style="font-family: 'andale mono', times; font-size: 12pt;">Whoever also down the rabbit hole or wonder how it feel down there.</span></div>
+<div style="color: #222222;"></div>
+<div style="color: #222222;"><span style="font-family: 'andale mono', times; font-size: 12pt;"> </span></div>
+<div style="color: #222222;">&#8211; Narrative arc</div>
+<div style="color: #222222;"><span style="font-family: 'Book Antiqua', Palatino; font-size: medium;"><span style="font-family: 'Andale Mono', Times;"><strong>Rabbit Hole</strong>&#8211;</span></span><span style="font-family: 'Book Antiqua', Palatino; font-size: medium; color: #888888;"><em>Metaphor for the conceptual path which is thought to lead to the true nature of reality. Infinitesimally deep and complex, venturing too far down is probably not that great of an idea.</em></span></div>
+<p dir="ltr"><span style="font-family: 'Andale Mono', Times; font-size: medium;"><strong>Literary Nonsense-</strong></span> <span style="font-size: medium; color: #808080;"><em><span style="line-height: 1.5em; font-family: 'Book Antiqua', Palatino;">has no system of logic, although it may imply the existence of an inscrutable one, just beyond our grasp.</span></em></span></p>
+<p dir="ltr">And below are three snapshots of what I&#8217;ve built so far. I made my own models in Maya and drew textures in Photoshop. <span style="color: #999999;"><del>Can&#8217;t view online because of some web-related issue I can&#8217;t solve to load the music</del></span>(SOLVED_by hard coding the url of music file path). But have no ideas how to do the transition from scene to scene&#8230;</p>
+<p dir="ltr">SCENE_ZERO: <a href="http://www.rabbithole.link/" target="_blank">http://www.rabbithole.link/</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/open.png"><img loading="lazy" class="alignnone size-full wp-image-1477" src="http://www.jhclaura.com/wp-content/uploads/2014/04/open.png" alt="open" width="800" height="403" /></a></p>
+<p dir="ltr">SCENE_ONE: <a href="http://www.rabbithole.link/index_D.html" target="_blank">http://www.rabbithole.link/index_D.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-13-at-10.26.14-PM.png"><img loading="lazy" class="alignnone size-full wp-image-1411" src="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-13-at-10.26.14-PM.png" alt="Screen Shot 2014-04-13 at 10.26.14 PM" width="800" height="436" /></a></p>
+<p dir="ltr">SCENCE_TWO: <a href="http://www.rabbithole.link/index_G.html" target="_blank">http://www.rabbithole.link/index_G.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-13-at-10.27.30-PM.png"><img loading="lazy" class="alignnone size-full wp-image-1412" src="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-13-at-10.27.30-PM.png" alt="Screen Shot 2014-04-13 at 10.27.30 PM" width="800" height="436" /></a></p>
+<p dir="ltr">SCENE_THREE: <a href="http://www.rabbithole.link/index_S.html" target="_blank">http://www.rabbithole.link/index_S.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-20-at-6.44.00-PM.png"><img loading="lazy" class="alignnone size-full wp-image-1425" src="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-20-at-6.44.00-PM.png" alt="Screen Shot 2014-04-20 at 6.44.00 PM" width="800" height="397" /></a></p>
+<p dir="ltr">SCENE_FOUR: <a href="http://www.rabbithole.link/index_M.html" target="_blank">http://www.rabbithole.link/index_M.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/maze.png"><img loading="lazy" class="alignnone size-full wp-image-1463" src="http://www.jhclaura.com/wp-content/uploads/2014/04/maze.png" alt="maze" width="800" height="401" /></a></p>
+<p dir="ltr">SCENE_FIVE: <a href="http://www.rabbithole.link/index_T.html" target="_blank">http://www.rabbithole.link/index_T.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/TV.png"><img loading="lazy" class="alignnone size-full wp-image-1467" src="http://www.jhclaura.com/wp-content/uploads/2014/04/TV.png" alt="TV" width="800" height="295" /></a></p>
+<p dir="ltr">SCENE_SIX: <a href="http://www.rabbithole.link/index_F.html" target="_blank">http://www.rabbithole.link/index_F.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/jump.png"><img loading="lazy" class="alignnone size-full wp-image-1472" src="http://www.jhclaura.com/wp-content/uploads/2014/04/jump.png" alt="jump" width="800" height="397" /></a></p>
+<p dir="ltr">SCENE_SEVEN: <a href="http://www.rabbithole.link/index_V.html" target="_blank">http://www.rabbithole.link/index_V.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/voice.png"><img loading="lazy" class="alignnone size-full wp-image-1469" src="http://www.jhclaura.com/wp-content/uploads/2014/04/voice.png" alt="voice" width="800" height="309" /></a></p>
+<p dir="ltr">SCENE_EIGHT: <a href="http://www.rabbithole.link/index_E.html" target="_blank">http://www.rabbithole.link/index_E.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/Elevator.png"><img loading="lazy" class="alignnone size-full wp-image-1474" src="http://www.jhclaura.com/wp-content/uploads/2014/04/Elevator.png" alt="Elevator" width="800" height="399" /></a></p>
+<p dir="ltr">( Three.js + web stuff ) == super deep rabbit hole.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/04/13/composition-rabbit_hole/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HealthyMovieNight</title>
+		<link>/2014/03/02/healthymovienight/</link>
+					<comments>/2014/03/02/healthymovienight/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 02 Mar 2014 19:57:29 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Mashups Web APIs]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[life]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1161</guid>
+
+					<description><![CDATA[(click pic to enter) Idea: choose your movie choose your food give me your weight movie length * calories burn by exercising per min = calories of food in certain amount you have. Issues: hard to find regular food calories API right now just use the first item in the array pizza has no serving [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h1><a href="http://jhclaura.com/meshup/HealthyMovieNight/index.html"><img loading="lazy" class="alignnone size-large wp-image-1149" alt="Eat wo Quilt" src="http://www.jhclaura.com/wp-content/uploads/2014/02/Eat-wo-Quilt-689x1024.jpg" width="689" height="1024" /></a></h1>
+<h2><strong><span style="color: #07f7d5;">(click pic to enter)</span></strong></h2>
+<p>Idea:</p>
+<ol>
+<li>choose your movie</li>
+<li>choose your food</li>
+<li>give me your weight</li>
+<li>movie length * calories burn by exercising per min = calories of food in certain amount you have.</li>
+</ol>
+<p>Issues:</p>
+<ol>
+<li>hard to find regular food calories API
+<ul>
+<li>right now just use the first item in the array</li>
+</ul>
+</li>
+<li>pizza has no serving size unit(null)</li>
+<li>id &#8211;&gt; name</li>
+</ol>
+<p>API:</p>
+<ol>
+<li><a href="http://docs.themoviedb.apiary.io/" target="_blank">The Movie Database API</a></li>
+<li><a href="https://developer.nutritionix.com/" target="_blank">Nutritionix</a></li>
+</ol>
+<p>Source:</p>
+<ul>
+<li><a href="http://www.nutristrategy.com/activitylist4.htm" target="_blank">Calories Burned During Exercise by NutriStrategy</a></li>
+</ul>
+<p>&nbsp;</p>
+<p>html</p>
+<pre class="brush: html; gutter: true">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;meta charset=&quot;utf-8&quot;/&gt;
+		&lt;title&gt; FanGuide &lt;/title&gt;
+		&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;style.css&quot;/&gt;
+
+		&lt;script type=&quot;text/javascript&quot; src=&quot;http://code.jquery.com/jquery-2.0.3.min.js&quot;&gt;&lt;/script&gt;
+		&lt;script type=&quot;text/javascript&quot; src=&quot;http://underscorejs.org/underscore-min.js&quot;&gt;&lt;/script&gt;
+
+	&lt;/head&gt;
+	&lt;body&gt;
+		&lt;p&gt;The Movie Tonight
+		&lt;input id=&quot;movie&quot; type=&quot;text&quot;/&gt;&lt;/p&gt;
+		&lt;p&gt;The Food Tonight
+		&lt;input id=&quot;food&quot; type=&quot;text&quot;/&gt;&lt;/p&gt;
+		&lt;p&gt;Feel Like
+		&lt;button id=&quot;saw&quot;&gt;Forestry&lt;/button&gt; 
+		&lt;button id=&quot;fish&quot;&gt;Fishing&lt;/button&gt;
+		&lt;button id=&quot;dance&quot;&gt;Ballet&lt;/button&gt;
+		&lt;button id=&quot;jog&quot;&gt;Water Jogging&lt;/button&gt;
+		Tonight&lt;/p&gt;
+		&lt;p&gt;Your Weight
+		&lt;input id=&quot;weight&quot; type=&quot;text&quot;/&gt;
+		&lt;button id=&quot;kgButton&quot;&gt;kg&lt;/button&gt;
+		&lt;button id=&quot;lbsButton&quot;&gt;lbs&lt;/button&gt;
+		&lt;/p&gt;
+
+		&lt;button id=&quot;searchButton&quot;&gt;Search&lt;/button&gt;
+		&lt;!-- &lt;button onClick=&quot;getFoodData();return false;&quot;&gt;ARMS Surveys&lt;/button&gt;
+		&lt;div id=&quot;divResultARMS&quot;&gt;&lt;/div&gt; --&gt;
+		&lt;!-- &lt;button id=&quot;update&quot;&gt;UPDATE&lt;/button&gt; --&gt;
+		&lt;div id=&quot;articles&quot;&gt;&lt;/div&gt;
+		&lt;div id=&quot;articles2&quot;&gt;&lt;/div&gt;
+
+	&lt;/body&gt;
+		&lt;script type=&quot;text/javascript&quot; src=&quot;script_new.js&quot;&gt;&lt;/script&gt;
+&lt;/html&gt;</pre>
+<p>js</p>
+<pre class="brush: javascript; gutter: true">var idMovie;
+var movieTitle;
+var duration;
+
+var idFood;
+var nameFood;
+var calories;
+var servingSize;
+var servingSizeUnit;
+
+var weightUnit;
+var exerciseType;	// int
+var exerciseTypeText;
+var caloriesExercise;
+
+var caloriesBurnAfterExersice;
+var amountToEat;
+
+var base_url = &quot;http://image.tmdb.org/t/p/w500&quot;;
+
+function getDuration(){
+	var url = &#039;https://api.themoviedb.org/3/&#039;,
+		mode = &#039;movie/&#039;,
+		key = &#039;?api_key=YourKey&#039;;
+
+	$.ajax({
+		url: url + mode + idMovie + key,
+		dataType: &#039;jsonp&#039;,
+		success: function(data){
+			console.log(data);
+			console.log(&quot;&lt;img srt=&quot;&quot; + base_url + data.backdrop_path + &quot;&quot;&gt;&quot;);
+
+			movieTitle = data.original_title;
+
+			duration = data.runtime;
+			$(&#039;#articles&#039;).append(&quot;&lt;div class=&#039;articleBox&#039;&gt;&quot;);
+			//$(&#039;#articles&#039;).append(&quot;&lt;p&gt;&quot; + movieTitle + &quot;&#039;s runtime: &quot; + duration +&quot;min&quot; + &quot;&lt;/p&gt;&quot;);
+			//$(&#039;#articles&#039;).append(&quot;&lt;img src=&quot;&quot; + base_url + data.backdrop_path + &quot;&quot;&gt;&quot;);
+			$(&#039;#articles&#039;).append(&quot;&lt;/div&gt;&quot;);
+
+			$(&#039;#articles&#039;).css({
+				&quot;color&quot;: &quot;white&quot;
+			});
+
+			$(&#039;body&#039;).css({
+				&quot;background-image&quot;: &quot;url(&quot;&quot; + base_url + data.backdrop_path + &quot;&quot;)&quot;,
+				&quot;color&quot;: &quot;white&quot;
+			});
+			getFoodID();
+		}
+	});
+
+}
+
+function getFoodID(){
+	var url = &#039;https://api.nutritionix.com/v1_1/&#039;,
+		search = &#039;search/&#039;,
+		appId = &#039;&amp;appId=YourId&#039;,
+		appKey = &#039;&amp;appKey=YourKey&#039;,
+		setUp = &#039;results=0%3A10&amp;cal_min=0&amp;cal_max=50000&amp;fields=item_name%2Cbrand_name%2Citem_id%2Cbrand_id&#039;;
+
+	var input = $(&#039;#food&#039;).val(),
+		foodName = encodeURI(input);
+
+	$.ajax({
+		url: url + search + foodName + &#039;?&#039; + setUp + appId + appKey,
+		dataType: &#039;json&#039;,
+
+		error: function(data){
+			console.log(&quot;Something wrong!&quot;);
+		},
+		success: function(data){
+			console.log(data);
+
+			idFood = data.hits[0]._id;
+			nameFood = data.hits[0].fields.brand_name + &quot;&#039;s &quot; + data.hits[0].fields.item_name;
+
+			console.log(idFood + nameFood);
+
+			getNutrition();
+		}
+	});
+
+}
+
+function getNutrition(){
+	var url = &#039;https://api.nutritionix.com/v1_1/&#039;,
+		item = &#039;item?&#039;,
+		appId = &#039;&amp;appId=YourId&#039;,
+		appKey = &#039;&amp;appKey=YourKey&#039;;
+
+	// nutrition search
+	$.ajax({
+		url: url + item + &#039;id=&#039; + idFood + appId + appKey,
+		dataType: &#039;json&#039;,
+
+		error: function(data){
+			console.log(&quot;Something wrong!&quot;);
+		},
+		success: function(data){
+			console.log(data);
+
+			// calories = data.nf_calories;
+			// servingSize = data.nf_serving_size_qty;
+			if(data.nf_serving_size_unit !== null){
+				servingSizeUnit = data.nf_serving_size_unit;
+			}
+
+			if(data.nf_serving_size_qty !== null){
+				calories = data.nf_calories / data.nf_serving_size_qty;
+			} else {
+				calories = data.nf_calories;
+			}
+
+			$(&#039;#articles&#039;).append(&quot;&lt;div class=&#039;articleBox&#039;&gt;&quot;);
+			//$(&#039;#articles&#039;).append(&quot;&lt;p&gt;&quot; + nameFood + &quot;&#039;s calories: &quot; + calories + &quot; per 1 &quot; + servingSizeUnit + &quot;&lt;/p&gt;&quot;);
+			$(&#039;#articles&#039;).append(&quot;&lt;/div&gt;&quot;);
+
+			calculateEat();
+		}
+	});
+}
+
+function caloriesSetUp(){
+
+	$(&#039;#jog&#039;).click(function(){
+		exerciseType = 363;
+		exerciseTypeText = &quot;jog in water&quot;;
+	});
+
+	$(&#039;#saw&#039;).click(function(){
+		exerciseType = 318;
+		exerciseTypeText = &quot;saw trees&quot;;
+	});
+
+	$(&#039;#fish&#039;).click(function(){
+		exerciseType = 114;
+		exerciseTypeText = &quot;fish&quot;;
+	});
+
+	$(&#039;#dance&#039;).click(function(){
+		exerciseType = 205;
+		exerciseTypeText = &quot;dance ballet&quot;;
+	});
+
+	// unit set-up
+	$(&#039;#kgButton&#039;).click(function(){
+		weightUnit = &quot;kg&quot;;
+	});
+
+	$(&#039;#lbsButton&#039;).click(function(){
+		weightUnit = &quot;lbs&quot;;
+	});
+
+}
+
+function caloriesBurn(){
+
+	var input = $(&#039;#weight&#039;).val();
+	if (weightUnit == &quot;lbs&quot;) {
+		caloriesExercise = exerciseType / 100 * input;
+	} else {
+		caloriesExercise = exerciseType / 100 * (input*2.20462);
+	}
+
+	return caloriesExercise;
+}
+
+function calculateEat(){
+
+	caloriesBurn();
+
+	// how many calories it will burn after exercising
+	caloriesBurnAfterExersice = caloriesExercise / 60 * duration;
+
+	// for certain calories, how many I can eat(per 1 serving size)
+	amountToEat = caloriesBurnAfterExersice / calories;
+	amountToEat = Math.round( amountToEat *10)/10;
+
+	console.log(amountToEat);
+
+	$(&#039;#articles2&#039;).append(&quot;&lt;div class=&#039;articleBox&#039;&gt;&quot;);
+	if(servingSizeUnit !== null){
+		$(&#039;#articles2&#039;).append(&quot;&lt;p&gt;During &quot; + movieTitle + &quot;, if you &quot; + exerciseTypeText + &quot; all the way through it, you can eat &quot; + amountToEat + &quot; &quot; + servingSizeUnit + &quot; of &quot; + nameFood + &quot; without worrying gaining any weights!&lt;/p&gt;&quot;);
+	} else {
+		$(&#039;#articles2&#039;).append(&quot;&lt;p&gt;During &quot; + movieTitle + &quot;, if you &quot; + exerciseTypeText + &quot; all the way through it, you can eat &quot; + amountToEat + &quot; &quot; + nameFood + &quot; without worrying gaining any weights!&lt;/p&gt;&quot;);
+	}
+	$(&#039;#articles2&#039;).append(&quot;&lt;p&gt;Calories burnnnnnn.&lt;/p&gt;&quot;);
+	// $(&#039;#articles&#039;).append(&quot;&lt;img src=&quot;&quot; + base_url + data.backdrop_path + &quot;&quot;&gt;&quot;);
+	$(&#039;#articles2&#039;).append(&quot;&lt;/div&gt;&quot;);
+}
+
+$(document).ready(function(){
+	var url = &#039;https://api.themoviedb.org/3/&#039;,
+		mode = &#039;search/movie&#039;,
+		input,
+		movieName,
+		//var url = &quot;https://api.themoviedb.org/3/movie/550?api_key=&quot;;
+		key = &#039;?api_key=YourKey&#039;;
+
+	caloriesSetUp();
+
+	$(&#039;#searchButton&#039;).click(function(){
+		var input = $(&#039;#movie&#039;).val(),
+			movieName = encodeURI(input);
+
+		$.ajax({
+			url: url + mode + key + &#039;&amp;query=&#039; + movieName,
+			dataType: &#039;jsonp&#039;,
+			success: function(data){
+				console.log(data);
+
+				idMovie = data.results[0].id;
+
+				getDuration();
+
+			}
+		});
+
+	});
+
+});</pre>
+<p>css</p>
+<pre class="brush: css; gutter: true">.searchButton{
+	width: 100px;
+	height: 50px;
+	text-align: center
+}
+
+.articles {
+	text-align: center;
+
+}</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/03/02/healthymovienight/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5-in-5_Day4_Fungus</title>
+		<link>/2014/01/25/5-in-5_day4_fungus/</link>
+					<comments>/2014/01/25/5-in-5_day4_fungus/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sat, 25 Jan 2014 17:54:52 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Design/Doodle]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[Fungus Among Us]]></category>
+		<category><![CDATA[5-in-5]]></category>
+		<category><![CDATA[doodle]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[PS]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=769</guid>
+
+					<description><![CDATA[5-in-5 Day4 is fungus day! Fungus all day long. Failed to do javascript w/ fungus but I finished the post about it! Ready to start the spring semester. Welcomed by a broken arm with FUNGUS on it HUHOO. &#8212; close shot of beautiful mushroomsss &#8212;]]></description>
+										<content:encoded><![CDATA[<p>5-in-5 Day4 is fungus day! Fungus all day long. Failed to do javascript w/ fungus but I finished the post about it!</p>
+<p>Ready to start the spring semester. Welcomed by a broken arm with FUNGUS on it HUHOO.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/01/fungus_spring2014.jpg"><img loading="lazy" class="size-large wp-image-770 alignnone" alt="fungus_spring2014" src="http://www.jhclaura.com/wp-content/uploads/2014/01/fungus_spring2014-1024x468.jpg" width="1024" height="468" /></a></p>
+<p>&#8212; close shot of beautiful mushroomsss &#8212;</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/01/fungus_spring_copy.jpg"><img loading="lazy" class="size-full wp-image-771 alignnone" alt="fungus_spring_copy" src="http://www.jhclaura.com/wp-content/uploads/2014/01/fungus_spring_copy.jpg" width="943" height="362" srcset="/wp-content/uploads/2014/01/fungus_spring_copy.jpg 943w, /wp-content/uploads/2014/01/fungus_spring_copy-300x115.jpg 300w" sizes="(max-width: 943px) 100vw, 943px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/01/25/5-in-5_day4_fungus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Design_rejected poster for Winter Show</title>
+		<link>/2014/01/01/design_rejected-poster-for-winter-show/</link>
+					<comments>/2014/01/01/design_rejected-poster-for-winter-show/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 02 Jan 2014 04:04:50 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Design/Doodle]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[mood]]></category>
+		<category><![CDATA[observation]]></category>
+		<category><![CDATA[poster]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=663</guid>
+
+					<description><![CDATA[&#160; *Update*- Not enough information! Although it&#8217;s not chosen, I love it a lot 🙂 It&#8217;s exact my feeling about knowing ITP. Mysterious, shining, make me eager to explore. &#160;]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="wp-image-665 alignleft" alt="winter_show_2013" src="http://www.jhclaura.com/wp-content/uploads/2014/01/winter_show_2013-725x1024.jpg" width="376" height="531" srcset="/wp-content/uploads/2014/01/winter_show_2013-725x1024.jpg 725w, /wp-content/uploads/2014/01/winter_show_2013-213x300.jpg 213w, /wp-content/uploads/2014/01/winter_show_2013.jpg 1275w" sizes="(max-width: 376px) 100vw, 376px" /></p>
+<p>&nbsp;</p>
+<p>*Update*- Not enough information!</p>
+<p>Although it&#8217;s not chosen, I love it a lot <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>It&#8217;s exact my feeling about knowing ITP.</p>
+<p>Mysterious, shining, make me eager to explore.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/01/01/design_rejected-poster-for-winter-show/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Web_Lost</title>
+		<link>/2013/12/10/web_lost/</link>
+					<comments>/2013/12/10/web_lost/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2013 06:37:53 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[CommLab Web]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[mood]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[php]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=522</guid>
+
+					<description><![CDATA[Are you? Come and spread some thoughs! API I used: YouTube, TheCatAPI, Iheartquotes]]></description>
+										<content:encoded><![CDATA[<p><a href="http://jhclaura.com/web_final/lost.php"><img loading="lazy" class="wp-image-658 alignnone" alt="lost_new" src="http://www.jhclaura.com/wp-content/uploads/2013/12/lost_new.gif" width="800" height="450" /></a></p>
+<p style="text-align: center;"><a href="http://jhclaura.com/web_final/lost.php" target="_blank">Are you? Come and spread some thoughs!</a></p>
+<p style="text-align: center;"><span id="more-522"></span></p>
+<p style="text-align: center;">API I used: YouTube, <a href="http://thecatapi.com/docs.html#categories-list" target="_blank">TheCatAPI</a>, <a href="http://iheartquotes.com/api" target="_blank">Iheartquotes</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/12/10/web_lost/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ani_sound visualization</title>
+		<link>/2013/11/27/ani_sound-visualization/</link>
+					<comments>/2013/11/27/ani_sound-visualization/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2013 05:41:42 +0000</pubDate>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[mood]]></category>
+		<category><![CDATA[observation]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=439</guid>
+
+					<description><![CDATA[&#160; Guess what&#8217;s the sound? If you really want to know, below is the answer.]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/11/visualize_sound.jpg"><img loading="lazy" class="aligncenter size-full wp-image-440" alt="visualize_sound" src="http://www.jhclaura.com/wp-content/uploads/2013/11/visualize_sound.jpg" width="1396" height="777" srcset="/wp-content/uploads/2013/11/visualize_sound.jpg 1396w, /wp-content/uploads/2013/11/visualize_sound-300x167.jpg 300w, /wp-content/uploads/2013/11/visualize_sound-1024x570.jpg 1024w" sizes="(max-width: 1396px) 100vw, 1396px" /></a></p>
+<p>&nbsp;</p>
+<p>Guess what&#8217;s the sound?</p>
+<p>If you really want to know, below is the answer.</p>
+<p><span id="more-439"></span></p>
+<p><iframe loading="lazy" frameborder="0" scrolling="no" src="http://www.freesound.org/embed/sound/iframe/77672/simple/small/" width="375" height="30"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/11/27/ani_sound-visualization/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PComp_Interaction_Rethink</title>
+		<link>/2013/10/23/pcomp_interaction_rethink/</link>
+					<comments>/2013/10/23/pcomp_interaction_rethink/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Wed, 23 Oct 2013 07:01:38 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[mind-blown]]></category>
+		<category><![CDATA[observation]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=293</guid>
+
+					<description><![CDATA[7 weeks past, I&#8217;ve seen a lot of interaction thought through a lot of ideas for midterm project. Personally, it strengthens my favor for the tangible interaction. It doesn&#8217;t necessarily need to be touched to activate but it&#8217;s really a satisfying moment to be able to be touched, if users want to. For me, touching [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>7 weeks past, I&#8217;ve seen a lot of interaction thought through a lot of ideas for midterm project. Personally, it strengthens my favor for the tangible interaction. It doesn&#8217;t necessarily need to be touched to activate but it&#8217;s really a satisfying moment to be able to be touched, if users want to. For me, touching strengthen the level of interaction, since touching make workpiece more lively and real. More approachable. And that also strengthen my desire to make some low-fi thing! The original, unpolished appearing can let users focus on the content, and the exposed, seeable technology(e.g. motor, mechanical and physical stuff) can surprise users with familiar things doing unfamiliar things, and might even catalyze users to have new ideas to live the life.</p>
+<p>About whether interaction to be implicit or explicit, I think it is case by case. Personally, unpredictable and surprise is my thing but some people might find it annoying and uncomfortable. Moreover, measuring the level of implicit is also an important issue. It should still have patterns or certain amount of logic, in that way users can still have the power of control.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/10/23/pcomp_interaction_rethink/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PComp_5_Don&#8217;t Touch My Cookie!</title>
+		<link>/2013/10/09/pcomp_5_dont-touch-my-cookie/</link>
+					<comments>/2013/10/09/pcomp_5_dont-touch-my-cookie/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2013 21:29:49 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[processing]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=251</guid>
+
+					<description><![CDATA[Fantasy kind of comes to live guys! After the PComp class, I was inspired to do more about how the communications between Arduino and Processing. I want them to be more instinct, more meaningful, and more related to each other, not just switching on and off. And stay away using MOUSE to control/adjust my work [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Fantasy kind of comes to live guys!</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/76550717?byline=0&amp;portrait=0&amp;color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>After the PComp class, I was inspired to do more about how the communications between Arduino and Processing. I want them to be more instinct, more meaningful, and more related to each other, not just switching on and off. And stay away using MOUSE to control/adjust my work all the time. My works should have their own behaviors patterns, without others tell them what to do. (kind of like users can only have small control/impact on them ;))</p>
+<p style="text-align: center;">So I came out of an idea to control the chocolate spiders amount of my this week&#8217;s ICM homework! Since my intention of this project is scaring away people who try to eat it, why not building the interaction based on that? The more you come closer to the cookie(I use photosensor), the more chocolate spiders will come out alive. And the button at Top Left corner will turn red to warn!<a href="http://www.jhclaura.com/wp-content/uploads/2013/10/PComp_cookie_spider.png"><img loading="lazy" class="aligncenter  wp-image-256" alt="PComp_cookie_spider" src="http://www.jhclaura.com/wp-content/uploads/2013/10/PComp_cookie_spider.png" width="478" height="475" srcset="/wp-content/uploads/2013/10/PComp_cookie_spider.png 597w, /wp-content/uploads/2013/10/PComp_cookie_spider-150x150.png 150w, /wp-content/uploads/2013/10/PComp_cookie_spider-300x298.png 300w" sizes="(max-width: 478px) 100vw, 478px" /></a></p>
+<p>And it worked! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> The contends and the behavior matched perfectly. First time! Exciting!! And my circuit looked simple as well.</p>
+<p><img loading="lazy" class="aligncenter  wp-image-252" alt="2013-10-09 14.33.07" src="http://www.jhclaura.com/wp-content/uploads/2013/10/2013-10-09-14.33.07-613x1024.jpg" width="400" height="668" srcset="/wp-content/uploads/2013/10/2013-10-09-14.33.07-613x1024.jpg 613w, /wp-content/uploads/2013/10/2013-10-09-14.33.07-180x300.jpg 180w, /wp-content/uploads/2013/10/2013-10-09-14.33.07.jpg 1552w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p>Come out a good/crazy idea, and then execute it well in the most instinct and simplest way. It&#8217;s my goal of life now.</p>
+<p style="text-align: left;">Below are my To-Do-Lists that inspired through today&#8217;s PComp class:</p>
+<ol>
+<li>Change velocity, acceleration, changes, instead of just position and on-and-off, so when there’s no input(no one using it), animation still runs.</li>
+<li>Different modes with different compositions of inputs. (e.g. Mode A: button 1; Mode B: button 1+2 &#8230;)</li>
+<li>Let users feel they control something in an abstract way. (Wwwwooo complicated&#8230;)</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/10/09/pcomp_5_dont-touch-my-cookie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MAX_nice to meet you!</title>
+		<link>/2013/10/04/max_nice-to-meet-you/</link>
+					<comments>/2013/10/04/max_nice-to-meet-you/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 04 Oct 2013 13:32:52 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fall 2013]]></category>
+		<category><![CDATA[dope]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=238</guid>
+
+					<description><![CDATA[First met Max on Oct. 3rd 2013, through fly-by by buddy Andy. Very excited! &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/10/first_time.png"><img loading="lazy" class="aligncenter size-full wp-image-239" alt="first_time" src="http://www.jhclaura.com/wp-content/uploads/2013/10/first_time.png" width="800" height="437" srcset="/wp-content/uploads/2013/10/first_time.png 800w, /wp-content/uploads/2013/10/first_time-300x164.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p>First met Max on Oct. 3rd 2013, through fly-by by buddy Andy. Very excited!</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/10/04/max_nice-to-meet-you/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

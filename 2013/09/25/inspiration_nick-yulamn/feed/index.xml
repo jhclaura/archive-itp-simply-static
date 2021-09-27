@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: inspiration_Nick Yulamn	</title>
+	<atom:link href="/2013/09/25/inspiration_nick-yulamn/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/09/25/inspiration_nick-yulamn/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Wed, 09 Oct 2013 16:54:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		By: Laura		</title>
+		<link>/2013/09/25/inspiration_nick-yulamn/#comment-7</link>
+
+		<dc:creator><![CDATA[Laura]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2013 16:54:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=187#comment-7</guid>
+
+					<description><![CDATA[Oh cool thanks for the information!! Excited!]]></description>
+			<content:encoded><![CDATA[<p>Oh cool thanks for the information!! Excited!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tom Igoe		</title>
+		<link>/2013/09/25/inspiration_nick-yulamn/#comment-6</link>
+
+		<dc:creator><![CDATA[Tom Igoe]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2013 12:22:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=187#comment-6</guid>
+
+					<description><![CDATA[Nick&#039;s currently teaching the Automata class at ITP. He&#039;s around each week, find him and chat with him about it.]]></description>
+			<content:encoded><![CDATA[<p>Nick&#8217;s currently teaching the Automata class at ITP. He&#8217;s around each week, find him and chat with him about it.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

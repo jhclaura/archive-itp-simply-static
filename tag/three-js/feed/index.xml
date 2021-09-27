@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>three.js &#8211; ITP Days</title>
+	<atom:link href="/tag/three-js/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Sun, 09 Nov 2014 20:31:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>three.js &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mare</title>
+		<link>/2014/11/09/mare/</link>
+					<comments>/2014/11/09/mare/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 09 Nov 2014 20:31:42 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Project Development Studio]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[Daniel Shiffman]]></category>
+		<category><![CDATA[mare]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[Oculus Rift]]></category>
+		<category><![CDATA[project]]></category>
+		<category><![CDATA[three.js]]></category>
+		<category><![CDATA[Web Audio API]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1717</guid>
+
+					<description><![CDATA[The Dream. &#160; (Click to enter the official blog) It&#8217;s going to happen. Woohoo. What will be involved? Three.js Web Audio API Oculus Rift Foot controller(Arduino + Node.js) Special thanks to The Nature of Code by Daniel Shiffman]]></description>
+										<content:encoded><![CDATA[<p>The Dream.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/11/for-blog.png"><img loading="lazy" class="alignnone size-large wp-image-1726" src="http://www.jhclaura.com/wp-content/uploads/2014/11/for-blog-1024x613.png" alt="Mare" width="1024" height="613" /></a></p>
+<p>&nbsp;</p>
+<p>(Click to enter the official blog) It&#8217;s going to happen. Woohoo.</p>
+<p>What will be involved?</p>
+<ul>
+<li>Three.js</li>
+<li>Web Audio API</li>
+<li>Oculus Rift</li>
+<li>Foot controller(Arduino + Node.js)</li>
+<li>Special thanks to <a href="http://natureofcode.com/" target="_blank">The Nature of Code</a> by Daniel Shiffman</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/11/09/mare/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>{Rabbit_Hole} update!</title>
+		<link>/2014/04/27/rabbit_hole-update-half-way-to-go/</link>
+					<comments>/2014/04/27/rabbit_hole-update-half-way-to-go/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 28 Apr 2014 03:17:12 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Coding for Emotional Impact]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[RabbitHole]]></category>
+		<category><![CDATA[three.js]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1436</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" src="https://docs.google.com/presentation/d/1UP_n7l4r-ZdcueNbdV9g5uRBcsBFXeobt2OsJm9b3_Q/embed?start=false&#038;loop=true&#038;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/04/27/rabbit_hole-update-half-way-to-go/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>{Rabbit_Hole}</title>
+		<link>/2014/04/13/composition-rabbit_hole/</link>
+					<comments>/2014/04/13/composition-rabbit_hole/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 14 Apr 2014 02:41:32 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Coding for Emotional Impact]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[Maya]]></category>
+		<category><![CDATA[project]]></category>
+		<category><![CDATA[three.js]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1409</guid>
+
+					<description><![CDATA[{currently works with Chrome and Firefox browser} For the composition assignment the final of Coding for Emotional Impact class, I want to create something with multiple layers and is self-explained. Inspired by the description of computer vision is a rabbit hole from Andy(because I&#8217;m learning Three.js by myself recently), I wanted to make a game about &#8220;Rabbit [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-size: 14pt;">{currently works with <span style="color: #000000;">Chrome</span> and Firefox browser}</span></p>
+<p>For <del>the composition assignment</del> the final of <em>Coding for Emotional Impact</em> class, I want to create something with multiple layers and is self-explained. Inspired by the description of computer vision is a rabbit hole from <a href="http://andysigler.com/" target="_blank">Andy</a>(because I&#8217;m learning <a href="http://threejs.org/" target="_blank">Three.js</a> by myself recently), I wanted to make a game about &#8220;Rabbit Hole&#8221;, and my biggest assumption is that everyone is sort of down the rabbit hole.</p>
+<p>ps. It&#8217;s not really a fun game to play. Still confusing should it be fun to play or just an emotion-building nowhere&#8230;</p>
+<div style="color: #222222;">&#8211; Title</div>
+<div style="color: #222222;"><strong><span style="font-size: 12pt;"><span style="font-family: 'andale mono', times;">Rabbit Hole</span></span></strong></div>
+<div style="color: #222222;"></div>
+<div style="color: #222222;"></div>
+<div style="color: #222222;">&#8211; Environment</div>
+<div style="color: #222222;"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/environment.png"><img loading="lazy" class="alignnone wp-image-1426 " src="http://www.jhclaura.com/wp-content/uploads/2014/04/environment.png" alt="environment" width="382" height="494" /></a>     <a href="http://www.jhclaura.com/wp-content/uploads/2014/04/environment2.png"><img loading="lazy" class="alignnone wp-image-1427 " src="http://www.jhclaura.com/wp-content/uploads/2014/04/environment2.png" alt="environment2" width="383" height="496" /></a></div>
+<div style="color: #222222;"></div>
+<div style="color: #222222;">&#8211; Audience</div>
+<div style="color: #222222;"><span style="font-family: 'andale mono', times; font-size: 12pt;">Whoever also down the rabbit hole or wonder how it feel down there.</span></div>
+<div style="color: #222222;"></div>
+<div style="color: #222222;"><span style="font-family: 'andale mono', times; font-size: 12pt;"> </span></div>
+<div style="color: #222222;">&#8211; Narrative arc</div>
+<div style="color: #222222;"><span style="font-family: 'Book Antiqua', Palatino; font-size: medium;"><span style="font-family: 'Andale Mono', Times;"><strong>Rabbit Hole</strong>&#8211;</span></span><span style="font-family: 'Book Antiqua', Palatino; font-size: medium; color: #888888;"><em>Metaphor for the conceptual path which is thought to lead to the true nature of reality. Infinitesimally deep and complex, venturing too far down is probably not that great of an idea.</em></span></div>
+<p dir="ltr"><span style="font-family: 'Andale Mono', Times; font-size: medium;"><strong>Literary Nonsense-</strong></span> <span style="font-size: medium; color: #808080;"><em><span style="line-height: 1.5em; font-family: 'Book Antiqua', Palatino;">has no system of logic, although it may imply the existence of an inscrutable one, just beyond our grasp.</span></em></span></p>
+<p dir="ltr">And below are three snapshots of what I&#8217;ve built so far. I made my own models in Maya and drew textures in Photoshop. <span style="color: #999999;"><del>Can&#8217;t view online because of some web-related issue I can&#8217;t solve to load the music</del></span>(SOLVED_by hard coding the url of music file path). But have no ideas how to do the transition from scene to scene&#8230;</p>
+<p dir="ltr">SCENE_ZERO: <a href="http://www.rabbithole.link/" target="_blank">http://www.rabbithole.link/</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/open.png"><img loading="lazy" class="alignnone size-full wp-image-1477" src="http://www.jhclaura.com/wp-content/uploads/2014/04/open.png" alt="open" width="800" height="403" /></a></p>
+<p dir="ltr">SCENE_ONE: <a href="http://www.rabbithole.link/index_D.html" target="_blank">http://www.rabbithole.link/index_D.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-13-at-10.26.14-PM.png"><img loading="lazy" class="alignnone size-full wp-image-1411" src="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-13-at-10.26.14-PM.png" alt="Screen Shot 2014-04-13 at 10.26.14 PM" width="800" height="436" /></a></p>
+<p dir="ltr">SCENCE_TWO: <a href="http://www.rabbithole.link/index_G.html" target="_blank">http://www.rabbithole.link/index_G.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-13-at-10.27.30-PM.png"><img loading="lazy" class="alignnone size-full wp-image-1412" src="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-13-at-10.27.30-PM.png" alt="Screen Shot 2014-04-13 at 10.27.30 PM" width="800" height="436" /></a></p>
+<p dir="ltr">SCENE_THREE: <a href="http://www.rabbithole.link/index_S.html" target="_blank">http://www.rabbithole.link/index_S.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-20-at-6.44.00-PM.png"><img loading="lazy" class="alignnone size-full wp-image-1425" src="http://www.jhclaura.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-20-at-6.44.00-PM.png" alt="Screen Shot 2014-04-20 at 6.44.00 PM" width="800" height="397" /></a></p>
+<p dir="ltr">SCENE_FOUR: <a href="http://www.rabbithole.link/index_M.html" target="_blank">http://www.rabbithole.link/index_M.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/maze.png"><img loading="lazy" class="alignnone size-full wp-image-1463" src="http://www.jhclaura.com/wp-content/uploads/2014/04/maze.png" alt="maze" width="800" height="401" /></a></p>
+<p dir="ltr">SCENE_FIVE: <a href="http://www.rabbithole.link/index_T.html" target="_blank">http://www.rabbithole.link/index_T.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/TV.png"><img loading="lazy" class="alignnone size-full wp-image-1467" src="http://www.jhclaura.com/wp-content/uploads/2014/04/TV.png" alt="TV" width="800" height="295" /></a></p>
+<p dir="ltr">SCENE_SIX: <a href="http://www.rabbithole.link/index_F.html" target="_blank">http://www.rabbithole.link/index_F.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/jump.png"><img loading="lazy" class="alignnone size-full wp-image-1472" src="http://www.jhclaura.com/wp-content/uploads/2014/04/jump.png" alt="jump" width="800" height="397" /></a></p>
+<p dir="ltr">SCENE_SEVEN: <a href="http://www.rabbithole.link/index_V.html" target="_blank">http://www.rabbithole.link/index_V.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/voice.png"><img loading="lazy" class="alignnone size-full wp-image-1469" src="http://www.jhclaura.com/wp-content/uploads/2014/04/voice.png" alt="voice" width="800" height="309" /></a></p>
+<p dir="ltr">SCENE_EIGHT: <a href="http://www.rabbithole.link/index_E.html" target="_blank">http://www.rabbithole.link/index_E.html</a></p>
+<p dir="ltr"><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/Elevator.png"><img loading="lazy" class="alignnone size-full wp-image-1474" src="http://www.jhclaura.com/wp-content/uploads/2014/04/Elevator.png" alt="Elevator" width="800" height="399" /></a></p>
+<p dir="ltr">( Three.js + web stuff ) == super deep rabbit hole.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/04/13/composition-rabbit_hole/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>study note_{Three.js}</title>
+		<link>/2014/03/31/study-note_three-js/</link>
+					<comments>/2014/03/31/study-note_three-js/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 31 Mar 2014 13:03:25 +0000</pubDate>
+				<category><![CDATA[Coding for Emotional Impact]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[3D]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[three.js]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1382</guid>
+
+					<description><![CDATA[3D in Web journey starts! Trying to convert last week&#8217;s sketch from Processing into Three.js. But can&#8217;t finished it by Monday for the class, still in progress&#8230; Here&#8217;s what I got so far(WARNING: ROUGH), and below are the notes on translating Processing into JavaScript. Will organized it once I finish the work. Stay tuned! Experience I learned from [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>3D in Web journey starts! Trying to convert <a title="Timing and Pacing" href="http://www.jhclaura.com/timing-and-pacing/" target="_blank">last week&#8217;s sketch</a> from Processing into Three.js. But can&#8217;t finished it by Monday for the class, still in progress&#8230; <strong><span style="color: #ff6600;"><a href="http://jhclaura.com/meshup/noise3d/index.html" target="_blank"><span style="color: #ff6600;">Here&#8217;s what I got so far</span></a></span></strong>(<span style="color: #ff0000;"><strong>WARNING: ROUGH</strong></span>), and below are the notes on translating Processing into JavaScript. Will organized it once I finish the work. Stay tuned!</p>
+<p><span style="font-size: medium;"><strong><span style="font-family: 'Andale Mono', Times;">Experience I learned from banging my head against bloody wall</span></strong></span></p>
+<ol>
+<li>put your codes in function and then execute them by calling the function
+<ul>
+<li>tried to rotate my goddamn tetrahedron without doing this and had been failing for nearly 2 hours, just kept failing and failing and failing&#8230;.</li>
+</ul>
+</li>
+<li>OOP
+<ul>
+<li>links
+<ul>
+<li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript</li>
+<li>http://stackoverflow.com/questions/572897/how-does-javascript-prototype-work</li>
+<li>https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/issues/8</li>
+<li>http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/</li>
+<li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype</li>
+<li>http://www.objectplayground.com/</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>color
+<ul>
+<li>if using HSL, material.color.setHSL( h, s, l); &#8211;&gt; *careful* can&#8217;t set s, l both to 1, it&#8217;d be white even though h &lt; 1</li>
+</ul>
+</li>
+<li>Web Audio API
+<ul>
+<li>http://srchea.com/experimenting-with-web-audio-api-three-js-webgl</li>
+</ul>
+</li>
+<li>Clickable!!
+<ul>
+<li>http://soledadpenades.com/articles/three-js-tutorials/object-picking/</li>
+<li>http://threejs.org/examples/canvas_interactive_cubes.html</li>
+<li>http://stackoverflow.com/questions/11036106/three-js-projector-and-ray-objects</li>
+<li></li>
+</ul>
+</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/03/31/study-note_three-js/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

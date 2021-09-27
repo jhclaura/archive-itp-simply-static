@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>arduino &#8211; ITP Days</title>
+	<atom:link href="/tag/arduino/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Fri, 02 Jan 2015 20:40:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>arduino &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Haunted House _{ Brothers&#8217; Room }</title>
+		<link>/2015/01/02/haunted-house-_-brothers-room/</link>
+					<comments>/2015/01/02/haunted-house-_-brothers-room/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 02 Jan 2015 20:40:46 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fall 2014]]></category>
+		<category><![CDATA[Haunted House]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[dmx lights]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[haunted house]]></category>
+		<category><![CDATA[immersive theatre]]></category>
+		<category><![CDATA[installation]]></category>
+		<category><![CDATA[max/msp]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1842</guid>
+
+					<description><![CDATA[For the class Haunted House Final, which is a real haunted house held on the floor of ITP, Jonathan, Michelle and I created &#8220;Brothers&#8217; Room&#8220;, depicting a tragedy happened between brothers and how the lived one is haunted by the guilt and grief. &#160; Story Pere and his brother died in an accident and arrived [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/poster.jpg"><img loading="lazy" class="alignnone size-full wp-image-1862" src="http://www.jhclaura.com/wp-content/uploads/2015/01/poster.jpg" alt="poster" width="667" height="1000" /></a></p>
+<p>For the class <strong>Haunted House</strong> Final, which is a real haunted house held on the floor of ITP, <a href="http://jonathansparks.com/" target="_blank">Jonathan</a>, <a href="http://www.michellechandra.com/" target="_blank">Michelle</a> and I created &#8220;<span style="font-family: 'Book Antiqua', Palatino; font-size: 12pt;"><strong>Brothers&#8217; Room</strong></span>&#8220;, depicting a tragedy happened between brothers and how the lived one is haunted by the guilt and grief.</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'Andale Mono', Times;">Story</span></strong></span></p>
+<ul>
+<li>Pere and his brother died in an accident and arrived at this intermediate stage between life/death. Brother, feeling unconflicted, moved on to afterlife, but Pere stays out of guilt, because he’s responsible for his brother’s death.</li>
+<li>Pere is haunted by himself.</li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-family: 'Andale Mono', Times; font-size: 14pt;"><strong>Concept</strong></span></p>
+<ul>
+<li>The room is a representation of Pere&#8217;s mind.</li>
+<li>Showing the loop of emotions</li>
+<li>(1) sweet memory with brother</li>
+<li>(2) scared of Brother&#8217;s death</li>
+<li>(3) freaks out as Brother&#8217;s ghost showing up in the mirror</li>
+<li>(4) guilty and asks for forgiving</li>
+<li>back to (1)</li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'Andale Mono', Times;">Technique / Effects</span></strong></span><br />
+&#8211;&gt; Reflecting Pere&#8217;s emotions, the room reflects this with more intense light, sound, and walls shaking. At the climax, the man realizes he&#8217;s responsible for his brother&#8217;s death, the wall of the hidden room drops, and his brother appears in the 2-way mirror. The man sees him and cracks. Annnnd, start over!</p>
+<ul>
+<li>DMX lights: controlled by Arduino, Tinker.it! DMX shield, and Max/Msp patch</li>
+<li>Sounds / Music: controlled by Max/Msp patch</li>
+<li>Burned scar of Brother: latex gel, tissues, and colors</li>
+<li>Hidden Room Revealed: fabric and strings!</li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-family: 'Andale Mono', Times; font-size: 14pt;"><strong>Script</strong></span></p>
+<p><iframe loading="lazy" src="https://docs.google.com/document/d/1ve6zJlP6JA-JbEVyS-L8knrjYkQcQIs04ScedIysGzc/pub?embedded=true" width="800" height="300"></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-family: 'Andale Mono', Times; font-size: 14pt;"><strong>Prep / Installation</strong></span></p>
+
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'Andale Mono', Times;">Show Time</span></strong></span></p>
+
+<p>&nbsp;</p>
+<p><span style="font-family: 'Andale Mono', Times; font-size: 14pt;"><strong>Other Scenes</strong></span></p>
+
+<p>&nbsp;</p>
+<p><span style="font-family: 'Andale Mono', Times; font-size: 14pt;"><strong>Whole Crews <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></span></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/staff.jpg"><img loading="lazy" class="alignnone wp-image-1864 size-full" src="http://www.jhclaura.com/wp-content/uploads/2015/01/staff.jpg" alt="" width="1000" height="750" /></a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/01/02/haunted-house-_-brothers-room/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mare</title>
+		<link>/2014/11/09/mare/</link>
+					<comments>/2014/11/09/mare/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 09 Nov 2014 20:31:42 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Project Development Studio]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[Daniel Shiffman]]></category>
+		<category><![CDATA[mare]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[Oculus Rift]]></category>
+		<category><![CDATA[project]]></category>
+		<category><![CDATA[three.js]]></category>
+		<category><![CDATA[Web Audio API]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1717</guid>
+
+					<description><![CDATA[The Dream. &#160; (Click to enter the official blog) It&#8217;s going to happen. Woohoo. What will be involved? Three.js Web Audio API Oculus Rift Foot controller(Arduino + Node.js) Special thanks to The Nature of Code by Daniel Shiffman]]></description>
+										<content:encoded><![CDATA[<p>The Dream.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/11/for-blog.png"><img loading="lazy" class="alignnone size-large wp-image-1726" src="http://www.jhclaura.com/wp-content/uploads/2014/11/for-blog-1024x613.png" alt="Mare" width="1024" height="613" /></a></p>
+<p>&nbsp;</p>
+<p>(Click to enter the official blog) It&#8217;s going to happen. Woohoo.</p>
+<p>What will be involved?</p>
+<ul>
+<li>Three.js</li>
+<li>Web Audio API</li>
+<li>Oculus Rift</li>
+<li>Foot controller(Arduino + Node.js)</li>
+<li>Special thanks to <a href="http://natureofcode.com/" target="_blank">The Nature of Code</a> by Daniel Shiffman</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/11/09/mare/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Memory Glasses &#8211;&gt; TO remember OR TO forget</title>
+		<link>/2014/10/19/to-remember-or-to-forget/</link>
+					<comments>/2014/10/19/to-remember-or-to-forget/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 19 Oct 2014 15:53:07 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[To Remember And Forget]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1685</guid>
+
+					<description><![CDATA[[idea update, 10/19] For the &#8220;Device to Forget&#8221;, I started brainstorming by thinking that who/what to do the action of forgetting? S/He/It could be me, other people, animals, machines, and even time. And then when I researched for forgetting, I gradually came out of the idea to replace the one you want to forget with the new one, like hallucinating yourself, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em><strong>[idea update, 10/19]</strong></em></p>
+<p>For the &#8220;Device to Forget&#8221;, I started brainstorming by thinking that <strong>who</strong>/<strong>what</strong> to do the action of forgetting? S/He/It could be <span style="text-decoration: underline;">me</span>, <span style="text-decoration: underline;">other people</span>, <span style="text-decoration: underline;">animals</span>, <span style="text-decoration: underline;">machines</span>, and even <span style="text-decoration: underline;">time</span>. And then when I researched for forgetting, I gradually came out of the idea to replace the one you want to forget with the new one, like hallucinating yourself, and that can apply to my memory glasses idea!</p>
+<p>Originally, &#8220;Memory Glasses&#8221; is putting objects that represent daily highlights into the glass bottles, and also restoring sounds related to it digitally. But now, I&#8217;m thinking about changing it into a device also can help you forgetting something too!</p>
+<p>So. For example, A tries to forget B(could be a person or an event).</p>
+<ol>
+<li>First of all, <strong>A</strong> collected all the stimuli that relate to <strong>B</strong>, and put them into the glass bottles. With each glass bottles, <strong>A</strong> records the related memories into each bottles.</li>
+<li><strong>A</strong> puts the device in a public place. People come close, looking at each bottles and listening to the memories.</li>
+<li><strong>People</strong> are asked to come out their own versions of stories with each bottles, and record them with the device.</li>
+<li>From time to time, <strong>A</strong> comes to the device and, looking at the familiar objects but hearing the unfamiliar memories.</li>
+<li>Gradually, <strong>A</strong>&#8216;s original memories relating to the objects fade, and new memories bloom.</li>
+</ol>
+<p>&nbsp;</p>
+<p>[Note] &#8211; Before <strong>A</strong> listening to the stories/new memories, the device might need a <strong>C</strong> to be a filter.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>================================================================================</p>
+<p><em><strong>[documentation, 10/13]</strong></em></p>
+<p>So. Prototype #2. <strong><span style="color: #00d6bd;"><a style="color: #00d6bd;" title="TRAF + Automata_Memory Glasses" href="http://www.jhclaura.com/traf-automata_memory-glasses/">Prototype #1</a></span></strong> is a lovely but cranky one. Due to the bad connection between the theoretical workable but awful functional design, I decided to make another version of it. After the office hour with Daniel Rozin, I realized the importance of stableness of this installation. For people to casually take up and put back, the connection of switches should be robust enough, e.g. jack head base.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/v1_5.jpg"><img loading="lazy" class="alignnone wp-image-1686 " src="http://www.jhclaura.com/wp-content/uploads/2014/10/v1_5-300x300.jpg" alt="v1_5" width="430" height="430" /></a></p>
+<p>But because of the gear testing of Automata, I kind of fell in love with steel wire, and I&#8217;m wondering if it&#8217;s possible to cooperate glass bottles with steel wires.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/v2.jpeg"><img loading="lazy" class="alignnone wp-image-1687 " src="http://www.jhclaura.com/wp-content/uploads/2014/10/v2-300x300.jpeg" alt="v2" width="440" height="440" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/v2_test.jpg"><img loading="lazy" class="alignnone  wp-image-1692" src="http://www.jhclaura.com/wp-content/uploads/2014/10/v2_test.jpg" alt="v2_test" width="444" height="789" /></a></p>
+<p>And here&#8217;s the test! Thanks to Andy&#8217;s suggestion, I change the method of reading the status of the switches. From one by one to multiplexing. Here&#8217;s a <span style="color: #00d6bd;"><a style="color: #00d6bd;" href="http://www.instructables.com/id/Multiplexing-with-Arduino-and-the-74HC595/" target="_blank"><strong>detailed description/tutorial</strong></a></span> of it. It looks simple, like &#8220;oh just buttons big deal~&#8221;<span style="font-size: 10pt;">, but took me so much fxxking time. That&#8217;s just reminded me again: &#8220;Nothing is simple.&#8221;</span></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/diagram.jpg"><img loading="lazy" class="alignnone  wp-image-1688" src="http://www.jhclaura.com/wp-content/uploads/2014/10/diagram.jpg" alt="diagram" width="450" height="446" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/circuits.jpg"><img loading="lazy" class="alignnone size-full wp-image-1689" src="http://www.jhclaura.com/wp-content/uploads/2014/10/circuits.jpg" alt="circuits" width="800" height="450" /></a></p>
+<p><span style="font-size: 10pt;">***Remember to use the <span style="color: #ff126d;"><span style="font-family: 'Andale Mono', Times;"><strong>10K as pull-down resistors</strong></span></span>!!! The main reason that made me struggle whole night&#8230;. even I used other resistors but not 10k. GEEZ.</span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/10/19/to-remember-or-to-forget/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>interview and sensors test {FungU}</title>
+		<link>/2014/02/11/interview-and-sensors-test-fungu/</link>
+					<comments>/2014/02/11/interview-and-sensors-test-fungu/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2014 05:53:31 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fungus Among Us]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[motor]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[ultrasonic]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1041</guid>
+
+					<description><![CDATA[Interview with Stephen from Ecovative and Customer Service Lady from Fungi Perfecti: Free form mycelium fabrication could be doable, just remember to degerm. Can&#8217;t be pressed in small mold because it will be hard to take out of the mold. Can try to put growing log in the mold I make to grow, but cut [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Interview with Stephen from Ecovative and Customer Service Lady from Fungi Perfecti:</p>
+<ul>
+<li>Free form mycelium fabrication could be doable, just remember to degerm.</li>
+<li>Can&#8217;t be pressed in small mold because it will be hard to take out of the mold.</li>
+<li>Can try to put growing log in the mold I make to grow, but cut it in half equals to cut the nutrients in half.</li>
+</ul>
+<p>Discuss with Scott:</p>
+<ul>
+<li>Questions for myself
+<ul>
+<li>organic or clean? based on what message I want to send, what emotion I want people to have <span style="line-height: 1.5em;">be intrigued, be bound, to have raw </span><span style="line-height: 1.5em;">motion from</span></li>
+<li><span style="line-height: 1.5em;">—&gt; messy, wild, crazy —&gt; Organic!</span></li>
+</ul>
+</li>
+</ul>
+<p>Lab:</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/02/sensor_test.jpg"><img loading="lazy" class="alignnone  wp-image-1042" alt="sensor_test" src="http://www.jhclaura.com/wp-content/uploads/2014/02/sensor_test.jpg" width="640" height="383" /></a></p>
+<p>&nbsp;</p>
+<ul>
+<li>kind of achieve to mimic the movement of the mushroom: when no one near, the mushroom keeps swinging, when ppl come near, the mushroom is aware and then stops.</li>
+<li>problems: swing speed needs to slow down, could be more sensitive and accurate. ASK around. Yo.</li>
+</ul>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/86385958?byline=0&amp;color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Schedule:</p>
+<ul>
+<li>order oyster mushroom kit</li>
+<li>try using mycelium as dough(if it&#8217;s doable, project might change)</li>
+<li>physical design</li>
+<li>software design</li>
+<li>LAB in shops</li>
+<li>blue foam: big &amp; small fungi</li>
+<li>wood base box</li>
+<li>put oyster mushroom in it and wait it to grow!!!</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/11/interview-and-sensors-test-fungu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5-in-5_Day1_Unicorn Striking through the Grass</title>
+		<link>/2014/01/22/5-in-5_day1_unicorn-striking-through-the-grass/</link>
+					<comments>/2014/01/22/5-in-5_day1_unicorn-striking-through-the-grass/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2014 07:25:17 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[5-in-5]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=736</guid>
+
+					<description><![CDATA[&#8220;n-in-n&#8221;, a tradition around ITP, where students complete n project in n day, over a certain number of days. In this case, 5 days, 5 projects. Besides participating bunch of workshops held by amazing 2nd-years, for my Day1 project, I was thinking about doing StormLighter with this tutorial, but cut it off because of the shortage [&#8230;]]]></description>
+										<content:encoded><![CDATA[<blockquote><p>&#8220;n-in-n&#8221;, a tradition around ITP, where students complete <b>n project in n day</b>, over a certain number of days.</p></blockquote>
+<p>In this case, 5 days, 5 projects. Besides participating bunch of workshops held by amazing 2nd-years, f<span style="font-size: 1em;">or my Day1 project, I was thinking about doing </span><span style="color: #ff0000;">S</span><span style="color: #ff6600;">t</span><span style="color: #ffcc99;">o</span><span style="color: #99cc00;">r</span><span style="font-size: 1em; color: #339966;">m</span><span style="color: #33cccc;">L</span><span style="color: #3366ff;">i</span><span style="color: #333399;">g</span><span style="color: #cc99ff;">h</span><span style="color: #993366;">t</span><span style="font-size: 1em; color: #993300;">e</span><span style="color: #ff00ff;">r</span><span style="font-size: 1em;"> with this </span><a style="font-size: 1em;" href="http://www.instructables.com/id/Storm-lighter/" target="_blank">tutorial</a><span style="font-size: 1em;">, but cut it off because of the shortage of materials. So I moved on to other new stuff: </span><strong style="font-size: 1em;">Capacity Sensing Library</strong><span style="font-size: 1em;">, which I always wanted to try, and </span><strong style="font-size: 1em;">RGB Led</strong><span style="font-size: 1em;">, because why not. For few hours here&#8217;s my rainbow-ish project result.</span></p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/84747766?color=c9ff23" height="438" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p><strong>wires</strong></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/01/unicorn_circuits.jpg"><img loading="lazy" class="aligncenter size-large wp-image-742" alt="unicorn_circuits" src="http://www.jhclaura.com/wp-content/uploads/2014/01/unicorn_circuits-1024x613.jpg" width="1024" height="613" srcset="/wp-content/uploads/2014/01/unicorn_circuits-1024x613.jpg 1024w, /wp-content/uploads/2014/01/unicorn_circuits-300x180.jpg 300w, /wp-content/uploads/2014/01/unicorn_circuits.jpg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><strong></strong><strong>code</strong></p>
+<pre class="brush: cpp; gutter: true">#include &lt;CapacitiveSensor.h&gt;
+
+int redPin = 11;
+int greenPin = 10;
+int bluePin = 9;
+
+int sendPin = 4;
+int RreceivePin = 2;
+int GreceivePin = 6;
+int BreceivePin = 8;
+
+CapacitiveSensor   cs_4_2 = CapacitiveSensor(4,2);
+CapacitiveSensor   cs_4_6 = CapacitiveSensor(4,6);
+CapacitiveSensor   cs_4_8 = CapacitiveSensor(4,8);
+
+void setup()
+{
+  pinMode(redPin, OUTPUT);
+  pinMode(greenPin, OUTPUT);
+  pinMode(bluePin, OUTPUT);
+
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  long start = millis();
+  long total1 =  cs_4_2.capacitiveSensor(30);
+  long total2 =  cs_4_6.capacitiveSensor(30);
+  long total3 =  cs_4_8.capacitiveSensor(30);
+
+  Serial.print(millis() - start);       
+  Serial.print(&quot;t&quot;);                   
+  Serial.print(total1);                 
+  Serial.print(&quot;t&quot;);
+  Serial.print(total2);
+  Serial.print(&quot;t&quot;);
+  Serial.println(total3);
+
+  int colorR = (int)map(total1, 0, 100, 0, 255);
+  int colorG = (int)map(total2, 0, 100, 0, 255);
+  int colorB = (int)map(total3, 0, 100, 0, 255);
+
+  setColor(colorR, colorG, colorB);
+
+  delay(50);
+}
+
+void setColor(int red, int green, int blue)
+{
+  analogWrite(redPin, red);
+  analogWrite(greenPin, green);
+  analogWrite(bluePin, blue);  
+}</pre>
+<p><strong>references</strong>: <a href="http://playground.arduino.cc//Main/CapacitiveSensor?from=Main.CapSense" target="_blank">1</a>, <a href="http://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds/overview" target="_blank">2</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/01/22/5-in-5_day1_unicorn-striking-through-the-grass/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PComp_Dope Ropes</title>
+		<link>/2013/12/06/pcomp_dope-ropes/</link>
+					<comments>/2013/12/06/pcomp_dope-ropes/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2013 21:14:50 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[group]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[presentation]]></category>
+		<category><![CDATA[xbee]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=510</guid>
+
+					<description><![CDATA[Those crazy ropes have their own homepage ohya! Click click click me! Group project with fabrication king Billy.]]></description>
+										<content:encoded><![CDATA[<p><a href="http://doperopes.tumblr.com/" target="_blank">Those crazy ropes have their own homepage ohya! Click click click me!</a></p>
+<p>Group project with fabrication king <a href="http://ifiwerericher.com/" target="_blank">Billy</a>.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/12/dope_ropes.jpeg"><img loading="lazy" class="aligncenter size-full wp-image-535" alt="dope_ropes" src="http://www.jhclaura.com/wp-content/uploads/2013/12/dope_ropes.jpeg" width="1000" height="1500" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/12/06/pcomp_dope-ropes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PComp_inspiration_ImageToaster</title>
+		<link>/2013/10/20/pcomp_inspiration_/</link>
+					<comments>/2013/10/20/pcomp_inspiration_/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 20 Oct 2013 17:04:35 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fall 2013]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[motor]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=265</guid>
+
+					<description><![CDATA[Print the pattern you like on your lovely toast. By Scott van Haastrecht. Warm and sweet and inspiring 🙂]]></description>
+										<content:encoded><![CDATA[<div style="width: 650px" class="wp-caption alignnone"><img loading="lazy" alt="" src="http://www.creativeapplications.net/wp-content/uploads/2013/03/ImageToaster_02-640x358.png" width="640" height="358" /><p class="wp-caption-text">ImageToaster</p></div>
+<p>Print the pattern you like on your lovely toast. By <a href="http://www.creativeapplications.net/maxmsp/the-image-toaster-6x6-pixel-image-of-the-day-on-your-toast/" target="_blank">Scott van Haastrecht</a>.</p>
+<p>Warm and sweet and inspiring <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/10/20/pcomp_inspiration_/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PComp_UnoBurnedNO0oo&#8230;</title>
+		<link>/2013/10/19/pcomp_unoburnedno0oo/</link>
+					<comments>/2013/10/19/pcomp_unoburnedno0oo/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sat, 19 Oct 2013 05:49:17 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[noooooo]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=295</guid>
+
+					<description><![CDATA[Inspired by the crazy servo motor workpiece by David Bowen, I tried to learned controlling DC motor rotating direction with H-bridge through this tutorial but failed to change the direction. The result was either rotated or stopped. Thinking the possibility of my motor might be broken, I borrowed other&#8217;s official stater kit&#8217;s DC motor, which was [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/10/photo.jpeg"><img loading="lazy" class="wp-image-296 alignnone" alt="Burned my arduino..." src="http://www.jhclaura.com/wp-content/uploads/2013/10/photo.jpeg" width="614" height="384" srcset="/wp-content/uploads/2013/10/photo.jpeg 768w, /wp-content/uploads/2013/10/photo-300x188.jpeg 300w" sizes="(max-width: 614px) 100vw, 614px" /></a></p>
+<p>Inspired by the crazy servo motor workpiece by <span style="color: #003366;"><strong><a href="http://www.dezeen.com/2012/11/04/underwater-installation-by-david-bowen/" target="_blank"><span style="color: #003366;">David Bowen</span></a></strong></span>, I tried to learned controlling DC motor rotating direction with H-bridge through <strong><a href="http://itp.nyu.edu/physcomp/Labs/DCMotorControl" target="_blank">this tutorial</a></strong> but failed to change the direction. The result was either rotated or stopped. Thinking the possibility of my motor might be broken, I borrowed other&#8217;s official stater kit&#8217;s DC motor, which was smaller than mine, and then things just went wrong&#8230;</p>
+<p>The motor spun so fast and Uno became kind of warm. I pulled out the power supply but it was too late. I couldn&#8217;t upload any sketches anymore. Even unplugged all the wires and run the Example sketch&#8230;. NOOO000ooo&#8230;.</p>
+<p>Too frustrated to take a pic of my breadboard. Should remember to avoid emotions stopping you document next time&#8230;</p>
+<p style="text-align: center;">
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/10/19/pcomp_unoburnedno0oo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PComp_5_Don&#8217;t Touch My Cookie!</title>
+		<link>/2013/10/09/pcomp_5_dont-touch-my-cookie/</link>
+					<comments>/2013/10/09/pcomp_5_dont-touch-my-cookie/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2013 21:29:49 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[processing]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=251</guid>
+
+					<description><![CDATA[Fantasy kind of comes to live guys! After the PComp class, I was inspired to do more about how the communications between Arduino and Processing. I want them to be more instinct, more meaningful, and more related to each other, not just switching on and off. And stay away using MOUSE to control/adjust my work [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Fantasy kind of comes to live guys!</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/76550717?byline=0&amp;portrait=0&amp;color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>After the PComp class, I was inspired to do more about how the communications between Arduino and Processing. I want them to be more instinct, more meaningful, and more related to each other, not just switching on and off. And stay away using MOUSE to control/adjust my work all the time. My works should have their own behaviors patterns, without others tell them what to do. (kind of like users can only have small control/impact on them ;))</p>
+<p style="text-align: center;">So I came out of an idea to control the chocolate spiders amount of my this week&#8217;s ICM homework! Since my intention of this project is scaring away people who try to eat it, why not building the interaction based on that? The more you come closer to the cookie(I use photosensor), the more chocolate spiders will come out alive. And the button at Top Left corner will turn red to warn!<a href="http://www.jhclaura.com/wp-content/uploads/2013/10/PComp_cookie_spider.png"><img loading="lazy" class="aligncenter  wp-image-256" alt="PComp_cookie_spider" src="http://www.jhclaura.com/wp-content/uploads/2013/10/PComp_cookie_spider.png" width="478" height="475" srcset="/wp-content/uploads/2013/10/PComp_cookie_spider.png 597w, /wp-content/uploads/2013/10/PComp_cookie_spider-150x150.png 150w, /wp-content/uploads/2013/10/PComp_cookie_spider-300x298.png 300w" sizes="(max-width: 478px) 100vw, 478px" /></a></p>
+<p>And it worked! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> The contends and the behavior matched perfectly. First time! Exciting!! And my circuit looked simple as well.</p>
+<p><img loading="lazy" class="aligncenter  wp-image-252" alt="2013-10-09 14.33.07" src="http://www.jhclaura.com/wp-content/uploads/2013/10/2013-10-09-14.33.07-613x1024.jpg" width="400" height="668" srcset="/wp-content/uploads/2013/10/2013-10-09-14.33.07-613x1024.jpg 613w, /wp-content/uploads/2013/10/2013-10-09-14.33.07-180x300.jpg 180w, /wp-content/uploads/2013/10/2013-10-09-14.33.07.jpg 1552w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p>Come out a good/crazy idea, and then execute it well in the most instinct and simplest way. It&#8217;s my goal of life now.</p>
+<p style="text-align: left;">Below are my To-Do-Lists that inspired through today&#8217;s PComp class:</p>
+<ol>
+<li>Change velocity, acceleration, changes, instead of just position and on-and-off, so when there’s no input(no one using it), animation still runs.</li>
+<li>Different modes with different compositions of inputs. (e.g. Mode A: button 1; Mode B: button 1+2 &#8230;)</li>
+<li>Let users feel they control something in an abstract way. (Wwwwooo complicated&#8230;)</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/10/09/pcomp_5_dont-touch-my-cookie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PComp_4_MusicInstrument</title>
+		<link>/2013/09/30/pcomp_4_musicinstrument/</link>
+					<comments>/2013/09/30/pcomp_4_musicinstrument/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 30 Sep 2013 04:25:06 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[group]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=210</guid>
+
+					<description><![CDATA[In PComp class Billy and I make a Music Instrument that can adjust the pitch by pressing and tapping. Check this out! &#160; #include &#34;pitches.h&#34; int lastButtonState = LOW; boolean switchIsOn = false; const int threshold = 10; const int speakerPinNum = 8; const int noteDuration = 20; const int potenPinNum = 5; int volumeAnalogValue [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>In PComp class <a href="http://ifiwerericher.com/" target="_blank">Billy</a> and I make a Music Instrument that can adjust the pitch by pressing and tapping. Check this out!</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/75725911?byline=0&amp;portrait=0&amp;color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+<pre class="brush: java; gutter: true">#include &quot;pitches.h&quot;
+
+int lastButtonState = LOW;
+boolean switchIsOn = false;
+
+const int threshold = 10;
+const int speakerPinNum = 8;
+const int noteDuration = 20;
+
+const int potenPinNum = 5;
+int volumeAnalogValue = 0;
+int volume = 0;
+
+const int potPinNum = 2;
+float saveNote;
+
+int note[] = {
+  NOTE_C4, NOTE_E4};
+
+void setup() {
+  Serial.begin(9600);
+  saveNote = note[1];
+
+}
+
+void loop() {
+
+  int buttonState = digitalRead(2);
+
+  if (buttonState != lastButtonState) {
+    if (buttonState == HIGH) {
+      switchIsOn = !switchIsOn;
+    }
+  }
+
+  lastButtonState = buttonState;
+
+  if (switchIsOn == true) {
+
+    int pitchRead = analogRead(0);
+    int noteRead = analogRead(1);
+
+    float pitch = map(pitchRead, 0, 950, 0, 100);
+
+    if (pitch &gt; 0) {
+      note[1] += pitch;
+    } 
+    else {
+      note[1] = saveNote;
+    }
+
+    Serial.print(pitch);
+    Serial.print(&quot; &quot;);
+    Serial.println(noteRead);
+
+    if(noteRead &gt; threshold) {
+      tone(speakerPinNum, note[1], noteDuration);
+    } 
+  }
+}</pre>
+<p>As for my review for this on Sunday, I made a basic music kit that you can control on/off, volumes, pitches(higher/lower), and tempo. But since it&#8217;s a single-note playing machine instead of templates/clip of music triggered one, it makes no difference with the changes of tempo.</p>
+<p style="text-align: center;"><a href="http://www.jhclaura.com/wp-content/uploads/2013/09/MusicPractive1.jpg"><img loading="lazy" class="aligncenter  wp-image-221" alt="MusicPractive" src="http://www.jhclaura.com/wp-content/uploads/2013/09/MusicPractive1.jpg" width="707" height="423" srcset="/wp-content/uploads/2013/09/MusicPractive1.jpg 786w, /wp-content/uploads/2013/09/MusicPractive1-300x179.jpg 300w" sizes="(max-width: 707px) 100vw, 707px" /></a></p>
+<p>And thanks to almighty <a href="http://moqn.net/" target="_blank">Moon</a>! I got the idea of setting button-&#8220;released&#8221; as the command to adjust pitches, so that pitches won&#8217;t go crazy because of the unmeasurable amount/time of button-&#8220;pressed&#8221; when you press the button. Thank you Moon <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>What I want to do next&#8211;</p>
+<ol>
+<li>make chords (office hour w/ resident booked!)</li>
+<li>play continuous clips instead of single notes</li>
+<li>be creative! not just pressing buttons&#8230; not interesting at all&#8230; go go go!</li>
+</ol>
+<p>And here&#8217;s the code.</p>
+<pre class="brush: java; gutter: true">#include &quot;pitches.h&quot;
+
+int lastButtonState = LOW;
+boolean switchIsOn = false;
+
+const int threshold = 600;
+const int speakerPinNum = 8;
+const int switchPinNum = 2;
+const int higherPitchPinNum = 4;
+const int lowerPitchPinNum = 3;
+
+int pre_higherPitchRead = 0;
+int pre_lowerPitchRead = 0;
+
+const int tempoPinNum = 0;
+const int noteGPinNum = 1;
+const int noteEPinNum = 2;
+const int noteCPinNum = 3;
+
+const int noteDuration = 20;
+
+int saveNote[3];
+int note[] = {NOTE_C4, NOTE_E4, NOTE_G4};
+
+void setup() {
+  Serial.begin(9600);
+
+  // save the original notes
+  for (int i=0; i&lt;3; i++) {
+    saveNote[i] = note[i];
+  }
+}
+
+void loop() {
+
+  // on-off switch setting
+  int buttonState = digitalRead(switchPinNum);
+  if (buttonState != lastButtonState) {
+    if (buttonState == HIGH) {
+      switchIsOn = !switchIsOn;
+    }
+  }
+  lastButtonState = buttonState;
+
+  // read different notes
+  int noteCRead = analogRead(noteCPinNum);
+  int noteERead = analogRead(noteEPinNum);
+  int noteGRead = analogRead(noteGPinNum);
+
+  // set up duration of notes
+  int tempoRead = analogRead(tempoPinNum);
+  int tempo = map(tempoRead, 0, 1023, 5, 100);
+
+  // press buttons to make notes go higher/lower 
+  int higherPitchRead = digitalRead(higherPitchPinNum);
+  int lowerPitchRead = digitalRead(lowerPitchPinNum);
+
+  // when switch is on
+  if (switchIsOn == true) {
+
+    Serial.print(tempo);
+    Serial.print(&quot;  &quot;);
+
+    // make notes go higher or lower
+    for (int i=0; i&lt;3; i++) {
+      if (higherPitchRead == LOW &amp;&amp; pre_higherPitchRead == HIGH) {
+        note[i] *= 2;
+      }
+     if (lowerPitchRead == LOW &amp;&amp; pre_lowerPitchRead == HIGH) {
+        note[i] /= 2;
+      }
+      note[0] = constrain(note[0], 32, 4192);
+      note[1] = constrain(note[1], 41, 5280);
+      note[2] = constrain(note[2], 49, 6272);
+    }
+
+    // make sounds!
+    if(noteCRead &lt; threshold &amp;&amp; noteERead &lt; threshold &amp;&amp; noteGRead &lt; threshold) {
+      for (int i=0; i&lt;3; i++) {
+        tone(speakerPinNum, note[i], tempo);
+      }
+    } else if(noteCRead &lt; threshold &amp;&amp; noteERead &lt; threshold) {
+      tone(speakerPinNum, note[0], tempo);
+      tone(speakerPinNum, note[1], tempo);
+    } else if(noteCRead &lt; threshold &amp;&amp; noteGRead &lt; threshold) {
+      tone(speakerPinNum, note[0], tempo);
+      tone(speakerPinNum, note[2], tempo);
+    } else if(noteGRead &lt; threshold &amp;&amp; noteERead &lt; threshold) {
+      tone(speakerPinNum, note[2], tempo);
+      tone(speakerPinNum, note[3], tempo);
+    } else if(noteCRead &lt; threshold) {
+      tone(speakerPinNum, note[0], tempo);
+    } else if(noteERead &lt; threshold) {
+      tone(speakerPinNum, note[1], tempo);
+    } else if(noteGRead &lt; threshold) {
+      tone(speakerPinNum, note[2], tempo);
+    }
+
+    Serial.print(note[0]);
+    Serial.print(&quot; &quot;);
+    Serial.print(note[1]);
+    Serial.print(&quot; &quot;);
+    Serial.print(note[2]);
+    Serial.print(&quot; &quot;);
+    Serial.println(&quot; &quot;);
+
+  } else {
+    for (int i=0; i&lt;3; i++) {      // when swtich-off
+      note[i] = saveNote[i];       // restore the original notes
+    }
+  }
+
+  // remember the previouse higher/lower pitch buttons status
+  pre_higherPitchRead = higherPitchRead;
+  pre_lowerPitchRead = lowerPitchRead;
+}</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/09/30/pcomp_4_musicinstrument/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>banner &#8211; ITP Days</title>
+	<atom:link href="/tag/banner/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Mon, 20 Jan 2014 08:39:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>banner &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Design_&#8221;Her&#8221; the movie</title>
+		<link>/2014/01/20/design_her-the-movie/</link>
+					<comments>/2014/01/20/design_her-the-movie/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2014 08:39:13 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Design/Doodle]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[banner]]></category>
+		<category><![CDATA[doodle]]></category>
+		<category><![CDATA[movie]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=727</guid>
+
+					<description><![CDATA[A banner, or actually a hearty doodle.]]></description>
+										<content:encoded><![CDATA[<p><a style="line-height: 1.5em;" href="http://www.jhclaura.com/wp-content/uploads/2014/01/her2.jpg"><img loading="lazy" class="size-large wp-image-730 alignnone" alt="her2" src="http://www.jhclaura.com/wp-content/uploads/2014/01/her2-1024x487.jpg" width="1024" height="487" srcset="/wp-content/uploads/2014/01/her2-1024x487.jpg 1024w, /wp-content/uploads/2014/01/her2-300x143.jpg 300w, /wp-content/uploads/2014/01/her2.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><span style="line-height: 1.5em;">A banner, or actually a hearty doodle.</span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/01/20/design_her-the-movie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

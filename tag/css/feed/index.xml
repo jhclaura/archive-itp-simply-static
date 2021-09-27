@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>css &#8211; ITP Days</title>
+	<atom:link href="/tag/css/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Sun, 23 Mar 2014 13:22:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>css &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>css update: Healthy Movie Night</title>
+		<link>/2014/03/23/css-update-healthy-movie-night/</link>
+					<comments>/2014/03/23/css-update-healthy-movie-night/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 23 Mar 2014 13:22:14 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Mashups Web APIs]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[update]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1351</guid>
+
+					<description><![CDATA[One page web-fantasy UPDATE! GO PLAY. Type in the movie you&#8217;re going to see. Type in the food you&#8217;re going to eat. Choose which exercise you&#8217;re going to take. Type in your weight, in kg or lbs. Base on the duration of movie, the calories of the food, the amount of calories born in certain [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>One page web-fantasy UPDATE! <span style="font-size: large;"><strong><a href="http://jhclaura.com/meshup/HealthyMovieNight/index.html" target="_blank">GO PLAY</a></strong></span>.</p>
+<ol>
+<li>Type in the <span style="font-family: 'Andale Mono', Times; color: #00ccff;"><strong>movie</strong></span> you&#8217;re going to see.</li>
+<li>Type in the <span style="color: #00ccff;"><strong><span style="font-family: 'Andale Mono', Times;">food</span></strong></span> you&#8217;re going to eat.</li>
+<li>Choose which <span style="font-family: 'Andale Mono', Times; color: #00ccff;"><strong>exercise</strong></span> you&#8217;re going to take.</li>
+<li>Type in your <span style="font-family: 'Andale Mono', Times; color: #00ccff;"><strong>weight</strong></span>, in kg or lbs.</li>
+<li>Base on the <em>duration</em> of movie, the <em>calories</em> of the food, the amount of calories born in certain exercise, and your <em>weights</em>, Healthy Movie Night gives you back <span style="color: #00ccff; font-size: medium;">how much food you can eat without worrying gaining any weights</span>!</li>
+</ol>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-23-at-9.03.15-AM.png"><img loading="lazy" class="alignnone size-full wp-image-1352" alt="Screen Shot 2014-03-23 at 9.03.15 AM" src="http://www.jhclaura.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-23-at-9.03.15-AM.png" width="1000" height="506" /></a></p>
+<p>&nbsp;</p>
+<p>e.g. <em>&#8220;The Grand Budapest Hotel&#8221;</em>, pizza, Jog in Water, 51kg.<br />
+<a href="http://www.jhclaura.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-23-at-9.03.49-AM.png"><img loading="lazy" class="alignnone size-large wp-image-1353" alt="Screen Shot 2014-03-23 at 9.03.49 AM" src="http://www.jhclaura.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-23-at-9.03.49-AM.png" width="1000" height="509" /></a></p>
+<p>&nbsp;</p>
+<p>e.g. &#8220;Wanted&#8221;, spaghetti,  fishing, 51kg.<br />
+<a href="http://www.jhclaura.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-23-at-9.05.09-AM.png"><img loading="lazy" class="alignnone size-large wp-image-1354" alt="Screen Shot 2014-03-23 at 9.05.09 AM" src="http://www.jhclaura.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-23-at-9.05.09-AM.png" width="1000" height="511" /></a></p>
+<p>&nbsp;</p>
+<p>e.g. &#8220;Alice in Wonderland&#8221;, cake, Ballet, 51kg.<br />
+<a href="http://www.jhclaura.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-23-at-9.05.51-AM.png"><img loading="lazy" class="alignnone size-large wp-image-1355" alt="Screen Shot 2014-03-23 at 9.05.51 AM" src="http://www.jhclaura.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-23-at-9.05.51-AM.png" width="1000" height="511" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/03/23/css-update-healthy-movie-night/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

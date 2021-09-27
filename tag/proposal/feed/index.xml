@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>proposal &#8211; ITP Days</title>
+	<atom:link href="/tag/proposal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Thu, 06 Feb 2014 09:50:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>proposal &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>project_update {Mycofabrication}</title>
+		<link>/2014/02/06/project_update-mycofabrication/</link>
+					<comments>/2014/02/06/project_update-mycofabrication/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2014 09:50:23 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fungus Among Us]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[proposal]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=962</guid>
+
+					<description><![CDATA[Inspired by Eric Klarenbeek&#8217;s MyceliumChair(image pool), that 3D prints base with straw &#38; water paste for growing mycelium, 3D prints shell with bioplastics for molding mycelium., I&#8217;d love to explore different possibilities of mycelium molding. Is it possible to make delicate stuff with mycelium, other than solid square building bricks? Can it be molded into small parts that are [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Inspired by Eric Klarenbeek&#8217;s <a href="http://www.ericklarenbeek.com/" target="_blank">MyceliumChair</a>(image <a href="https://plus.google.com/photos/105838382193008801740/albums/5936385484749529345" target="_blank">pool</a>), that</p>
+<ol>
+<li>3D prints base with straw &amp; water paste for growing mycelium,</li>
+<li>3D prints shell with bioplastics for molding mycelium.,</li>
+</ol>
+<p>I&#8217;d love to explore different possibilities of mycelium molding. Is it possible to make delicate stuff with mycelium, other than solid square building bricks? Can it be molded into small parts that are able to be assembled?</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/02/mycofabrication.jpg"><img loading="lazy" class="alignnone size-full wp-image-964" alt="mycofabrication" src="http://www.jhclaura.com/wp-content/uploads/2014/02/mycofabrication.jpg" width="1200" height="765" /></a></p>
+<p>QUESTION TIME!</p>
+<ul>
+<li>For plan A
+<ul>
+<li>if I chop mycelium into small pieces, is it still growable?</li>
+<li>what&#8217;s the proportion between mycelium, straw powder, and water?</li>
+<li>without tight pressing can it still be moldable?</li>
+</ul>
+</li>
+<li>For plan B
+<ul>
+<li>is it possible to connect pieces by joinery?</li>
+<li>multiple molds &#8211;&gt; time consuming?</li>
+</ul>
+</li>
+</ul>
+<p>As for the case study, me and Kate and Peigi decided to team up since we are all focus in the material/fabrication subject. Possible exports include Eric Klarenbeek and Ecovative. Still searching.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/06/project_update-mycofabrication/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

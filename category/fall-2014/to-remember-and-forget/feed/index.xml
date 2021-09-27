@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>To Remember And Forget &#8211; ITP Days</title>
+	<atom:link href="/category/fall-2014/to-remember-and-forget/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Sun, 19 Oct 2014 15:53:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>To Remember And Forget &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Memory Glasses &#8211;&gt; TO remember OR TO forget</title>
+		<link>/2014/10/19/to-remember-or-to-forget/</link>
+					<comments>/2014/10/19/to-remember-or-to-forget/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 19 Oct 2014 15:53:07 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[To Remember And Forget]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1685</guid>
+
+					<description><![CDATA[[idea update, 10/19] For the &#8220;Device to Forget&#8221;, I started brainstorming by thinking that who/what to do the action of forgetting? S/He/It could be me, other people, animals, machines, and even time. And then when I researched for forgetting, I gradually came out of the idea to replace the one you want to forget with the new one, like hallucinating yourself, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em><strong>[idea update, 10/19]</strong></em></p>
+<p>For the &#8220;Device to Forget&#8221;, I started brainstorming by thinking that <strong>who</strong>/<strong>what</strong> to do the action of forgetting? S/He/It could be <span style="text-decoration: underline;">me</span>, <span style="text-decoration: underline;">other people</span>, <span style="text-decoration: underline;">animals</span>, <span style="text-decoration: underline;">machines</span>, and even <span style="text-decoration: underline;">time</span>. And then when I researched for forgetting, I gradually came out of the idea to replace the one you want to forget with the new one, like hallucinating yourself, and that can apply to my memory glasses idea!</p>
+<p>Originally, &#8220;Memory Glasses&#8221; is putting objects that represent daily highlights into the glass bottles, and also restoring sounds related to it digitally. But now, I&#8217;m thinking about changing it into a device also can help you forgetting something too!</p>
+<p>So. For example, A tries to forget B(could be a person or an event).</p>
+<ol>
+<li>First of all, <strong>A</strong> collected all the stimuli that relate to <strong>B</strong>, and put them into the glass bottles. With each glass bottles, <strong>A</strong> records the related memories into each bottles.</li>
+<li><strong>A</strong> puts the device in a public place. People come close, looking at each bottles and listening to the memories.</li>
+<li><strong>People</strong> are asked to come out their own versions of stories with each bottles, and record them with the device.</li>
+<li>From time to time, <strong>A</strong> comes to the device and, looking at the familiar objects but hearing the unfamiliar memories.</li>
+<li>Gradually, <strong>A</strong>&#8216;s original memories relating to the objects fade, and new memories bloom.</li>
+</ol>
+<p>&nbsp;</p>
+<p>[Note] &#8211; Before <strong>A</strong> listening to the stories/new memories, the device might need a <strong>C</strong> to be a filter.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>================================================================================</p>
+<p><em><strong>[documentation, 10/13]</strong></em></p>
+<p>So. Prototype #2. <strong><span style="color: #00d6bd;"><a style="color: #00d6bd;" title="TRAF + Automata_Memory Glasses" href="http://www.jhclaura.com/traf-automata_memory-glasses/">Prototype #1</a></span></strong> is a lovely but cranky one. Due to the bad connection between the theoretical workable but awful functional design, I decided to make another version of it. After the office hour with Daniel Rozin, I realized the importance of stableness of this installation. For people to casually take up and put back, the connection of switches should be robust enough, e.g. jack head base.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/v1_5.jpg"><img loading="lazy" class="alignnone wp-image-1686 " src="http://www.jhclaura.com/wp-content/uploads/2014/10/v1_5-300x300.jpg" alt="v1_5" width="430" height="430" /></a></p>
+<p>But because of the gear testing of Automata, I kind of fell in love with steel wire, and I&#8217;m wondering if it&#8217;s possible to cooperate glass bottles with steel wires.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/v2.jpeg"><img loading="lazy" class="alignnone wp-image-1687 " src="http://www.jhclaura.com/wp-content/uploads/2014/10/v2-300x300.jpeg" alt="v2" width="440" height="440" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/v2_test.jpg"><img loading="lazy" class="alignnone  wp-image-1692" src="http://www.jhclaura.com/wp-content/uploads/2014/10/v2_test.jpg" alt="v2_test" width="444" height="789" /></a></p>
+<p>And here&#8217;s the test! Thanks to Andy&#8217;s suggestion, I change the method of reading the status of the switches. From one by one to multiplexing. Here&#8217;s a <span style="color: #00d6bd;"><a style="color: #00d6bd;" href="http://www.instructables.com/id/Multiplexing-with-Arduino-and-the-74HC595/" target="_blank"><strong>detailed description/tutorial</strong></a></span> of it. It looks simple, like &#8220;oh just buttons big deal~&#8221;<span style="font-size: 10pt;">, but took me so much fxxking time. That&#8217;s just reminded me again: &#8220;Nothing is simple.&#8221;</span></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/diagram.jpg"><img loading="lazy" class="alignnone  wp-image-1688" src="http://www.jhclaura.com/wp-content/uploads/2014/10/diagram.jpg" alt="diagram" width="450" height="446" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/circuits.jpg"><img loading="lazy" class="alignnone size-full wp-image-1689" src="http://www.jhclaura.com/wp-content/uploads/2014/10/circuits.jpg" alt="circuits" width="800" height="450" /></a></p>
+<p><span style="font-size: 10pt;">***Remember to use the <span style="color: #ff126d;"><span style="font-family: 'Andale Mono', Times;"><strong>10K as pull-down resistors</strong></span></span>!!! The main reason that made me struggle whole night&#8230;. even I used other resistors but not 10k. GEEZ.</span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/10/19/to-remember-or-to-forget/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TRAF + Automata_Memory Glasses</title>
+		<link>/2014/09/29/traf-automata_memory-glasses/</link>
+					<comments>/2014/09/29/traf-automata_memory-glasses/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 29 Sep 2014 16:18:08 +0000</pubDate>
+				<category><![CDATA[Automata]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[To Remember And Forget]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1650</guid>
+
+					<description><![CDATA[It&#8217;s a cute but super finicky prototype. For TRAF class, I want to make a system that knows which bottle was picked up, and for how long, and for Automata class, I want to use solenoid to soundify the data that restored. The system worked but super unstable so I think it should be called [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s a cute but super finicky prototype. For TRAF class, I want to make a system that knows which bottle was picked up, and for how long, and for Automata class, I want to use solenoid to soundify the data that restored. The system worked but super unstable so I think it should be called as a failure but I learned a lot &#8216; v &#8216;</p>
+<p>The problem is the connection. Bottle is too light for pressing and closing the circuits with knots.</p>
+<p><img loading="lazy" class="alignnone" src="http://38.media.tumblr.com/9619d15a2776607ca854ae388936bd83/tumblr_ncnf2dD79u1tm3zuuo1_500.jpg" alt="" width="500" height="500" /></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/IMG_20140929_002931.jpg"><img loading="lazy" class="alignnone size-full wp-image-1651" src="http://www.jhclaura.com/wp-content/uploads/2014/09/IMG_20140929_002931.jpg" alt="IMG_20140929_002931" width="1000" height="563" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/IMG_20140929_012054.jpg"><img loading="lazy" class="alignnone size-full wp-image-1652" src="http://www.jhclaura.com/wp-content/uploads/2014/09/IMG_20140929_012054.jpg" alt="IMG_20140929_012054" width="1000" height="563" /></a></p>
+<p>&nbsp;</p>
+<p>Sadly not enough time to test the solenoid, so here&#8217;s the test Zoe and me had in the class!</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/108011616?byline=0&amp;color=c9ff23" width="840" height="630" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/09/29/traf-automata_memory-glasses/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TRAF_a system to remember my dream</title>
+		<link>/2014/09/28/traf_a-system-to-remember-my-dream/</link>
+					<comments>/2014/09/28/traf_a-system-to-remember-my-dream/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 28 Sep 2014 18:53:39 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[To Remember And Forget]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1641</guid>
+
+					<description><![CDATA[For my &#8220;a system for remembering&#8221;, I&#8217;m interested in building a process to remember my dream. For me, dream is magical and personal, and also difficult to trace once back to reality(= waking up). It&#8217;s like a super flexible and smooth eel, and all I want to do is collecting the slime traces that it [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>For my &#8220;a system for remembering&#8221;, I&#8217;m interested in building a process to remember my dream. For me, <span style="font-family: 'Andale Mono', Times; color: #00ccb1;"><strong>dream</strong></span> is magical and personal, and also difficult to trace once back to reality(= waking up). It&#8217;s like a super flexible and smooth eel, and all I want to do is collecting the slime traces that it leaves behind.</p>
+<p>Below is my first draft for the design.</p>
+<p>Being reminded &#8211;&gt;</p>
+<ul>
+<li>writing it down &#8211;&gt; rip off the paper &#8211;&gt; put it into jars to sort the dream</li>
+<li>recording it w/ phone &#8211;&gt; upload into dropbox using ifttt &#8211;&gt; send mms for reminding to sort the dream</li>
+</ul>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/dream_log_elements.png"><img loading="lazy" class="alignnone size-full wp-image-1644" src="http://www.jhclaura.com/wp-content/uploads/2014/09/remember_dream_system.png" alt="remember_dream_system" width="1000" height="933" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/dream_log_elements.png"><img loading="lazy" class="alignnone size-full wp-image-1643" src="http://www.jhclaura.com/wp-content/uploads/2014/09/dream_log_elements.png" alt="dream_log_elements" width="1000" height="353" /></a></p>
+<p>And here&#8217;s my second design to combine the idea of 1)<span style="text-decoration: underline;">reminding</span> 2)<span style="text-decoration: underline;">without disturbing</span></p>
+<div style="width: 510px" class="wp-caption alignnone"><img loading="lazy" class="" src="http://38.media.tumblr.com/fbd3a9719089de15ad48465c1c0d71db/tumblr_ncmjas88EZ1tm3zuuo1_500.jpg" alt="" width="500" height="500" /><p class="wp-caption-text"><span style="font-family: 'Andale Mono', Times; font-size: 10pt;"><strong><span style="color: #00d1b2;">dream clipper on the wall</span></strong></span></p></div>
+<p>And here&#8217;s the prototype! Yeeeeeeeee I&#8217;ll try it tonight!!!</p>
+<p>[pic to add]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/09/28/traf_a-system-to-remember-my-dream/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TRAF_Traces</title>
+		<link>/2014/09/11/traf_traces/</link>
+					<comments>/2014/09/11/traf_traces/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2014 14:02:15 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[To Remember And Forget]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1560</guid>
+
+					<description><![CDATA[For my archive system for the class, which requires to be public, permanent and accessible, I have a digital version of it: http://laura-traf.tumblr.com/, which integrating all the data I leave on digital media platforms through ifttt. So far, I hooked it up with Instagram, wordpress, Pinterest, and Vimeo. But I just felt it&#8217;s not interesting enough&#8230; I [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>For my archive system for the class, which requires to be public, permanent and accessible, I have a digital version of it:<strong><span style="color: #33cccc;"> <a style="color: #33cccc;" href="http://laura-traf.tumblr.com/">http://laura-traf.tumblr.com/</a></span></strong>, which integrating all the data I leave on digital media platforms through <strong><span style="color: #33cccc;"><a style="color: #33cccc;" href="http://ifttt.com/">ifttt</a></span></strong>. So far, I hooked it up with Instagram, wordpress, Pinterest, and Vimeo. But I just felt it&#8217;s not interesting enough&#8230; I crave for something physically.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/archive_one.png"><img loading="lazy" class="alignnone size-full wp-image-1637" src="http://www.jhclaura.com/wp-content/uploads/2014/09/archive_one.png" alt="archive_one" width="1000" height="674" /></a></p>
+<p>I started collected daily objects and sounds since 9/15, and ordered the glass bottles * 24, which were delivered last Friday(9/19) but I didn&#8217;t see it at all&#8230;</p>
+<p>Really want it to happen as well as my remembering system for Dream. See if me telling myself &#8220;I can make it.&#8221; can make me memorize the things I have to do and thus I&#8217;ll be able to pull if off or not. :)))</p>
+<p>Go go.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/09/11/traf_traces/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

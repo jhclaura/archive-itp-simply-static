@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fall 2013 &#8211; ITP Days</title>
+	<atom:link href="/category/fall-2013/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Fri, 24 Jan 2014 09:07:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>Fall 2013 &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>5-in-5_Day3_Breathe</title>
+		<link>/2014/01/24/5-in-5_day3_breathe/</link>
+					<comments>/2014/01/24/5-in-5_day3_breathe/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2014 09:07:37 +0000</pubDate>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Design/Doodle]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[Video and Sounds]]></category>
+		<category><![CDATA[5-in-5]]></category>
+		<category><![CDATA[AE]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[test]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=754</guid>
+
+					<description><![CDATA[(a teaser) More to come, too cold to edit at 4am&#8230; **Update** Inspired by Wriggles &#38; Robins(check out theirs!) Set up in my bedroom with window wide open at night, tempurature -12ºC/10ºF, LG HX350T projector, a lot of layers, and hot water stand by. Animation made in AE! For now, it&#8217;s just a one-day simple projecting [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/01/tease.gif"><img loading="lazy" class="size-full wp-image-755 alignnone" alt="tease" src="http://www.jhclaura.com/wp-content/uploads/2014/01/tease.gif" width="668" height="402" /></a>(a teaser)</p>
+<p>More to come, too <strong><span style="color: #00ccff;">cold</span></strong> to edit at 4am&#8230;</p>
+<p><strong><span style="color: #ff0000;">**Update**</span></strong></p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/84986753?color=c9ff23" height="438" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Inspired by <a href="http://wrigglesandrobins.com/" target="_blank"><strong>Wriggles &amp; Robins</strong></a>(check out <a href="http://vimeo.com/59624820" target="_blank">theirs</a>!)<br />
+Set up in my bedroom with window wide open at night, tempurature -12ºC/10ºF,<br />
+LG HX350T projector, a lot of layers, and hot water stand by. Animation made in AE!</p>
+<p>For now, it&#8217;s just a one-day simple projecting test. For future, I&#8217;d love to connect this with more interactions, exploring possibility to be generic art of emotions and communications. Pam suggested using words recognition to tell user&#8217;s speaking content then it can easily avoid pre-rendering! Seems to be having a lot of potentials. Exciting!</p>
+<p>Oh there&#8217;s one big cannot unsee problem. It&#8217;s restricted by the temperature and amount of breath! Hmmm&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/01/24/5-in-5_day3_breathe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5-in-5_Day2_Moving Eye</title>
+		<link>/2014/01/23/5-in-5_day2_moving-eye/</link>
+					<comments>/2014/01/23/5-in-5_day2_moving-eye/#comments</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2014 08:54:04 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[CommLab Web]]></category>
+		<category><![CDATA[5-in-5]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[first time]]></category>
+		<category><![CDATA[javascript]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=749</guid>
+
+					<description><![CDATA[(click pic to play! Using keyboard&#8217;s ↑ ↓ ← →) JavaScript, first time! Nearly die&#8230;. I think I&#8217;m too used to Java/C++ syntax and too greedy/ambitious to try to do projects with JS&#8230; I spent whole afternoon searching on internet, and although I did found some awesome source codes, they just simply blown my mind. SO [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://jhclaura.com/js/imgMove/index4.html"><img loading="lazy" class="wp-image-750 alignnone" alt="eyes" src="http://www.jhclaura.com/wp-content/uploads/2014/01/eyes.jpg" width="1000" height="681" srcset="/wp-content/uploads/2014/01/eyes.jpg 1000w, /wp-content/uploads/2014/01/eyes-300x204.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p>
+<p style="text-align: center;"><strong>(click <span style="color: #999999;">pic</span> to play! Using keyboard&#8217;s </strong>↑ ↓ ← →<strong>)</strong></p>
+<p style="text-align: left;">JavaScript, first time! Nearly die&#8230;. I think I&#8217;m too used to Java/C++ syntax and too greedy/ambitious to try to do projects with JS&#8230; I spent whole afternoon searching on internet, and although I did found some awesome source codes, they just simply blown my mind. SO FOREIGN.</p>
+<p style="text-align: left;">Thanks to <a href="http://andysigler.com/" target="_blank">Andy</a>&#8216;s suggestion, I narrowed down my goal to make a simple bouncing image in window. And it worked! After kind of (really just kind of) understanding JavaScript&#8217;s syntax and structure, I added extra functions: auto-moving and controlled by arrow keys at same time, and speed up/slow down feature.</p>
+<p style="text-align: left;">Below are some of the resources I found:</p>
+<ul>
+<li><a href="http://jstherightway.org/" target="_blank">http://jstherightway.org/</a> &lt;&#8211; suggested by <a href="https://vimeo.com/mackhowell" target="_blank">Mack</a> <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li><a href="http://www.html5gamedevelopment.com/html5-game-tutorials" target="_blank">http://www.html5gamedevelopment.com/html5-game-tutorials</a></li>
+<li><a href="http://javascriptissexy.com/how-to-learn-javascript-properly/" target="_blank">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></li>
+<li><a href="http://javascriptissexy.com/how-to-learn-javascript-properly/" target="_blank">http://www.reddit.com/r/learnjavascript/comments/1ceefw/learn_javascript_properly_omnibus_post/</a></li>
+<li><a href="http://dev.tutsplus.com/articles/learn-html5-with-this-simple-avoider-game-tutorial--active-9653" target="_blank">http://dev.tutsplus.com/articles/learn-html5-with-this-simple-avoider-game-tutorial&#8211;active-9653</a></li>
+<li><a href="http://cssdeck.com/post/64/codecast-courses" target="_blank">http://cssdeck.com/post/64/codecast-courses</a></li>
+<li>&#8230;&#8230;too many</li>
+</ul>
+<p>I know right? Crazy.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/01/23/5-in-5_day2_moving-eye/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5-in-5_Day1_Unicorn Striking through the Grass</title>
+		<link>/2014/01/22/5-in-5_day1_unicorn-striking-through-the-grass/</link>
+					<comments>/2014/01/22/5-in-5_day1_unicorn-striking-through-the-grass/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2014 07:25:17 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[5-in-5]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=736</guid>
+
+					<description><![CDATA[&#8220;n-in-n&#8221;, a tradition around ITP, where students complete n project in n day, over a certain number of days. In this case, 5 days, 5 projects. Besides participating bunch of workshops held by amazing 2nd-years, for my Day1 project, I was thinking about doing StormLighter with this tutorial, but cut it off because of the shortage [&#8230;]]]></description>
+										<content:encoded><![CDATA[<blockquote><p>&#8220;n-in-n&#8221;, a tradition around ITP, where students complete <b>n project in n day</b>, over a certain number of days.</p></blockquote>
+<p>In this case, 5 days, 5 projects. Besides participating bunch of workshops held by amazing 2nd-years, f<span style="font-size: 1em;">or my Day1 project, I was thinking about doing </span><span style="color: #ff0000;">S</span><span style="color: #ff6600;">t</span><span style="color: #ffcc99;">o</span><span style="color: #99cc00;">r</span><span style="font-size: 1em; color: #339966;">m</span><span style="color: #33cccc;">L</span><span style="color: #3366ff;">i</span><span style="color: #333399;">g</span><span style="color: #cc99ff;">h</span><span style="color: #993366;">t</span><span style="font-size: 1em; color: #993300;">e</span><span style="color: #ff00ff;">r</span><span style="font-size: 1em;"> with this </span><a style="font-size: 1em;" href="http://www.instructables.com/id/Storm-lighter/" target="_blank">tutorial</a><span style="font-size: 1em;">, but cut it off because of the shortage of materials. So I moved on to other new stuff: </span><strong style="font-size: 1em;">Capacity Sensing Library</strong><span style="font-size: 1em;">, which I always wanted to try, and </span><strong style="font-size: 1em;">RGB Led</strong><span style="font-size: 1em;">, because why not. For few hours here&#8217;s my rainbow-ish project result.</span></p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/84747766?color=c9ff23" height="438" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p><strong>wires</strong></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/01/unicorn_circuits.jpg"><img loading="lazy" class="aligncenter size-large wp-image-742" alt="unicorn_circuits" src="http://www.jhclaura.com/wp-content/uploads/2014/01/unicorn_circuits-1024x613.jpg" width="1024" height="613" srcset="/wp-content/uploads/2014/01/unicorn_circuits-1024x613.jpg 1024w, /wp-content/uploads/2014/01/unicorn_circuits-300x180.jpg 300w, /wp-content/uploads/2014/01/unicorn_circuits.jpg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><strong></strong><strong>code</strong></p>
+<pre class="brush: cpp; gutter: true">#include &lt;CapacitiveSensor.h&gt;
+
+int redPin = 11;
+int greenPin = 10;
+int bluePin = 9;
+
+int sendPin = 4;
+int RreceivePin = 2;
+int GreceivePin = 6;
+int BreceivePin = 8;
+
+CapacitiveSensor   cs_4_2 = CapacitiveSensor(4,2);
+CapacitiveSensor   cs_4_6 = CapacitiveSensor(4,6);
+CapacitiveSensor   cs_4_8 = CapacitiveSensor(4,8);
+
+void setup()
+{
+  pinMode(redPin, OUTPUT);
+  pinMode(greenPin, OUTPUT);
+  pinMode(bluePin, OUTPUT);
+
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  long start = millis();
+  long total1 =  cs_4_2.capacitiveSensor(30);
+  long total2 =  cs_4_6.capacitiveSensor(30);
+  long total3 =  cs_4_8.capacitiveSensor(30);
+
+  Serial.print(millis() - start);       
+  Serial.print(&quot;t&quot;);                   
+  Serial.print(total1);                 
+  Serial.print(&quot;t&quot;);
+  Serial.print(total2);
+  Serial.print(&quot;t&quot;);
+  Serial.println(total3);
+
+  int colorR = (int)map(total1, 0, 100, 0, 255);
+  int colorG = (int)map(total2, 0, 100, 0, 255);
+  int colorB = (int)map(total3, 0, 100, 0, 255);
+
+  setColor(colorR, colorG, colorB);
+
+  delay(50);
+}
+
+void setColor(int red, int green, int blue)
+{
+  analogWrite(redPin, red);
+  analogWrite(greenPin, green);
+  analogWrite(bluePin, blue);  
+}</pre>
+<p><strong>references</strong>: <a href="http://playground.arduino.cc//Main/CapacitiveSensor?from=Main.CapSense" target="_blank">1</a>, <a href="http://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds/overview" target="_blank">2</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/01/22/5-in-5_day1_unicorn-striking-through-the-grass/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Triangulation!</title>
+		<link>/2014/01/16/triangulation/</link>
+					<comments>/2014/01/16/triangulation/#comments</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 16 Jan 2014 16:06:22 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[ICM_Processing]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[processing]]></category>
+		<category><![CDATA[toxiclibs]]></category>
+		<category><![CDATA[triangulation]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=677</guid>
+
+					<description><![CDATA[Triangulation.. Finally! Want it so bad for a semester. Luckily having a winter break to do it. Have a lot of rooms for improvement but still, one step further! *UPDATE*(in the middle of writing this post UGH) New version. Normal speed! In the middle of documentation, the ill performance, both low speed running and wrong color [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="font-family: HelveticaNeue, Arial, 'Helvetica Neue', Helvetica, FreeSans, 'Liberation Sans', 'Nimbus Sans L', sans-serif; font-style: normal;">Triangulation.. Finally! Want it so bad for a semester. Luckily having a winter break to do it. Have a lot of rooms for improvement but still, one step further!</p>
+<h3 style="font-family: HelveticaNeue, Arial, 'Helvetica Neue', Helvetica, FreeSans, 'Liberation Sans', 'Nimbus Sans L', sans-serif; font-style: normal;"><span style="color: #ff3366;">*UPDATE*(in the middle of writing this post UGH)</span></h3>
+<p style="font-family: HelveticaNeue, Arial, 'Helvetica Neue', Helvetica, FreeSans, 'Liberation Sans', 'Nimbus Sans L', sans-serif; font-size: 14px; font-style: normal; font-variant: normal; line-height: 21px;"><strong>New version.</strong> Normal speed!</p>
+<p style="font-family: HelveticaNeue, Arial, 'Helvetica Neue', Helvetica, FreeSans, 'Liberation Sans', 'Nimbus Sans L', sans-serif; font-size: 14px; font-style: normal; font-variant: normal; line-height: 21px;"><iframe loading="lazy" src="//player.vimeo.com/video/84282840?color=c9ff23" height="585" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p style="font-family: HelveticaNeue, Arial, 'Helvetica Neue', Helvetica, FreeSans, 'Liberation Sans', 'Nimbus Sans L', sans-serif; font-size: 14px; font-style: normal; font-variant: normal; line-height: 21px;">In the middle of documentation, the ill performance, both low speed running and wrong color picking bothered me a lot, so I went through the whole codes again and making adjustment around. And then I found out what the problem is! It&#8217;s the <span style="text-decoration: underline; color: #17e8be;"><strong>random plotting of points</strong></span> for triangles! It not only slows down the process, but also causes the ill performance of choosing the right color for the triangle. OH YEAH SO HAPPY. It&#8217;s the similar &#8220;bitter yet sweet moment&#8221; I usually will have when coding&#8230; I think I&#8217;m ready for the new semester!</p>
+<p style="font-family: HelveticaNeue, Arial, 'Helvetica Neue', Helvetica, FreeSans, 'Liberation Sans', 'Nimbus Sans L', sans-serif; font-size: 14px; font-style: normal; font-variant: normal; line-height: 21px;"><strong>Old version.</strong> x3 speed! Slow and chaos.</p>
+<p style="font-family: HelveticaNeue, Arial, 'Helvetica Neue', Helvetica, FreeSans, 'Liberation Sans', 'Nimbus Sans L', sans-serif; font-size: 14px; font-style: normal; font-variant: normal; line-height: 21px;"><iframe loading="lazy" src="//player.vimeo.com/video/84256296?color=c9ff23" height="585" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p style="font-family: HelveticaNeue, Arial, 'Helvetica Neue', Helvetica, FreeSans, 'Liberation Sans', 'Nimbus Sans L', sans-serif; font-size: 14px; font-style: normal; font-variant: normal; line-height: 21px;"><strong>Old Line version.</strong> Slow but it seems to have better outcome with the random plotting points methods!!</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/84251593?color=c9ff23" height="585" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+<p><strong>Image Gallery</strong></p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-701" alt="colorV20252" src="http://www.jhclaura.com/wp-content/uploads/2014/01/colorV20252.jpg" width="720" height="480" srcset="/wp-content/uploads/2014/01/colorV20252.jpg 720w, /wp-content/uploads/2014/01/colorV20252-300x200.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /><a href="http://www.jhclaura.com/wp-content/uploads/2014/01/line544.jpg"><img loading="lazy" class="aligncenter size-full wp-image-681" alt="line544" src="http://www.jhclaura.com/wp-content/uploads/2014/01/line544.jpg" width="720" height="480" srcset="/wp-content/uploads/2014/01/line544.jpg 720w, /wp-content/uploads/2014/01/line544-300x200.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /></a><a href="http://www.jhclaura.com/wp-content/uploads/2014/01/outcome06.jpg"><img loading="lazy" class="aligncenter size-large wp-image-696" alt="outcome06" src="http://www.jhclaura.com/wp-content/uploads/2014/01/outcome06.jpg" width="1000" height="336" srcset="/wp-content/uploads/2014/01/outcome06.jpg 1000w, /wp-content/uploads/2014/01/outcome06-300x101.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2014/01/outcome01.jpg"><img loading="lazy" class="aligncenter size-full wp-image-691" alt="outcome01" src="http://www.jhclaura.com/wp-content/uploads/2014/01/outcome01.jpg" width="1000" height="500" srcset="/wp-content/uploads/2014/01/outcome01.jpg 1000w, /wp-content/uploads/2014/01/outcome01-300x150.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2014/01/outcome04.jpg"><img loading="lazy" class="aligncenter size-large wp-image-694" alt="outcome04" src="http://www.jhclaura.com/wp-content/uploads/2014/01/outcome04.jpg" width="1000" height="751" srcset="/wp-content/uploads/2014/01/outcome04.jpg 1000w, /wp-content/uploads/2014/01/outcome04-300x225.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2014/01/outcome02.jpg"><img loading="lazy" class="aligncenter size-full wp-image-692" alt="outcome02" src="http://www.jhclaura.com/wp-content/uploads/2014/01/outcome02.jpg" width="1000" height="340" srcset="/wp-content/uploads/2014/01/outcome02.jpg 1000w, /wp-content/uploads/2014/01/outcome02-300x102.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2014/01/outcome03.jpg"><img loading="lazy" class="aligncenter size-full wp-image-693" alt="outcome03" src="http://www.jhclaura.com/wp-content/uploads/2014/01/outcome03.jpg" width="1000" height="751" srcset="/wp-content/uploads/2014/01/outcome03.jpg 1000w, /wp-content/uploads/2014/01/outcome03-300x225.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2014/01/outcome05.jpg"><img loading="lazy" class="aligncenter size-full wp-image-695" alt="outcome05" src="http://www.jhclaura.com/wp-content/uploads/2014/01/outcome05.jpg" width="1000" height="336" srcset="/wp-content/uploads/2014/01/outcome05.jpg 1000w, /wp-content/uploads/2014/01/outcome05-300x101.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a> <a href="http://www.jhclaura.com/wp-content/uploads/2014/01/outcome07.jpg"><img loading="lazy" class="aligncenter size-full wp-image-697" alt="outcome07" src="http://www.jhclaura.com/wp-content/uploads/2014/01/outcome07.jpg" width="1000" height="284" srcset="/wp-content/uploads/2014/01/outcome07.jpg 1000w, /wp-content/uploads/2014/01/outcome07-300x85.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p>
+<p>&nbsp;</p>
+<p><strong>Basic idea of code</strong></p>
+<ol>
+<li>capture image from webcam and save as PImage <em>source</em></li>
+<li>iterate through source, pick up every pixel, compare either <span style="text-decoration: underline;">a) colors</span> or <span style="text-decoration: underline;">b) brightness</span> difference(I found comparing by colors will be more accurate).</li>
+<li>if the difference is bigger than certain threshold, plant a point in class <em>Voronoi. </em>Voronoi does all the calculation to transform points into triangles.</li>
+<li>for each triangle gotten out from Voronoi, using getCentroid() to pickup the color to fill the triangle built up with beginShape(), endShape() and vertex().</li>
+<li>wipe out Voronoi and build a new one every 10 frames to speed up the performance.</li>
+</ol>
+<p>&nbsp;</p>
+<p><strong>References</strong></p>
+<ul>
+<li>from <a href="http://robbietilton.com/blog/?p=607" target="_blank">Robbie Tilton</a>. ITP alumnus! This is where my base came from! Clear description made me not afraid of trying the code out! From him, I got the idea of using Cols and Rows to boost up the performance, and plotting points for triangles with a random deviation of 5 pixels to make it look less grid-like(<span style="text-decoration: underline; color: #000000;"><span style="text-decoration: underline;">BUT randomness is not good for picking color, and it also slows down the performance</span></span>).</li>
+<li><span style="font-size: 1em;">from </span><a style="font-size: 1em;" href="http://vormplus.be/blog/article/voronoi-paintings-with-toxiclibs" target="_blank">Jan Vantomme</a><span style="font-size: 1em;">. Very well documentation! From him, I learned the difference between getCentroid() and getSites(), and also learned that, since getCentroid() and getSites() don’t return the voronoi regions and points in same order, to fill the right color for right position it has to be looped to iterate through, picking and filling up the color at the same time.</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Inspiration &amp; Further</strong></p>
+<ul>
+<li>amazing <a href="http://www.fastcodesign.com/1672028/algorithmic-portraits-reimagine-faces-as-software#1" target="_blank">algorithmic portraits</a> by Diana Lange.</li>
+<li>triangulation <a href="http://learn.postspectacular.com/hg/bezalel-2011-delaunayunwrap/" target="_blank">tools</a> done by <a href="http://www.flickr.com/photos/toxi/5639608667/in/set-72157626419717867" target="_blank">Bezalel workshop</a>, so complicated yet the outcomes are so gorgeous.</li>
+<li><a href="http://hemesh.wblut.com/" target="_blank">hemesh</a> &#8211;&gt; being able to make 3D triangulation mesh(printable too)</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Code</strong>, as below: <span id="more-677"></span></p>
+<pre class="brush: java; gutter: true">//references:
+//http://www.processing.org/tutorials/pixels/
+//http://robbietilton.com/blog/?p=607
+//http://vormplus.be/blog/article/voronoi-paintings-with-toxiclibs
+
+import toxi.geom.*;
+import toxi.geom.mesh2d.*; 
+import toxi.util.*;
+import toxi.util.datatypes.*; 
+import toxi.processing.*;
+import processing.video.*;
+
+Capture video;
+float size = 10000;
+Voronoi voronoi;
+PImage source;
+
+int pointDensity = 70;
+int cols, rows;
+int x, y;
+int numPixels;
+float colorThreshold = 30;
+
+void setup() {
+  size(640,480);
+  //size(source.width, source.height);
+  video = new Capture(this, width, height);
+  video.start();
+
+  //source = loadImage(&quot;test.png&quot;);
+  source = createImage(640,480,RGB);
+  smooth();
+
+  cols = width/pointDensity;
+  rows = height/pointDensity;
+  numPixels = source.width * source.height;
+
+  voronoi = new Voronoi(size);
+
+}
+
+void addPoint() {
+  source.copy(video,0,0,640,480,0,0,640,480);
+  source.updatePixels();
+
+  for (x=1; x&lt;source.width; x+=cols) {
+    for (y=1; y&lt;source.height; y+=rows) {       int loc = x + y*source.width;       color pix = source.pixels[loc];              int leftLoc = (x-1) + (y-1)*source.width;       color leftPix = source.pixels[leftLoc];              // compare ver: color       float r1 = red(pix); float g1 = green(pix); float b1 = blue(pix);       float r2 = red(leftPix); float g2 = green(leftPix); float b2 = blue(leftPix);       float diff = dist(r1,g1,b1,r2,g2,b2);              // compare ver: brightness //      float diff = abs(brightness(pix)-brightness(leftPix));       if (diff &gt; colorThreshold) {
+//        voronoi.addPoint(new Vec2D(x+random(-2, 2), y+random(-2, 2)));
+        voronoi.addPoint(new Vec2D(x, y));
+      }
+    }
+  }
+}  
+
+void drawTriangle(){
+
+  for (Triangle2D t : voronoi.getTriangles()) {
+    color pix;
+
+    // use Centroid&#039;s color
+    Vec2D locVec = t.computeCentroid();
+    int loc = (int)((locVec.x) + (locVec.y)*source.width);
+
+    pix = source.pixels[constrain(loc,0,numPixels-1)];
+//    stroke(pix,100);
+    fill(pix);
+//    noFill();
+    noStroke();
+
+    beginShape(TRIANGLES);
+    stroke(pix);
+//    strokeWeight(.1);
+    vertex(t.a.x, t.a.y);
+    vertex(t.b.x, t.b.y);
+    vertex(t.c.x, t.c.y);
+    endShape();    
+  }
+}
+
+void draw() {
+  background(255);
+  video.read();
+  //image(video,0,0);
+
+  if(showImg) {
+    image(source, 0, 0);
+  } else {
+    addPoint(); 
+    drawTriangle();
+  }
+
+  fill(0);  
+  rect(15,5,30,20);
+
+  // show frame rate
+  fill(255);
+  text(int(frameRate), 20, 20);
+
+  updatePixels();
+
+  if (frameCount%10 == 0)
+    voronoi = new Voronoi(size);
+
+}
+
+boolean showImg = false;
+boolean saveImg = false;
+
+void keyPressed() {
+  if(key == &#039;i&#039;)
+    showImg = !showImg;
+}</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/01/16/triangulation/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hacking flashlight for party!</title>
+		<link>/2013/12/29/hacking-flashlight-for-party/</link>
+					<comments>/2013/12/29/hacking-flashlight-for-party/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 29 Dec 2013 08:32:20 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fall 2013]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=641</guid>
+
+					<description><![CDATA[Collaborated w/ Ziv, Alex, Jorge, and Kristina. Long long time ago(Oct, 2013), Ziv came out of an idea for the photo booth of ITP Halloween party&#8211;&#62; Photoboo, which is using strong light to frighten whoever walk in and taking pictures of them. Big success. I was responsible for the light part and came out of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Collaborated w/ <a href="http://youareblank.com/" target="_blank">Ziv</a>, <a href="http://acoym.com/" target="_blank">Alex</a>, <a href="http://jabrake.com/" target="_blank">Jorge</a>, and <a href="http://www.kristinabudelis.com/itpblog/" target="_blank">Kristina</a>.</p>
+<p>Long long time ago(Oct, 2013), Ziv came out of an idea for the photo booth of ITP Halloween party&#8211;&gt; <strong>Photoboo</strong>, which is using strong light to frighten whoever walk in and taking pictures of them. Big success.</p>
+<p>I was responsible for the light part and came out of an idea that just using the external flashlight kit of Canon 5D. With this <a href="http://www.glacialwanderer.com/hobbyrobotics/?p=10" target="_blank">reference</a>, flashlight worked like a charm with a simple button(P.s. We used transistor instead of optoisolator).</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/82868863?color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Connected to the complicated Max/MSP patch Alex made, the flashlight triggered once infrared sensor detecting people approaching.</p>
+<p>Here&#8217;s the simple circuit.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/12/flashlight_hack.jpeg"><img loading="lazy" class="wp-image-642 alignnone" alt="flashlight_hack" src="http://www.jhclaura.com/wp-content/uploads/2013/12/flashlight_hack.jpeg" width="1200" height="642" srcset="/wp-content/uploads/2013/12/flashlight_hack.jpeg 1200w, /wp-content/uploads/2013/12/flashlight_hack-300x161.jpeg 300w, /wp-content/uploads/2013/12/flashlight_hack-1024x548.jpeg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
+<p>And here&#8217;s the code for Arduino.</p>
+<pre class="brush: cpp; gutter: true">#define CAMERA_FLASH_PIN 8
+#define BUTTOM_PIN 2
+
+void setup()
+{
+  pinMode(BUTTOM_PIN, INPUT);
+  pinMode(CAMERA_FLASH_PIN, OUTPUT);
+  digitalWrite(CAMERA_FLASH_PIN, LOW);
+  Serial.begin(9600); // open serial
+  Serial.println(&quot;Press the button to trigger the flash&quot;);
+}
+
+void loop()
+{
+  if (digitalRead(BUTTOM_PIN) == HIGH) {
+    digitalWrite(CAMERA_FLASH_PIN, HIGH);
+    delay(100);
+    digitalWrite(CAMERA_FLASH_PIN, LOW);
+  }
+  else {
+    digitalWrite(CAMERA_FLASH_PIN, LOW);
+
+    Serial.println(&quot;Press the button to trigger the flash&quot;);
+  }
+}</pre>
+<p>&nbsp;</p>
+<p>And&#8230;. I also designed some frames for the Photoboo!</p>
+
+<a href='/halloween_frame_laura_a/'><img width="583" height="350" src="/wp-content/uploads/2013/12/halloween_frame_laura_A.png" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/halloween_frame_laura_A.png 1044w, /wp-content/uploads/2013/12/halloween_frame_laura_A-300x180.png 300w, /wp-content/uploads/2013/12/halloween_frame_laura_A-1024x615.png 1024w" sizes="(max-width: 583px) 100vw, 583px" /></a>
+<a href='/halloween_frame_laura_b/'><img width="575" height="350" src="/wp-content/uploads/2013/12/halloween_frame_laura_B.png" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/halloween_frame_laura_B.png 1041w, /wp-content/uploads/2013/12/halloween_frame_laura_B-300x183.png 300w, /wp-content/uploads/2013/12/halloween_frame_laura_B-1024x624.png 1024w" sizes="(max-width: 575px) 100vw, 575px" /></a>
+
+<p>&nbsp;</p>
+<p>Happy time <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/78495010?color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/12/29/hacking-flashlight-for-party/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WShow_Glitchtchtchitch</title>
+		<link>/2013/12/20/wshow_glitchtchtchitch/</link>
+					<comments>/2013/12/20/wshow_glitchtchtchitch/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2013 16:59:14 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fall 2013]]></category>
+		<category><![CDATA[ICM_Processing]]></category>
+		<category><![CDATA[processing]]></category>
+		<category><![CDATA[show]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=596</guid>
+
+					<description><![CDATA[@ ITP Winter Show 2013. Category: Processing, pixels. Set-up: Webcam, Macbook pro, 9 sketches. Details: blog post. &#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p>@ ITP Winter Show 2013.</p>
+<p>Category: Processing, pixels.</p>
+<p>Set-up: Webcam, Macbook pro, 9 sketches.</p>
+<p>Details: <a href="http://www.jhclaura.com/glitchtchtchitch/">blog post</a>.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/11/version_id.png"><img loading="lazy" class="alignnone size-large wp-image-612" alt="version_id" src="http://www.jhclaura.com/wp-content/uploads/2013/11/version_id-1024x469.png" width="1024" height="469" srcset="/wp-content/uploads/2013/11/version_id-1024x469.png 1024w, /wp-content/uploads/2013/11/version_id-300x138.png 300w, /wp-content/uploads/2013/11/version_id.png 1300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<a href='/2013-12-15-15-26-59/'><img width="184" height="350" src="/wp-content/uploads/2013/12/2013-12-15-15.26.59.jpg" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/2013-12-15-15.26.59.jpg 683w, /wp-content/uploads/2013/12/2013-12-15-15.26.59-158x300.jpg 158w, /wp-content/uploads/2013/12/2013-12-15-15.26.59-538x1024.jpg 538w" sizes="(max-width: 184px) 100vw, 184px" /></a>
+<a href='/glitchtchtchitch-2/'><img width="620" height="302" src="/wp-content/uploads/2013/12/glitchtchtchitch.jpeg" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/glitchtchtchitch.jpeg 2268w, /wp-content/uploads/2013/12/glitchtchtchitch-300x146.jpeg 300w, /wp-content/uploads/2013/12/glitchtchtchitch-1024x499.jpeg 1024w" sizes="(max-width: 620px) 100vw, 620px" /></a>
+<a href='/2013-12-15-15-33-11/'><img width="620" height="350" src="/wp-content/uploads/2013/12/2013-12-15-15.33.11-1024x577.jpg" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/2013-12-15-15.33.11-1024x577.jpg 1024w, /wp-content/uploads/2013/12/2013-12-15-15.33.11-300x169.jpg 300w, /wp-content/uploads/2013/12/2013-12-15-15.33.11.jpg 1300w" sizes="(max-width: 620px) 100vw, 620px" /></a>
+<a href='/2013-12-15-15-34-08/'><img width="195" height="350" src="/wp-content/uploads/2013/12/2013-12-15-15.34.08.jpg" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/2013-12-15-15.34.08.jpg 723w, /wp-content/uploads/2013/12/2013-12-15-15.34.08-167x300.jpg 167w, /wp-content/uploads/2013/12/2013-12-15-15.34.08-570x1024.jpg 570w" sizes="(max-width: 195px) 100vw, 195px" /></a>
+<a href='/2013-12-15-15-40-06/'><img width="620" height="333" src="/wp-content/uploads/2013/12/2013-12-15-15.40.06.jpg" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/2013-12-15-15.40.06.jpg 1300w, /wp-content/uploads/2013/12/2013-12-15-15.40.06-300x161.jpg 300w, /wp-content/uploads/2013/12/2013-12-15-15.40.06-1024x550.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" /></a>
+<a href='/2013-12-15-17-31-13/'><img width="204" height="350" src="/wp-content/uploads/2013/12/2013-12-15-17.31.13.jpg" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/2013-12-15-17.31.13.jpg 759w, /wp-content/uploads/2013/12/2013-12-15-17.31.13-175x300.jpg 175w, /wp-content/uploads/2013/12/2013-12-15-17.31.13-598x1024.jpg 598w" sizes="(max-width: 204px) 100vw, 204px" /></a>
+<a href='/img_1145/'><img width="620" height="309" src="/wp-content/uploads/2013/12/IMG_1145.jpg" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/IMG_1145.jpg 1300w, /wp-content/uploads/2013/12/IMG_1145-300x150.jpg 300w, /wp-content/uploads/2013/12/IMG_1145-1024x510.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" /></a>
+<a href='/img_1147/'><img width="620" height="333" src="/wp-content/uploads/2013/12/IMG_1147.jpg" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/IMG_1147.jpg 1300w, /wp-content/uploads/2013/12/IMG_1147-300x161.jpg 300w, /wp-content/uploads/2013/12/IMG_1147-1024x550.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" /></a>
+<a href='/img_1152/'><img width="620" height="295" src="/wp-content/uploads/2013/12/IMG_1152.jpg" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/IMG_1152.jpg 1300w, /wp-content/uploads/2013/12/IMG_1152-300x143.jpg 300w, /wp-content/uploads/2013/12/IMG_1152-1024x487.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" /></a>
+<a href='/img_1154/'><img width="620" height="284" src="/wp-content/uploads/2013/12/IMG_1154.jpg" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/IMG_1154.jpg 1300w, /wp-content/uploads/2013/12/IMG_1154-300x138.jpg 300w, /wp-content/uploads/2013/12/IMG_1154-1024x469.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" /></a>
+<a href='/img_1173/'><img width="524" height="350" src="/wp-content/uploads/2013/12/IMG_1173.jpg" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/IMG_1173.jpg 1300w, /wp-content/uploads/2013/12/IMG_1173-300x200.jpg 300w, /wp-content/uploads/2013/12/IMG_1173-1024x684.jpg 1024w" sizes="(max-width: 524px) 100vw, 524px" /></a>
+<a href='/img_1177/'><img width="620" height="266" src="/wp-content/uploads/2013/12/IMG_1177.jpg" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/IMG_1177.jpg 1300w, /wp-content/uploads/2013/12/IMG_1177-300x129.jpg 300w, /wp-content/uploads/2013/12/IMG_1177-1024x440.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" /></a>
+
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/12/20/wshow_glitchtchtchitch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Quick notes after Winter Show 2013</title>
+		<link>/2013/12/17/notes-after-winter-show-2013/</link>
+					<comments>/2013/12/17/notes-after-winter-show-2013/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Tue, 17 Dec 2013 20:32:48 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[ICM_Processing]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[feedback]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[show]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=565</guid>
+
+					<description><![CDATA[Dope Ropes Feedback &#8220;Is it NIME? Just PComp? Wow good job guys, amazing!&#8221; &#8220;What does it do?&#8221; &#8220;Wow I like that, check this out, this is my favorite!&#8221; &#8220;Why do you choose those sounds?&#8221; advices for the ropes attachment very satisfying when pulling bell instrument &#8220;Are they sex tool ropes?&#8221; pretty on and off switch [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h1>Dope Ropes</h1>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/12/doperope1.jpeg"><img loading="lazy" class="aligncenter size-full wp-image-571" alt="doperope" src="http://www.jhclaura.com/wp-content/uploads/2013/12/doperope1.jpeg" width="1552" height="751" srcset="/wp-content/uploads/2013/12/doperope1.jpeg 1552w, /wp-content/uploads/2013/12/doperope1-300x145.jpeg 300w, /wp-content/uploads/2013/12/doperope1-1024x496.jpeg 1024w" sizes="(max-width: 1552px) 100vw, 1552px" /></a></p>
+<h4>Feedback</h4>
+<ul>
+<li>&#8220;Is it NIME? Just PComp? Wow good job guys, amazing!&#8221;</li>
+<li>&#8220;What does it do?&#8221;</li>
+<li>&#8220;Wow I like that, check this out, this is my favorite!&#8221;</li>
+<li>&#8220;Why do you choose those sounds?&#8221;</li>
+<li>advices for the ropes attachment</li>
+<li>very satisfying when pulling</li>
+<li>bell instrument</li>
+<li>&#8220;Are they sex tool ropes?&#8221;</li>
+<li>pretty on and off switch LED</li>
+<li>&#8220;LED is fun.&#8221;</li>
+<li>Are you a musician?</li>
+<li>Can you compose song with this?</li>
+<li>Using headphones for this.</li>
+<li>Speakers can be located separately for each set.</li>
+<li>People are afraid they&#8217;re going to pull it down; afraid to pull in the beginning</li>
+<li></li>
+</ul>
+<h4>Aftershow Notes</h4>
+<ul>
+<li>too high to adjust, all the wires need to be glued to be stable</li>
+<li>xbee data sending &#8211;&gt; glitch!</li>
+<li>pulling instrument &#8211;&gt; potential, because it&#8217;s rare. The only association people have is ringing the bell.</li>
+<li>people seems more related to recognizable sample sounds</li>
+<li>pitch changing one needs to be more subtle and gentle</li>
+<li>Pulling demonstration helps people understand</li>
+<li></li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1>Glitchtchtchitch</h1>
+<p><img loading="lazy" class="aligncenter  wp-image-566" alt="glitchtchtchitch" src="http://www.jhclaura.com/wp-content/uploads/2013/12/glitchtchtchitch.jpeg" width="1361" height="664" srcset="/wp-content/uploads/2013/12/glitchtchtchitch.jpeg 2268w, /wp-content/uploads/2013/12/glitchtchtchitch-300x146.jpeg 300w, /wp-content/uploads/2013/12/glitchtchtchitch-1024x499.jpeg 1024w" sizes="(max-width: 1361px) 100vw, 1361px" /></p>
+<h4>Feedback</h4>
+<ul>
+<li>some just pass by</li>
+<li>some enjoy it, standing for a long time and coming back later</li>
+<li>people feel more comfortable when I&#8217;m not beside the stand</li>
+<li><span style="line-height: 1.5em;">watching &#8211;&gt; realizing &#8211;&gt; smiling &#8211;&gt; seeing EyesMouthes &#8211;&gt; laughing</span></li>
+<li><span style="line-height: 1.5em;">&#8220;Ha. Big brother is watching.&#8221;</span></li>
+<li><span style="line-height: 1.5em;">&#8220;How do you say this title?&#8221;  &#8220;I see. Sounds like what they look like.&#8221;</span></li>
+<li><span style="line-height: 1.5em;">&#8220;Fun&#8221; &#8220;Very interesting&#8221;</span></li>
+<li><span style="line-height: 1.5em;">&#8220;Hmm&#8221;</span></li>
+<li>&#8220;What should I do?&#8221; &#8220;How does it work?&#8221;</li>
+<li>&#8220;Can I take picture with it?&#8221;</li>
+<li>&#8220;Can I record this?&#8221;</li>
+<li>people wave at the camera</li>
+<li>&#8220;It&#8217;d be cool if it can detect me smiling&#8221;</li>
+<li>interested in how it works</li>
+<li>&#8220;I want to take this home and put it in my room.&#8221;</li>
+<li></li>
+</ul>
+<h4>Aftershow Notes</h4>
+<ul>
+<li>If it&#8217;s workable would be more interesting to open more sketches</li>
+<li>Ideally two computers with 4 projectors!</li>
+<li>can add more interaction function e.g. detect smile and laugh</li>
+<li>more knowledge about surveillance and psychology of people&#8217;s react with it</li>
+<li></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/12/17/notes-after-winter-show-2013/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Application_Let&#8217;s Talk. About Money.</title>
+		<link>/2013/12/13/application_lets-talk-about-money/</link>
+					<comments>/2013/12/13/application_lets-talk-about-money/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2013 16:45:45 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[group]]></category>
+		<category><![CDATA[presentation]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=543</guid>
+
+					<description><![CDATA[For the application presentation, Pam, Rodrigo, Tessa and I made a survey for ITP, reflecting on the speaker Tricia Wang, an sociologist and ethnographer. Click on &#8220;The Elephant in the Room&#8221; to enter our survey page and the result &#38; analysis of it. Below is the video we made for our presentation in class. Let&#8217;s talk. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>For the application presentation, Pam, Rodrigo, Tessa and I made a survey for ITP, reflecting on the speaker Tricia Wang, an sociologist and ethnographer. Click on &#8220;The Elephant in the Room&#8221; to enter our survey page and the result &amp; analysis of it. Below is the video we made for our presentation in class.</p>
+<p style="text-align: left;"><em><strong>Let&#8217;s talk.</strong></em></p>
+<p><a href="http://bit.ly/itpletstalk"><img loading="lazy" class="wp-image-544 alignnone" alt="ele_02" src="http://www.jhclaura.com/wp-content/uploads/2013/12/ele_02.gif" width="536" height="429" /></a></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><iframe loading="lazy" src="//player.vimeo.com/video/81757413?color=c9ff23" height="394" width="700" allowfullscreen="" frameborder="0"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/12/13/application_lets-talk-about-money/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ani_chat w/ Shiffman</title>
+		<link>/2013/12/12/ani_chat-w-shiffman/</link>
+					<comments>/2013/12/12/ani_chat-w-shiffman/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2013 21:43:24 +0000</pubDate>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[AE]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[nerd]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=537</guid>
+
+					<description><![CDATA[Spend so much time! YEAYYYYYYYYYYY enjoy &#60;3]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" src="//player.vimeo.com/video/81755831?color=c9ff23" width="700" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> </p>
+<p style="text-align: center;">
+<p style="text-align: center;">Spend so much time!</p>
+<p style="text-align: center;"><span style="color: #33ffcc;"><strong>YEAYYYYYYYYYYY</strong></span></p>
+<p style="text-align: center;">enjoy &lt;3</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/12/12/ani_chat-w-shiffman/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Web_Lost</title>
+		<link>/2013/12/10/web_lost/</link>
+					<comments>/2013/12/10/web_lost/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2013 06:37:53 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[CommLab Web]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[mood]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[php]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=522</guid>
+
+					<description><![CDATA[Are you? Come and spread some thoughs! API I used: YouTube, TheCatAPI, Iheartquotes]]></description>
+										<content:encoded><![CDATA[<p><a href="http://jhclaura.com/web_final/lost.php"><img loading="lazy" class="wp-image-658 alignnone" alt="lost_new" src="http://www.jhclaura.com/wp-content/uploads/2013/12/lost_new.gif" width="800" height="450" /></a></p>
+<p style="text-align: center;"><a href="http://jhclaura.com/web_final/lost.php" target="_blank">Are you? Come and spread some thoughs!</a></p>
+<p style="text-align: center;"><span id="more-522"></span></p>
+<p style="text-align: center;">API I used: YouTube, <a href="http://thecatapi.com/docs.html#categories-list" target="_blank">TheCatAPI</a>, <a href="http://iheartquotes.com/api" target="_blank">Iheartquotes</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/12/10/web_lost/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

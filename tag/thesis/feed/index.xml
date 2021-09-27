@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>thesis &#8211; ITP Days</title>
+	<atom:link href="/tag/thesis/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Thu, 18 Sep 2014 15:23:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>thesis &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Project Development Studio &#8211; Untangle Ideas for project</title>
+		<link>/2014/09/18/project-development-studio-untangle-ideas-for-project/</link>
+					<comments>/2014/09/18/project-development-studio-untangle-ideas-for-project/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 18 Sep 2014 15:23:24 +0000</pubDate>
+				<category><![CDATA[Project Development Studio]]></category>
+		<category><![CDATA[it's coming]]></category>
+		<category><![CDATA[omg]]></category>
+		<category><![CDATA[thesis]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1611</guid>
+
+					<description><![CDATA[T H E S I S     I S     C O M I N G      O M G. But this is not a thesis. So calm down. Yet still, please excuse me to use bullets to slowly untangle my thoughts. &#160; P R O B L E M S socially [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>T H E S I S     I S     C O M I N G      O M G.</p>
+<p>But this is not a thesis. So calm down. Yet still, please excuse me to use bullets to slowly untangle my thoughts.</p>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline;">P R O B L E M S</span></p>
+<ul>
+<li>socially awkward</li>
+<li>improve attention and social skills of children</li>
+<li>time control</li>
+<li>help building personal values
+<ul>
+<li>imprint period &#8211; from birth to 7 years</li>
+<li>modelling period &#8211; from 8 to 13 years</li>
+<li>socialization period &#8211; from 13 to 21 years</li>
+</ul>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">I N T E R E S T S</span></p>
+<ul>
+<li>perception &amp; imaginative
+<ul>
+<li><em>&#8220;Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.”</em></li>
+<li><em>“We are imaginative beasts.&#8221;</em></li>
+</ul>
+</li>
+<li>dream, waking dream</li>
+<li>details</li>
+<li>memory</li>
+<li>flow of time</li>
+<li>food</li>
+<li>game</li>
+</ul>
+<p>Before answering teacher Despina&#8217;s questions, I jotted down ideas came out from <em><strong>problems</strong>(public)</em> side and from <strong><em>interests</em></strong><em>(personal)</em> side, and I found I had more ideas about <strong><em>interests </em></strong>than <em><strong>problems</strong></em>, does it mean I&#8217;m a selfish person?</p>
+<p>&nbsp;</p>
+<p>And here&#8217;s the answer of Despina&#8217;s questions:</p>
+<ol>
+<li>A description of my project
+<ul>
+<li>&#8211; concise description of what your project is &#8211;&gt; <span style="color: #00d9c3;"><strong>An online journey within <span style="font-family: 'Andale Mono', Times; font-size: 12pt;"><em>Dream</em></span>, where world is ambiguous and fulls of traces for you to figure out; e.g. first person view game</strong></span>
+<ul>
+<li>&#8211; who is it for &#8211;&gt; <span style="color: #00d9c3;"><strong>Anyone who is troubled by tangled thoughts and feels lost in waking dream</strong></span></li>
+<li>&#8211; what do you want your user (even if it yourself) when interacting with the work to:
+<ul>
+<li>&#8211; &#8211; feel &#8211;&gt;<span style="color: #00d9c3;"><strong> Intrigued, surreal </strong></span></li>
+<li>&#8211; &#8211; do &#8211;&gt; <span style="color: #00d9c3;"><strong>Wonder in the world of the dream, embrace the emotions, and try to figure it out the circumstances</strong></span></li>
+<li>&#8211; &#8211; know (information and insights) &#8211;&gt; <span style="color: #00d9c3;"><strong>By collecting traces and clues in <span style="font-family: 'Andale Mono', Times;"><em>Dream</em></span>, users reflect it to their daily lives, knowing they are not the only one who lost, and hopefully feel less lost after that</strong></span></li>
+</ul>
+</li>
+<li>&#8211; what is the “problem” you are trying to solve and what is your recommended solution &#8211;&gt; <span style="color: #00d9c3;"><strong>problem: information explosion, tangled thoughts, lost feeling; solution: be in a place where users forget about reality, and spread positive(?) seed in user&#8217;s perception thus change user&#8217;s state of mind when user comes back to real life</strong></span></li>
+<li>&#8211; what are the opportunities that you see in the problem space &#8211;&gt;<span style="color: #00d9c3;"> <strong>???</strong></span></li>
+<li>&#8211; what are the general challenges in the problem area and what do you think will be your specific challenges &#8211;&gt;<span style="color: #00d9c3;"><strong> ???</strong></span></li>
+<li>&#8211; what research (with references) have you done so far (articles, related projects, materials etc) &#8211;&gt; <span style="color: #00d9c3;"><strong>Froid, David Lynch; keywords: dream, perception, memory</strong></span></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>What are the technical, spatial, interactional requirements for your project &#8211;&gt;<span style="color: #00d9c3;"> <strong>webGL/Three.js or Unity, screen based or Oculus Rift, game controller or hopefully physically involved</strong></span></li>
+<li>List of questions and answer them for your project &#8211;&gt; <span style="color: #00d9c3;"><strong>TO-DO</strong></span></li>
+<li>Your criteria of success &#8211;&gt; <span style="color: #00d9c3;"><strong>User leaves with smile</strong></span></li>
+<li>how do you plan to evaluate this success &#8211;&gt; <span style="color: #00d9c3;"><strong>1) Observe in present, 2) website visit count and duration w/ Google Analytics, 3) email/mail for getting feedback</strong></span></li>
+<li>Draft timeline of how you will spend the next 13(-3) weeks &#8211;&gt;<span style="color: #00d9c3;"><strong>TO-DO</strong></span></li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/09/18/project-development-studio-untangle-ideas-for-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

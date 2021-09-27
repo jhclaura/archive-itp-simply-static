@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CommLab Web &#8211; ITP Days</title>
+	<atom:link href="/category/fall-2013/web/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Thu, 23 Jan 2014 08:54:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>CommLab Web &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>5-in-5_Day2_Moving Eye</title>
+		<link>/2014/01/23/5-in-5_day2_moving-eye/</link>
+					<comments>/2014/01/23/5-in-5_day2_moving-eye/#comments</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2014 08:54:04 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[CommLab Web]]></category>
+		<category><![CDATA[5-in-5]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[first time]]></category>
+		<category><![CDATA[javascript]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=749</guid>
+
+					<description><![CDATA[(click pic to play! Using keyboard&#8217;s ↑ ↓ ← →) JavaScript, first time! Nearly die&#8230;. I think I&#8217;m too used to Java/C++ syntax and too greedy/ambitious to try to do projects with JS&#8230; I spent whole afternoon searching on internet, and although I did found some awesome source codes, they just simply blown my mind. SO [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://jhclaura.com/js/imgMove/index4.html"><img loading="lazy" class="wp-image-750 alignnone" alt="eyes" src="http://www.jhclaura.com/wp-content/uploads/2014/01/eyes.jpg" width="1000" height="681" srcset="/wp-content/uploads/2014/01/eyes.jpg 1000w, /wp-content/uploads/2014/01/eyes-300x204.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p>
+<p style="text-align: center;"><strong>(click <span style="color: #999999;">pic</span> to play! Using keyboard&#8217;s </strong>↑ ↓ ← →<strong>)</strong></p>
+<p style="text-align: left;">JavaScript, first time! Nearly die&#8230;. I think I&#8217;m too used to Java/C++ syntax and too greedy/ambitious to try to do projects with JS&#8230; I spent whole afternoon searching on internet, and although I did found some awesome source codes, they just simply blown my mind. SO FOREIGN.</p>
+<p style="text-align: left;">Thanks to <a href="http://andysigler.com/" target="_blank">Andy</a>&#8216;s suggestion, I narrowed down my goal to make a simple bouncing image in window. And it worked! After kind of (really just kind of) understanding JavaScript&#8217;s syntax and structure, I added extra functions: auto-moving and controlled by arrow keys at same time, and speed up/slow down feature.</p>
+<p style="text-align: left;">Below are some of the resources I found:</p>
+<ul>
+<li><a href="http://jstherightway.org/" target="_blank">http://jstherightway.org/</a> &lt;&#8211; suggested by <a href="https://vimeo.com/mackhowell" target="_blank">Mack</a> <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li><a href="http://www.html5gamedevelopment.com/html5-game-tutorials" target="_blank">http://www.html5gamedevelopment.com/html5-game-tutorials</a></li>
+<li><a href="http://javascriptissexy.com/how-to-learn-javascript-properly/" target="_blank">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></li>
+<li><a href="http://javascriptissexy.com/how-to-learn-javascript-properly/" target="_blank">http://www.reddit.com/r/learnjavascript/comments/1ceefw/learn_javascript_properly_omnibus_post/</a></li>
+<li><a href="http://dev.tutsplus.com/articles/learn-html5-with-this-simple-avoider-game-tutorial--active-9653" target="_blank">http://dev.tutsplus.com/articles/learn-html5-with-this-simple-avoider-game-tutorial&#8211;active-9653</a></li>
+<li><a href="http://cssdeck.com/post/64/codecast-courses" target="_blank">http://cssdeck.com/post/64/codecast-courses</a></li>
+<li>&#8230;&#8230;too many</li>
+</ul>
+<p>I know right? Crazy.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/01/23/5-in-5_day2_moving-eye/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Web_Lost</title>
+		<link>/2013/12/10/web_lost/</link>
+					<comments>/2013/12/10/web_lost/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2013 06:37:53 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[CommLab Web]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[mood]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[php]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=522</guid>
+
+					<description><![CDATA[Are you? Come and spread some thoughs! API I used: YouTube, TheCatAPI, Iheartquotes]]></description>
+										<content:encoded><![CDATA[<p><a href="http://jhclaura.com/web_final/lost.php"><img loading="lazy" class="wp-image-658 alignnone" alt="lost_new" src="http://www.jhclaura.com/wp-content/uploads/2013/12/lost_new.gif" width="800" height="450" /></a></p>
+<p style="text-align: center;"><a href="http://jhclaura.com/web_final/lost.php" target="_blank">Are you? Come and spread some thoughs!</a></p>
+<p style="text-align: center;"><span id="more-522"></span></p>
+<p style="text-align: center;">API I used: YouTube, <a href="http://thecatapi.com/docs.html#categories-list" target="_blank">TheCatAPI</a>, <a href="http://iheartquotes.com/api" target="_blank">Iheartquotes</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/12/10/web_lost/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Web_Start Your Day</title>
+		<link>/2013/11/22/web_start-your-day/</link>
+					<comments>/2013/11/22/web_start-your-day/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sat, 23 Nov 2013 03:52:59 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[CommLab Web]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[open weather]]></category>
+		<category><![CDATA[php]]></category>
+		<category><![CDATA[youtube]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=418</guid>
+
+					<description><![CDATA[Start Your Day Tell you what&#8217;s the weather today and pick a song for you to start your day! (codes below) page_1 &#60;?php /* ----- Start your day with setting up goal, knowing the weather, and enjoying music picked up for you. ----- */ ?&#62; &#60;!DOCTYPE HTML&#62; &#60;html&#62; &#60;head&#62; &#60;title&#62;Start Your Day&#60;/title&#62; &#60;/head&#62; &#60;body&#62; &#60;h1 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: center;"><a href="http://jhclaura.com/web_05/Start_Your_Day/start.php"><img loading="lazy" class="aligncenter  wp-image-419" alt="start" src="http://www.jhclaura.com/wp-content/uploads/2013/11/start.png" width="214" height="206" srcset="/wp-content/uploads/2013/11/start.png 396w, /wp-content/uploads/2013/11/start-300x289.png 300w" sizes="(max-width: 214px) 100vw, 214px" /></a></p>
+<p style="text-align: center;"><a href="http://jhclaura.com/web_05/Start_Your_Day/start.php" target="_blank">Start Your Day</a></p>
+<p style="text-align: center;">Tell you what&#8217;s the weather today and pick a song for you to start your day!</p>
+<p style="text-align: center;">(codes below)</p>
+<p style="text-align: center;"><span id="more-418"></span></p>
+<p style="text-align: center;">page_1</p>
+<pre class="brush: php; gutter: true">&lt;?php
+/* 
+-----
+Start your day with setting up goal, knowing the weather, and enjoying music picked up for you.
+-----
+*/
+?&gt;
+&lt;!DOCTYPE HTML&gt; 
+&lt;html&gt; 
+	&lt;head&gt;
+		&lt;title&gt;Start Your Day&lt;/title&gt;
+	&lt;/head&gt;
+	
+	&lt;body&gt;
+	&lt;h1 align=&quot;center&quot;&gt;Start Your Day&lt;/h1&gt;
+	
+	&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;start.png&quot; alt=&quot;Start&quot; height=&quot;150&quot; width=&quot;160&quot;/&gt;&lt;/p&gt;
+
+	&lt;p align=&quot;center&quot;&gt;Good morning stranger.&lt;br/&gt;What&#039;s your mood today?&lt;/b&gt;&lt;/p&gt;
+		
+	&lt;form align=&quot;center&quot; action=&quot;/web_05/Start_Your_Day/myDay.php&quot; method=&quot;post&quot;&gt;
+		&lt;div class=&quot;selec_box&quot;&gt;
+  			&lt;label for=&quot;mood&quot;&gt;mood:&lt;/label&gt;
+        	&lt;!-- The second value will be selected initially --&gt;
+			&lt;select name=&quot;mood&quot;&gt;
+				&lt;option selected&gt;-----&lt;/option&gt;
+			    &lt;option value=&quot;workaholic&quot;&gt;workaholic&lt;/option&gt; 
+			    &lt;option value=&quot;relaxed&quot;&gt;holiday&lt;/option&gt;
+				&lt;option value=&quot;lost&quot;&gt;lost&lt;/option&gt;
+			&lt;/select&gt;
+	    &lt;/div&gt;
+	    &lt;div&gt;
+        	&lt;label for=&quot;city&quot;&gt;city:&lt;/label&gt;
+	        &lt;input type=&quot;text&quot; name=&quot;city&quot; /&gt;
+    	&lt;/div&gt;
+    	&lt;div&gt;
+        	&lt;label for=&quot;country&quot;&gt;country:&lt;/label&gt;
+	        &lt;input type=&quot;text&quot; name=&quot;country&quot; /&gt;
+    	&lt;/div&gt;
+    	&lt;div class=&quot;button&quot;&gt;
+        	&lt;button type=&quot;submit&quot;&gt; :) &lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;
+	
+	
+
+&lt;/body&gt; 
+&lt;/html&gt;</pre>
+<p style="text-align: center;">page_2</p>
+<pre class="brush: php; gutter: true"> &lt;?php
+
+ 	// mood
+	//session_start();
+
+	if ( $_POST[&#039;mood&#039;] == &quot;-----&quot; ) {
+		echo &quot;It&#039;d be lovely if you tell me your mood.&quot;;
+	} else if ( empty($_POST[&#039;city&#039;]) || empty($_POST[&#039;country&#039;]) ) {
+		echo &quot;It&#039;d be lovely if you tell me your location.&quot;;
+	} else if ( empty($_POST[&#039;mood&#039;]) &amp;&amp; empty($_POST[&#039;city&#039;]) &amp;&amp; empty($_POST[&#039;country&#039;]) ) {
+		echo &quot;It&#039;d be lovely if you tell me your mood and location.&quot;;
+	} else {
+		$mood = $_POST[&#039;mood&#039;];
+		$city = $_POST[&#039;city&#039;];
+		$country = $_POST[&#039;country&#039;];
+	
+
+	if ($mood == &quot;workaholic&quot;) {
+		$imgMood = &quot;work.png&quot;;
+	} else if ($mood == &quot;relaxed&quot;) {
+		$imgMood = &quot;holidays.png&quot;;
+	} else if ($mood == &quot;lost&quot;) {
+		$imgMood = &quot;lost.png&quot;;
+	}
+ 	// weather
+ 	$data = file_get_contents(
+	&quot;http://api.openweathermap.org/data/2.5/weather?q=&quot; . $city . &quot;,&quot; . $country . &quot;&amp;units=metric&quot;);
+	// turn the JSON data into a PHP object
+	$myday = json_decode($data);
+
+	//var_dump($myday); //for debugging
+	$today = date(&#039;M d&#039;,$myday-&gt;dt); // format the timestamp as a human-readable date
+	$tempMinMax = $myday-&gt;main-&gt;temp .&#039; C&#039;;
+	$myweather = $myday-&gt;weather[0]-&gt;description;
+	
+	
+?&gt;
+
+&lt;!DOCTYPE HTML&gt; 
+&lt;html&gt; 
+	&lt;head&gt;
+		&lt;title&gt;In this way.&lt;/title&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+	&lt;h1 align=&quot;center&quot;&gt;&lt;font size=&quot;5&quot;&gt;It will be a good day!&lt;/font&gt;&lt;/h1&gt;
+	&lt;p align=&quot;center&quot;&gt;
+		&lt;?php
+			echo &quot;Today is &quot; . $today . &quot;.&lt;br/&gt; Temperature is around &quot; . $tempMinMax .&quot;
+				; &quot; . $myweather . &quot;.&lt;br/&gt;&quot;;	
+			echo &quot; &lt;br/&gt;&quot;;
+			echo &quot;I woke up in &quot; . $city . &quot;, feeling &quot; . $mood . &quot;.&lt;br/&gt;&quot;;
+			echo &quot; &lt;br/&gt;&quot;;
+			echo &#039;&lt;img src=&quot;&#039;. $imgMood . &#039;&quot;alt=&quot;Start&quot; height=&quot;150&quot; width=&quot;160&quot;/&gt;&#039;;
+			echo &quot; &lt;br/&gt;&quot;;
+			echo &quot;Today will be a good day,&lt;br/&gt; because I start it with this song.&lt;br/&gt;&quot;;
+			echo &quot; &lt;br/&gt;&quot;;
+
+			require(&#039;google-api-php-client/src/Google_Client.php&#039;);
+			require(&#039;google-api-php-client/src/contrib/Google_YouTubeService.php&#039;);
+
+			/* Set $developer_key to the &quot;API key&quot; value from the &quot;Access&quot; tab of the
+			Google APIs Console &lt;http://code.google.com/apis/console#access&gt;
+			Go to your app, then open &quot;Server Key&quot; and copy the &quot;API Key&quot; value
+			Please ensure that you have enabled the YouTube Data API for your project. */
+			$developer_key = &#039;AIzaSyBq4Y_-39wzoHM1c5xd19SXORtjA31As7A&#039;;
+
+
+			// create a new Google Client object
+			$client = new Google_Client();
+			$client-&gt;setDeveloperKey($developer_key);
+
+			$youtube = new Google_YoutubeService($client);
+
+			$search_term = $mood . &quot; music &quot; . $myweather . &quot; &quot; . $city;
+			//echo $search_term;
+
+			// You could make the search term dynamic by sending it in the query string with GET
+			// ex: yoursite.com/thispage.php?search=puppies
+			// You could also make a form to allow someone to fill out a search field
+			if (isset($_GET[&#039;search&#039;])){
+				$search_term = $_GET[&#039;search&#039;];
+			}
+
+			// see more about the available search parameters here: https://developers.google.com/youtube/v3/docs/search/list
+			$searchResponse = $youtube-&gt;search-&gt;listSearch(&#039;id,snippet&#039;, array(
+			  &#039;q&#039; =&gt; $search_term,
+			  &#039;maxResults&#039; =&gt; 20,
+			  &#039;type&#039;=&gt;&#039;video&#039;
+			));
+
+			//var_dump($searchResponse); // for debugging
+			//echo &quot;Search: &lt;em&gt;$search_term&lt;/em&gt;&lt;br/&gt;&quot;;
+
+			/*
+			foreach ($searchResponse[&#039;items&#039;] as $searchResult) {
+				$title = $searchResult[&#039;snippet&#039;][&#039;title&#039;];
+				$thumbnail_src = $searchResult[&#039;snippet&#039;][&#039;thumbnails&#039;][&#039;default&#039;][&#039;url&#039;];
+				$video_id = $searchResult[&#039;id&#039;][&#039;videoId&#039;];
+				//YouTube video URL format: http://www.youtube.com/watch?v=mmf0KAHWlnk
+				$video_url = &#039;http://www.youtube.com/watch?v=&#039;.$video_id;
+				echo &#039;&lt;a href=&quot;&#039;.$video_url.&#039;&quot;&gt;&#039;;
+				echo &#039;&lt;img src=&quot;&#039;.$thumbnail_src.&#039;&quot; height=&quot;250&quot; width=&quot;400&quot;/&gt;&#039;;
+				echo &#039;&lt;/a&gt;&lt;br/&gt;&#039;;
+			}*/
+
+			
+			$length = count($searchResponse[&#039;items&#039;]);
+			$num = rand(1, $length) - 1;
+			$searchResult = $searchResponse[&#039;items&#039;][$num];
+
+			$title = $searchResult[&#039;snippet&#039;][&#039;title&#039;];
+			$thumbnail_src = $searchResult[&#039;snippet&#039;][&#039;thumbnails&#039;][&#039;default&#039;][&#039;url&#039;];
+			$video_id = $searchResult[&#039;id&#039;][&#039;videoId&#039;];
+			//YouTube video URL format: http://www.youtube.com/watch?v=mmf0KAHWlnk
+			$video_url = &#039;http://www.youtube.com/watch?v=&#039;.$video_id;
+			//echo $num;
+			echo &quot; &lt;br/&gt;&quot;;
+			//echo &#039;&lt;a href=&quot;&#039;.$video_url.&#039;&quot;&gt;&#039;;
+			//echo &#039;&lt;img src=&quot;&#039;.$thumbnail_src.&#039;&quot; height=&quot;250&quot; width=&quot;400&quot;/&gt;&#039;;
+			echo &#039;&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/&#039;. $video_id .&#039;&quot;&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&#039;;
+			// echo &quot; &lt;br/&gt;&quot;;
+			// echo $thumbnail_src;
+			//echo &#039;&lt;/a&gt;&lt;br/&gt;&#039;;
+			echo &#039;&lt;br/&gt;&#039;;
+			
+
+		}
+		?&gt;
+	&lt;/p&gt;
+
+	&lt;p align=&quot;center&quot;&gt;
+	&lt;a href=&quot;start.php&quot;&gt;&lt;font size=&quot;2&quot;&gt;somehow... my mood changes!&lt;/font&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;/p&gt;
+	
+	
+	
+&lt;/body&gt; 
+&lt;/html&gt;</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/11/22/web_start-your-day/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Web_Drink or Dare!</title>
+		<link>/2013/11/02/web_drink-or-dare/</link>
+					<comments>/2013/11/02/web_drink-or-dare/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2013 03:12:12 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[CommLab Web]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=342</guid>
+
+					<description><![CDATA[My first web game v.PHP yah! click click click me! And below are my php codes. Page_1 &#60;?php /* ----- This script makes you drink more merrily. ----- */ ?&#62; &#60;!DOCTYPE HTML&#62; &#60;html&#62; &#60;head&#62; &#60;title&#62;Drinking Game!&#60;/title&#62; &#60;/head&#62; &#60;body&#62; &#60;h1 align=&#34;center&#34;&#62;Drink or Dare!&#60;/h1&#62; &#60;p align=&#34;center&#34;&#62;&#60;img src=&#34;beer.png&#34; alt=&#34;Beer&#34;/&#62;&#60;/p&#62; &#60;p align=&#34;center&#34;&#62;How many players are here? &#60;br/&#62;&#60;strong&#62;Index&#60;/strong&#62; each one [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/11/beer.png"><img loading="lazy" class="size-full wp-image-344 alignnone" alt="beer" src="http://www.jhclaura.com/wp-content/uploads/2013/11/beer.png" width="128" height="128" /></a></p>
+<p>My first web game v.PHP yah!</p>
+<p><a href="http://jhclaura.com/web_02/drinking_game.php" target="_blank"><strong><span style="color: #99cc00;">click click click</span></strong></a> me!</p>
+<p>And below are my php codes.</p>
+<p><span id="more-342"></span></p>
+<p>Page_1</p>
+<pre class="brush: php; gutter: true">&lt;?php
+/* 
+-----
+This script makes you drink more merrily.
+-----
+*/
+?&gt;
+&lt;!DOCTYPE HTML&gt; 
+&lt;html&gt; 
+	&lt;head&gt;
+		&lt;title&gt;Drinking Game!&lt;/title&gt;
+	&lt;/head&gt;
+	
+	&lt;body&gt;
+	&lt;h1 align=&quot;center&quot;&gt;Drink or Dare!&lt;/h1&gt;
+	
+	&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;beer.png&quot; alt=&quot;Beer&quot;/&gt;&lt;/p&gt;
+	
+	&lt;p align=&quot;center&quot;&gt;How many players are here? &lt;br/&gt;&lt;strong&gt;Index&lt;/strong&gt; each one of you and 
+		&lt;strong&gt;submit&lt;/strong&gt; the total number yo!&lt;/p&gt;
+		
+	&lt;form align=&quot;center&quot; action=&quot;/web_02/player_2.php&quot; method=&quot;post&quot;&gt;
+		&lt;div&gt;
+  			&lt;label for=&quot;players&quot;&gt;Players #:&lt;/label&gt;
+        	&lt;input type=&quot;number&quot; min=&quot;1&quot; max=&quot;20&quot; step=&quot;1&quot; name=&quot;players&quot; /&gt;
+	    &lt;/div&gt;
+    	&lt;div class=&quot;button&quot;&gt;
+        	&lt;button type=&quot;submit&quot;&gt;submit.&lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;
+	
+	
+
+&lt;/body&gt; 
+&lt;/html&gt;</pre>
+<p>Page_2</p>
+<pre class="brush: php; gutter: true">&lt;?php
+	session_start();
+		
+	if ( empty($_POST[&#039;players&#039;]) ) {
+		echo &quot;Please enter the number of players!&quot;;
+	} else {
+		$players = $_POST[&#039;players&#039;];
+		$aPlayer = rand(1, $players);
+		do {
+			$bPlayer = rand(1, $players);
+		} while ($bPlayer == $aPlayer);
+	
+		$_SESSION[&#039;aPlayer&#039;] = $aPlayer;
+		$_SESSION[&#039;bPlayer&#039;] = $bPlayer;
+		
+		$title = &quot;Congrats Player Num&lt;strong&gt;&quot; . $aPlayer . &quot;&lt;/strong&gt;, you&#039;re chosen!&quot;;
+		}
+?&gt;
+
+&lt;!DOCTYPE HTML&gt; 
+&lt;html&gt; 
+	&lt;head&gt;
+		&lt;title&gt;
+		&lt;?php 
+			if ( empty($_POST[&#039;players&#039;]) ) {
+				echo &quot;Oops!&quot;;
+			} else {
+				echo &quot;Hi Player$aPlayer!&quot;;
+			}		
+		?&gt;
+		&lt;/title&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+	
+	&lt;p align=&quot;center&quot;&gt;&lt;?php echo $title ?&gt;&lt;br/&gt;
+		Now please fill out the form below.&lt;/p&gt;
+	
+	&lt;form align=&quot;center&quot; action=&quot;/web_02/form_2.php&quot; method=&quot;post&quot;&gt;
+	    &lt;div&gt;
+    	    &lt;label for=&quot;name&quot;&gt;Your name:&lt;/label&gt;
+        	&lt;input type=&quot;text&quot; name=&quot;name&quot; /&gt;
+	    &lt;/div&gt;
+	    &lt;div&gt;
+    	    &lt;label for=&quot;amount&quot;&gt;How many glasses will you drink:&lt;/label&gt;
+        	&lt;input type=&quot;number&quot; min=&quot;0&quot; max=&quot;4&quot; step=&quot;1&quot; name=&quot;amount&quot; /&gt;
+	    &lt;/div&gt;
+    	&lt;div&gt;
+        	&lt;label for=&quot;partA&quot;&gt;Favorite human part:&lt;/label&gt;
+	        &lt;input type=&quot;text&quot; name=&quot;partA&quot; /&gt;
+    	&lt;/div&gt;
+    	&lt;div&gt;
+        	&lt;label for=&quot;partB&quot;&gt;Less favorite human part:&lt;/label&gt;
+	        &lt;input type=&quot;text&quot; name=&quot;partB&quot; /&gt;
+    	&lt;/div&gt;
+    	&lt;div class=&quot;button&quot;&gt;
+        	&lt;button type=&quot;submit&quot;&gt;I made my mind.&lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;
+	
+
+&lt;/body&gt; 
+&lt;/html&gt;</pre>
+<p>Page_3</p>
+<pre class="brush: php; gutter: true"> &lt;?php
+	session_start();
+	$playerA = $_SESSION[&#039;aPlayer&#039;];
+	$playerB = $_SESSION[&#039;bPlayer&#039;];
+	
+	$amount = $_POST[&#039;amount&#039;];
+	$partA = $_POST[&#039;partA&#039;];
+	$partB = $_POST[&#039;partB&#039;];
+
+
+	$actions = array(
+	4 =&gt; &#039;blow to&#039;,
+	3 =&gt; &#039;touch&#039;,
+	2 =&gt; &#039;kiss&#039;,
+	1 =&gt; &#039;bite&#039;,
+	0 =&gt; &#039;lick&#039;
+	);
+	
+	$do = $actions[$amount];
+	
+?&gt;
+
+&lt;!DOCTYPE HTML&gt; 
+&lt;html&gt; 
+	&lt;head&gt;
+		&lt;title&gt;Obey the order!&lt;/title&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+	
+	&lt;h1 align=&quot;center&quot;&gt;
+&lt;?php
+
+		echo &quot;Player$playerA, please $do the $partA of Player$playerB.&lt;br/&gt;
+		Or you can choose to let Player$playerB $do your $partB.&lt;br/&gt;
+		&lt;br/&gt;
+		Don&#039;t be shy, Player$playerA and Player$playerB.&quot;;
+
+		$name = &quot;$playerA&quot;;
+		$message = &quot; chose drink $amount beer(s),&lt;br/&gt; 
+		so he/she has to either $do the $partA of Player$playerB, &lt;br/&gt;
+		or let Player$playerB $do his/her $partB.&lt;br/&gt;&lt;br/&gt;&quot;;
+
+
+
+		$dsn = &#039;mysql:dbname=jhclaura_newbie;host=mysql.jhclaura.com&#039;;
+		$user = &#039;jhclauracom&#039;;
+		$password = &#039;NpE^yQ7c&#039;;
+
+		/* Create PDO object */
+		$pdo = new PDO($dsn, $user, $password);
+		
+		
+		/* Write the SQL */	
+		$sql = &quot;INSERT INTO drinkResult (name,message) VALUES(?,?)&quot;;
+
+		/* prepare the SQL statement and return a PDOStatement object */
+		$statement = $pdo-&gt;prepare($sql);
+		
+		/* Execute the SQL with the data */ 	
+		if ($statement-&gt;execute(array($name,$message))){ // returns true if it worked
+			// echo &quot;Success! New message added.&quot;;		
+		} else {
+			echo &quot;There was an error and the post could not be added.&lt;br/&gt;n&quot;;
+			// Debug: show the error message
+			print_r( $statement-&gt;errorInfo());
+		}
+?&gt;
+	&lt;/h1&gt;
+	
+	&lt;p align=&quot;center&quot;&gt;
+	&lt;a href=&quot;drinking_game.php&quot;&gt;Again!&lt;/a&gt;&lt;/li&gt;
+	&lt;/p&gt;
+
+	&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;History of DrinkingGame&lt;/strong&gt;
+	&lt;/p&gt;
+
+	&lt;p align=&quot;center&quot;&gt;
+&lt;?php
+	
+	$getSql = &#039;SELECT * FROM drinkResult&#039;;
+
+	$statement = $pdo-&gt;query($getSql);
+
+	$result = $statement-&gt;fetchAll();
+
+	foreach ($result as $row) {
+		echo &quot;Player&quot;;
+		echo $row[&#039;name&#039;];
+		echo $row[&#039;message&#039;];
+		echo &quot;n&quot;;
+	}
+
+?&gt;
+	&lt;/p&gt;
+	
+	
+&lt;/body&gt; 
+&lt;/html&gt;</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/11/02/web_drink-or-dare/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Web_First Ever PHP Bro</title>
+		<link>/2013/10/29/web_first-ever-php-bro/</link>
+					<comments>/2013/10/29/web_first-ever-php-bro/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Tue, 29 Oct 2013 19:41:43 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[CommLab Web]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=327</guid>
+
+					<description><![CDATA[click click click. Made in class. Can find 100 pic of my drawing &#8220;Ugly Cry&#8221; there 😀]]></description>
+										<content:encoded><![CDATA[<p><a href="http://jhclaura.com/hellophp.php" target="_blank"><span style="text-decoration: underline;"><span style="color: #99cc00; text-decoration: underline;"><strong>click click click</strong></span></span></a>. Made in class. Can find 100 pic of my drawing &#8220;Ugly Cry&#8221; there <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/10/29/web_first-ever-php-bro/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Web_Free On Internet?</title>
+		<link>/2013/10/29/web_free-on-internet/</link>
+					<comments>/2013/10/29/web_free-on-internet/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Tue, 29 Oct 2013 06:49:39 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[CommLab Web]]></category>
+		<category><![CDATA[feedback]]></category>
+		<category><![CDATA[reading]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=322</guid>
+
+					<description><![CDATA[Response to Long Live the Web: A Call for Continued Open Standards and Neutrality. From this article I learned the idea of internet isolation. It has never occurred to me, about being locked in the social media website. Internet is amazing because any person can share information with anyone else, anywhere,  and each piece of information [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Response to <a href="http://www.scientificamerican.com/article.cfm?id=long-live-the-web" target="_blank">Long Live the Web: A Call for Continued Open Standards and Neutrality</a>.</p>
+<p>From this article I learned the idea of internet isolation. It has never occurred to me, about being locked in the social media website. Internet is amazing because any person can share information with anyone else, anywhere,  and each piece of information has it&#8217;s address&#8211; URI, which is accessible for everyone. And this related to me deeply because during the first homework of Web(building website w/ html), because it&#8217;s the first time I felt the existence and importance of URI, and therefore was more shocked to realize that, each information we send through Facebook, Twitter, etc. doesn&#8217;t really have its own URI!! Quoted&#8211; &#8220;&#8230;<b id="docs-internal-guid-6eb0461e-02e3-b655-d688-50ac1df99e76">the more you enter, the more you become locked in.</b>&#8221; It was really a horrified moment when I read through this.</p>
+<p>But, then I thought about something probably being equally important&#8230; what about privacy? Quoted&#8211; &#8220;&#8230;<b id="docs-internal-guid-6eb0461e-02e8-cfb8-1cc3-b1bbe463a66c">walled gardens will never better than the open world.</b>&#8220;, it seems quite right at the first glance, but&#8230; really? For the outside world, of course it&#8217;s wonderful that you can go where ever you want, but personally, we all need personal place. Probably not a good metaphor, but I think most of the people will agree walled gardens are not that bad, sometimes even lovely?</p>
+<p>It&#8217;s really an interesting human behavior that people post personal info and feeling on the Facebook/Twitter, and then ask for privacy. It&#8217;s this kind of humanity that makes this problem complicated, but at the same time makes this world more vital and life <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/10/29/web_free-on-internet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Web_First Ever Html Yo</title>
+		<link>/2013/10/28/web_firsteverhtmlyo/</link>
+					<comments>/2013/10/28/web_firsteverhtmlyo/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 28 Oct 2013 15:14:21 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[CommLab Web]]></category>
+		<category><![CDATA[homework]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[test]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=313</guid>
+
+					<description><![CDATA[i&#8217;m so basic. &#8211;&#62; still in progress, be patient 😉]]></description>
+										<content:encoded><![CDATA[<p><strong><span style="color: #99cc00;"><span style="color: #ff3333;"><a href="http://jhclaura.com/web_01/first_html.html" target="_blank"><span style="color: #ff3333;">i&#8217;m so basic</span></a></span>. &#8211;&gt; still in progress, be patient <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/10/28/web_firsteverhtmlyo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hybrid &#8211; ITP Days</title>
+	<atom:link href="/tag/hybrid/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Wed, 04 Feb 2015 04:43:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>hybrid &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hybrid Mood Board</title>
+		<link>/2015/02/03/hybrid-mood-board/</link>
+					<comments>/2015/02/03/hybrid-mood-board/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Wed, 04 Feb 2015 04:43:49 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Thesis - MASK]]></category>
+		<category><![CDATA[chaos]]></category>
+		<category><![CDATA[hybrid]]></category>
+		<category><![CDATA[moodboard]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=2256</guid>
+
+					<description><![CDATA[Torn between two ideas: 1) Show, which is multiplayer VR experiments; 2) Room, which is a tiny cardboard room hybrid of virtual and physical interaction, thus for my mood board, I created a hybrid of graphics &#38; tangible, pro-Show (right side, with drawings and different helmets) &#38; pro-Room (left side, with thread, wires, bottles, wood cubes, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Torn between two ideas: 1) Show, which is multiplayer VR experiments; 2) Room, which is a tiny cardboard room hybrid of virtual and physical interaction, thus for my mood board, I created a hybrid of graphics &amp; tangible, pro-Show (right side, with drawings and different helmets) &amp; pro-Room (left side, with thread, wires, bottles, wood cubes, and feedback tray) as well.</p>
+
+<p>And here&#8217;s the digital collages of my two ideas under the realm of Nonsense.</p>
+<p><strong>[ Show ]</strong></p>
+<p><a href="http://itp.io/thesis/jhc551/wp-content/uploads/sites/617/2015/02/moodBoard_Room.png"><img loading="lazy" class="alignnone size-full wp-image-79" src="http://itp.io/thesis/jhc551/wp-content/uploads/sites/617/2015/02/moodBoard_Show.png" alt="moodBoard_Show" width="1400" height="993" /></a></p>
+<p><strong>[ Room ]</strong></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-78" src="http://itp.io/thesis/jhc551/wp-content/uploads/sites/617/2015/02/moodBoard_Room.png" alt="moodBoard_Room" width="1400" height="993" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/02/03/hybrid-mood-board/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

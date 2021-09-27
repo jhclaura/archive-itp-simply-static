@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ultrasonic &#8211; ITP Days</title>
+	<atom:link href="/tag/ultrasonic/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Tue, 11 Feb 2014 05:53:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>ultrasonic &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>interview and sensors test {FungU}</title>
+		<link>/2014/02/11/interview-and-sensors-test-fungu/</link>
+					<comments>/2014/02/11/interview-and-sensors-test-fungu/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2014 05:53:31 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fungus Among Us]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[motor]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[ultrasonic]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1041</guid>
+
+					<description><![CDATA[Interview with Stephen from Ecovative and Customer Service Lady from Fungi Perfecti: Free form mycelium fabrication could be doable, just remember to degerm. Can&#8217;t be pressed in small mold because it will be hard to take out of the mold. Can try to put growing log in the mold I make to grow, but cut [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Interview with Stephen from Ecovative and Customer Service Lady from Fungi Perfecti:</p>
+<ul>
+<li>Free form mycelium fabrication could be doable, just remember to degerm.</li>
+<li>Can&#8217;t be pressed in small mold because it will be hard to take out of the mold.</li>
+<li>Can try to put growing log in the mold I make to grow, but cut it in half equals to cut the nutrients in half.</li>
+</ul>
+<p>Discuss with Scott:</p>
+<ul>
+<li>Questions for myself
+<ul>
+<li>organic or clean? based on what message I want to send, what emotion I want people to have <span style="line-height: 1.5em;">be intrigued, be bound, to have raw </span><span style="line-height: 1.5em;">motion from</span></li>
+<li><span style="line-height: 1.5em;">—&gt; messy, wild, crazy —&gt; Organic!</span></li>
+</ul>
+</li>
+</ul>
+<p>Lab:</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/02/sensor_test.jpg"><img loading="lazy" class="alignnone  wp-image-1042" alt="sensor_test" src="http://www.jhclaura.com/wp-content/uploads/2014/02/sensor_test.jpg" width="640" height="383" /></a></p>
+<p>&nbsp;</p>
+<ul>
+<li>kind of achieve to mimic the movement of the mushroom: when no one near, the mushroom keeps swinging, when ppl come near, the mushroom is aware and then stops.</li>
+<li>problems: swing speed needs to slow down, could be more sensitive and accurate. ASK around. Yo.</li>
+</ul>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/86385958?byline=0&amp;color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Schedule:</p>
+<ul>
+<li>order oyster mushroom kit</li>
+<li>try using mycelium as dough(if it&#8217;s doable, project might change)</li>
+<li>physical design</li>
+<li>software design</li>
+<li>LAB in shops</li>
+<li>blue foam: big &amp; small fungi</li>
+<li>wood base box</li>
+<li>put oyster mushroom in it and wait it to grow!!!</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/11/interview-and-sensors-test-fungu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

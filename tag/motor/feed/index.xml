@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>motor &#8211; ITP Days</title>
+	<atom:link href="/tag/motor/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Mon, 01 Dec 2014 22:48:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>motor &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>{ Brain } &#8211; process of painfully crafting your idea</title>
+		<link>/2014/12/01/brain-process-of-painfully-crafting-your-idea/</link>
+					<comments>/2014/12/01/brain-process-of-painfully-crafting-your-idea/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 01 Dec 2014 22:48:10 +0000</pubDate>
+				<category><![CDATA[Automata]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[motor]]></category>
+		<category><![CDATA[noooooo]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1757</guid>
+
+					<description><![CDATA[SO. Here&#8217;s the report of my { brain } automata making process. First, prototype with cardboard. Laser cut 11 pieces of pentagons, and stick them together with my favorite tool &#8211; duck tapes. &#160; And endless steel wire bending. &#160; Laser Cut transparent 3/16&#8243; acrylic and build into dodecahedron  with hinges and machine screws. And mount [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>SO. Here&#8217;s the report of my { brain } automata making process.</p>
+<p>First, prototype with cardboard. Laser cut 11 pieces of pentagons, and stick them together with my favorite tool &#8211; duck tapes.<br />
+<a href="http://www.jhclaura.com/wp-content/uploads/2014/12/helmet.jpg"><img loading="lazy" class="alignnone size-full wp-image-1758" src="http://www.jhclaura.com/wp-content/uploads/2014/12/helmet.jpg" alt="helmet" width="1000" height="1000" /></a></p>
+<p>&nbsp;</p>
+<p>And endless steel wire bending.<a href="http://www.jhclaura.com/wp-content/uploads/2014/12/2014-11-23-22.56.04.jpg"><img loading="lazy" class="alignnone size-full wp-image-1759" src="http://www.jhclaura.com/wp-content/uploads/2014/12/2014-11-23-22.56.04.jpg" alt="2014-11-23 22.56.04" width="1000" height="750" /></a></p>
+<p>&nbsp;</p>
+<p>Laser Cut transparent 3/16&#8243; acrylic and build into dodecahedron  with hinges and machine screws.<br />
+<a href="http://www.jhclaura.com/wp-content/uploads/2014/12/2014-11-30-17.00.26.jpg"><img loading="lazy" class="alignnone size-full wp-image-1760" src="http://www.jhclaura.com/wp-content/uploads/2014/12/2014-11-30-17.00.26.jpg" alt="2014-11-30 17.00.26" width="1000" height="750" /></a></p>
+<p>And mount the motor my pulley system!<br />
+<a href="http://www.jhclaura.com/wp-content/uploads/2014/12/pully_Motor.gif"><img loading="lazy" class="alignnone size-full wp-image-1762" src="http://www.jhclaura.com/wp-content/uploads/2014/12/pully_Motor.gif" alt="pully_Motor" width="492" height="264" /></a></p>
+<p>&nbsp;</p>
+<p>Things all sound easy but there are actually lot of painful struggling &#8211;&gt;</p>
+<ol>
+<li>Pre drilling hole on small wood tube is hard. Crack easily.</li>
+<li>Rope has to be trimmed neatly or it will stuck with wires.</li>
+<li>Bad binding with wire and motor shaft. Asked magical Ben Light, ordered a shaft coupler to connect wire and DC motor.</li>
+<li>Have to relocation the motor. Should leave more space for the shaft side.</li>
+<li>Friction debugging nightmare&#8230;</li>
+</ol>
+<p>SO. I&#8217;m really concerned about the possibility of finishing it before Final&#8230;. but whatever, I&#8217;ll keep working on it :DDDDD</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/12/01/brain-process-of-painfully-crafting-your-idea/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>interview and sensors test {FungU}</title>
+		<link>/2014/02/11/interview-and-sensors-test-fungu/</link>
+					<comments>/2014/02/11/interview-and-sensors-test-fungu/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2014 05:53:31 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fungus Among Us]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[motor]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[ultrasonic]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1041</guid>
+
+					<description><![CDATA[Interview with Stephen from Ecovative and Customer Service Lady from Fungi Perfecti: Free form mycelium fabrication could be doable, just remember to degerm. Can&#8217;t be pressed in small mold because it will be hard to take out of the mold. Can try to put growing log in the mold I make to grow, but cut [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Interview with Stephen from Ecovative and Customer Service Lady from Fungi Perfecti:</p>
+<ul>
+<li>Free form mycelium fabrication could be doable, just remember to degerm.</li>
+<li>Can&#8217;t be pressed in small mold because it will be hard to take out of the mold.</li>
+<li>Can try to put growing log in the mold I make to grow, but cut it in half equals to cut the nutrients in half.</li>
+</ul>
+<p>Discuss with Scott:</p>
+<ul>
+<li>Questions for myself
+<ul>
+<li>organic or clean? based on what message I want to send, what emotion I want people to have <span style="line-height: 1.5em;">be intrigued, be bound, to have raw </span><span style="line-height: 1.5em;">motion from</span></li>
+<li><span style="line-height: 1.5em;">—&gt; messy, wild, crazy —&gt; Organic!</span></li>
+</ul>
+</li>
+</ul>
+<p>Lab:</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/02/sensor_test.jpg"><img loading="lazy" class="alignnone  wp-image-1042" alt="sensor_test" src="http://www.jhclaura.com/wp-content/uploads/2014/02/sensor_test.jpg" width="640" height="383" /></a></p>
+<p>&nbsp;</p>
+<ul>
+<li>kind of achieve to mimic the movement of the mushroom: when no one near, the mushroom keeps swinging, when ppl come near, the mushroom is aware and then stops.</li>
+<li>problems: swing speed needs to slow down, could be more sensitive and accurate. ASK around. Yo.</li>
+</ul>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/86385958?byline=0&amp;color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Schedule:</p>
+<ul>
+<li>order oyster mushroom kit</li>
+<li>try using mycelium as dough(if it&#8217;s doable, project might change)</li>
+<li>physical design</li>
+<li>software design</li>
+<li>LAB in shops</li>
+<li>blue foam: big &amp; small fungi</li>
+<li>wood base box</li>
+<li>put oyster mushroom in it and wait it to grow!!!</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/11/interview-and-sensors-test-fungu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PComp_inspiration_ImageToaster</title>
+		<link>/2013/10/20/pcomp_inspiration_/</link>
+					<comments>/2013/10/20/pcomp_inspiration_/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 20 Oct 2013 17:04:35 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fall 2013]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[motor]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=265</guid>
+
+					<description><![CDATA[Print the pattern you like on your lovely toast. By Scott van Haastrecht. Warm and sweet and inspiring 🙂]]></description>
+										<content:encoded><![CDATA[<div style="width: 650px" class="wp-caption alignnone"><img loading="lazy" alt="" src="http://www.creativeapplications.net/wp-content/uploads/2013/03/ImageToaster_02-640x358.png" width="640" height="358" /><p class="wp-caption-text">ImageToaster</p></div>
+<p>Print the pattern you like on your lovely toast. By <a href="http://www.creativeapplications.net/maxmsp/the-image-toaster-6x6-pixel-image-of-the-day-on-your-toast/" target="_blank">Scott van Haastrecht</a>.</p>
+<p>Warm and sweet and inspiring <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/10/20/pcomp_inspiration_/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

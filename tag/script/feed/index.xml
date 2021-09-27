@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>script &#8211; ITP Days</title>
+	<atom:link href="/tag/script/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Thu, 13 Nov 2014 22:59:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>script &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[ Mare ] &#8211; script for instructions</title>
+		<link>/2014/11/13/mare-script-for-instructions/</link>
+					<comments>/2014/11/13/mare-script-for-instructions/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 13 Nov 2014 22:59:23 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Project Development Studio]]></category>
+		<category><![CDATA[script]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1725</guid>
+
+					<description><![CDATA[For Mare, I want to use audio as instructions to let users know what they should do in &#8220;the world&#8221;. And it&#8217;s my pleasure to have lovely Kate Godwin to be my instructor to comfort and lead users the way 😀 Here are some draft scripts of instructions. Basic lines to insert into Mare with Web Audio [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>For <strong><span style="color: #99cc00;"><a style="color: #99cc00;" href="http://mare-the-dream.tumblr.com/" target="_blank">Mare</a></span></strong>, I want to use audio as instructions to let users know what they should do in &#8220;the world&#8221;. And it&#8217;s my pleasure to have lovely <a href="http://make.kategodwin.com/" target="_blank">Kate Godwin</a> to be my instructor to comfort and lead users the way <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Here are some draft scripts of instructions. Basic lines to insert into <strong><a style="color: #99cc00;" href="http://mare-the-dream.tumblr.com/" target="_blank">Mare</a></strong> with Web Audio API to test with.</p>
+<ul>
+<li>Hmm&#8230; It&#8217;s 3 AM. Why are you here, standing in black instead of being in bed?</li>
+<li>Are you sure you are awake?</li>
+<li>Hey (different kinds of)</li>
+<li>You think you&#8217;re not sleeping.</li>
+<li>Are you sure?</li>
+<li>Please close your eyes. / Do you mind closing your eyes?</li>
+<li>Calm down.</li>
+<li>Don&#8217;t be afraid.</li>
+<li>Just do as I do.</li>
+<li>Louder?</li>
+<li>See. Very easy.</li>
+<li>~ small singing <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ~</li>
+<li>Just let go.</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/11/13/mare-script-for-instructions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

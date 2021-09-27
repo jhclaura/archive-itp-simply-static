@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Understanding Networks &#8211; ITP Days</title>
+	<atom:link href="/category/fall-2014/understanding-networks/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Wed, 31 Dec 2014 20:24:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>Understanding Networks &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How Does Your Instant Messaging Work?</title>
+		<link>/2014/12/31/how-does-your-instant-messaging-work/</link>
+					<comments>/2014/12/31/how-does-your-instant-messaging-work/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2014 20:24:23 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Understanding Networks]]></category>
+		<category><![CDATA[final]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1837</guid>
+
+					<description><![CDATA[For the final project of Understanding Network, we have to create something to explain / teach / pass on the knowledge relating to { networks }, and I choose Instant Messaging (IM) as my topic, since it&#8217;s so tightly tied to my life but I had little knowledge about how it works. Click the pic above to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div id="attachment_1839" style="width: 1210px" class="wp-caption alignnone"><a href="http://jhclaura.com/un/index.html" target="_blank"><img aria-describedby="caption-attachment-1839" loading="lazy" class="wp-image-1839 size-full" src="http://www.jhclaura.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-31-at-3.05.26-PM.png" alt="Screen Shot 2014-12-31 at 3.05.26 PM" width="1200" height="574" /></a><p id="caption-attachment-1839" class="wp-caption-text"><span style="font-family: 'Andale Mono', Times;"><em><span style="font-size: 10pt; color: #00ccff;"><span style="color: #ff6600;"><strong><a style="color: #ff6600;" href="http://jhclaura.com/un/index.html" target="_blank">Click</a></strong></span> to access the web page!</span></em></span></p></div>
+<p>For the final project of Understanding Network, we have to create something to explain / teach / pass on the knowledge relating to <span style="font-family: 'Andale Mono', Times; font-size: 12pt;"><em>{ networks }</em></span>, and I choose Instant Messaging (IM) as my topic, since it&#8217;s so tightly tied to my life but I had little knowledge about how it works.</p>
+<p>Click the pic above to access the webpage I made. Simple voice-over animation included!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/12/31/how-does-your-instant-messaging-work/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>RESTful Clock</title>
+		<link>/2014/12/31/restful-clock/</link>
+					<comments>/2014/12/31/restful-clock/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2014 20:11:42 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Understanding Networks]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1835</guid>
+
+					<description><![CDATA[coming soon!]]></description>
+										<content:encoded><![CDATA[<p>coming soon!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/12/31/restful-clock/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Rube Goldberg project</title>
+		<link>/2014/12/31/rube-goldberg-project/</link>
+					<comments>/2014/12/31/rube-goldberg-project/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2014 20:10:13 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Understanding Networks]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1833</guid>
+
+					<description><![CDATA[coming soon!]]></description>
+										<content:encoded><![CDATA[<p>coming soon!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/12/31/rube-goldberg-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Understanding Network_Linked!</title>
+		<link>/2014/09/11/understanding-network_linked/</link>
+					<comments>/2014/09/11/understanding-network_linked/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2014 13:55:30 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Understanding Networks]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1556</guid>
+
+					<description><![CDATA[Coming soon!]]></description>
+										<content:encoded><![CDATA[<p>Coming soon!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/09/11/understanding-network_linked/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

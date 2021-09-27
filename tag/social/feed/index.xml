@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>social &#8211; ITP Days</title>
+	<atom:link href="/tag/social/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Sat, 25 Jan 2014 22:09:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>social &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Thoughts about Fungus(update)</title>
+		<link>/2014/01/25/thoughts-about-fungi/</link>
+					<comments>/2014/01/25/thoughts-about-fungi/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sat, 25 Jan 2014 22:09:08 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fungus Among Us]]></category>
+		<category><![CDATA[first time]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[social]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=774</guid>
+
+					<description><![CDATA[This semester I&#8217;m taking class of &#8220;Fungus Among Us&#8221;, and I&#8217;ve found some aspects of fungus I&#8217;m particular interested about, and would love to develop project based on them: Gift to Gross Out People Every time I google &#8220;fungus&#8221;, I can always have some valuable &#8220;wtf&#8221; moments, and I think it&#8217;s an amazing power deserved [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="wp-image-778 alignnone" alt="doodle" src="http://www.jhclaura.com/wp-content/uploads/2014/01/doodle-1024x785.jpeg" width="1024" height="785" srcset="/wp-content/uploads/2014/01/doodle-1024x785.jpeg 1024w, /wp-content/uploads/2014/01/doodle-300x230.jpeg 300w, /wp-content/uploads/2014/01/doodle.jpeg 1997w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>This semester I&#8217;m taking class of &#8220;Fungus Among Us&#8221;, and I&#8217;ve found some aspects of fungus I&#8217;m particular interested about, and would love to develop project based on them:</p>
+<p><strong style="font-family: sans-serif; font-size: medium; font-style: normal; font-variant: normal; line-height: normal;">Gift to Gross Out People</strong></p>
+<p style="padding-left: 30px;">Every time I google &#8220;fungus&#8221;, I can always have some valuable &#8220;wtf&#8221; moments, and I think it&#8217;s an amazing power deserved to be explored. Is it because fungus usually comes along with rotten, dead stuff and thus build up the association? Are we scared of its decomposing ability because it makes us relate to our future death? I&#8217;m interested in how we can do this kind of power of horror.</p>
+<p><strong style="font-family: sans-serif; font-size: medium; font-style: normal; font-variant: normal; line-height: normal;">Super Adaptive Behavior</strong></p>
+<p style="padding-left: 30px;">Fungus grows and prospers anywhere it lands. I&#8217;d love to grow them on different materials and different locations, and see how different the fungus will be. After that, I plan to gather those fungi together and see how their information/consciousness network work. Will they merge into each other and become a new kind of fungus?</p>
+<p><strong style="font-family: sans-serif; font-size: medium; font-style: normal; font-variant: normal; line-height: normal;">Peculiar Round Shape</strong></p>
+<p style="padding-left: 30px;">Fungus usually has circular shape because it grows by spreading out in all directions from a central point, where the original spore germinates. It&#8217;s an interesting feature I&#8217;d love to try with computer vision. The different looks of Pileus and there different functions can be inspirations for interactive devices too.</p>
+<p>&nbsp;</p>
+<p>So, for the possible future <em><span style="color: #000000;">project</span></em>, I would either</p>
+<ol>
+<li>try to grow fungus into terrifying one, as <strong>horrible</strong> as it can be, and see how the power of horrors can be apply to<span style="color: #99cc00;">(psychology aspect)</span>, or</li>
+<li>grow same fungus in different environments and see how people&#8217;s affect them, and after that see what they will <strong>communicate</strong> with each other by meshing up, and it might somehow representing the meshing up behaviors of people&#8217;s<span style="color: #99cc00;">(communication/network aspect)</span>? Or</li>
+<li>explore more about the structure and function of different shape of Pileus and see how it can be applied to enhance the communication/interaction among people as a <strong>wearable device</strong><span style="color: #99cc00;">(pcomp project)</span>.</li>
+</ol>
+<p>&nbsp;</p>
+<p><em>responds</em> to <a href="http://itp.nyu.edu/renatured/texts/formandfungus.pdf" target="_blank">Form And Fungus</a>, <a href="http://itp.nyu.edu/classes/fungus/txts/stamets_magic_mushrooms.pdf" target="_blank">Magic of Mushrooms</a>, <a href="http://www.ted.com/talks/paul_stamets_on_6_ways_mushrooms_can_save_the_world.html" target="_blank">Paul Stamets&#8217;s TED talk</a></p>
+<p><em>website</em> <a href="http://philross.org/" target="_blank">philross</a></p>
+<p><em>sources</em> <a href="http://www.greenmedinfo.com/blog/are-fungi-earths-natural-internet" target="_blank">are-fungi-earths-natural-internet</a>, <a href="http://everydaylife.globalpost.com/role-fungi-play-food-chains-38357.html" target="_blank">what role do fungi play in food chain</a>,</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/01/25/thoughts-about-fungi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

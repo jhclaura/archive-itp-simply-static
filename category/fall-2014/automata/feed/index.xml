@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Automata &#8211; ITP Days</title>
+	<atom:link href="/category/fall-2014/automata/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Sun, 25 Jan 2015 23:19:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>Automata &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>{ Brain } &#8211; beta version</title>
+		<link>/2015/01/25/brain-_-beta-version/</link>
+					<comments>/2015/01/25/brain-_-beta-version/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 25 Jan 2015 23:19:50 +0000</pubDate>
+				<category><![CDATA[Automata]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fall 2014]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[experiment]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[first time]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1953</guid>
+
+					<description><![CDATA[Brain &#60;beta version&#62; Brain is an automata that shows how the brain works when you think. Composed of handmade steel wires and knotted rope as pulley system. Brain functions in two ways: 1) Conscious &#8211;&#62; Hand cranking the steel wheel to fluctuate the shells, and also rotating the wheels on the other face of brain. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/6B2A0867.jpg"><img loading="lazy" class="alignnone size-large wp-image-1957" src="http://www.jhclaura.com/wp-content/uploads/2015/01/6B2A0867-1024x683.jpg" alt="6B2A0867" width="1024" height="683" /></a></p>
+<p><span style="font-size: 12pt;"><strong><span style="font-family: 'Andale Mono', Times;">Brain &lt;beta version&gt;</span></strong></span></p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/117744115?color=c9ff23" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Brain is an automata that shows how the brain works when you think. Composed of handmade steel wires and knotted rope as pulley system. Brain functions in two ways:</p>
+<p>1) <span style="font-family: Georgia, Palatino;"><em>Conscious</em></span> &#8211;&gt; Hand cranking the steel wheel to fluctuate the shells, and also rotating the wheels on the other face of brain.</p>
+<p>2) <span style="font-family: Georgia, Palatino;">Subconscious</span> &#8211;&gt; Using ultrasonic sensor to measure the distance, part of the brain will function automatically once the user is in position / wearing the helmet.</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 12pt;"><strong><span style="font-family: 'Andale Mono', Times;">Exposing yourself &amp; Taking in the unknown</span></strong></span></p>
+<p>The most exciting/weird experience of this project is the moment you stick your head into it. The motor above you starts moving; the vibration and sounds of the pulley system; the view you see through the wood cubes, knotted ropes, and steel wheels. It&#8217;s the mixture feelling of exposing yourself to undergo the vulnerability, and taking in the unknown to activate all your senses in the narrow space.</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 12pt; font-family: 'Andale Mono', Times;"><strong>2D/paper &#8211;&gt; 3D/physical</strong></span></p>
+<p>Inspired by renowned kinetic sculptor <span style="color: #33cccc;"><a style="color: #33cccc;" href="http://www.arthurganson.com/" target="_blank">Arthur Ganson</a></span>, I decided to use steel wire as the means for my <span style="color: #33cccc;"><a style="color: #33cccc;" href="http://www.jhclaura.com/category/automata/" target="_blank">Automata</a></span> final project. Based on the photos and videos collecting from internet, I sketched out the shape first, and then tried to figure out how to bend the steel wire into wheel.</p>
+<p><img loading="lazy" class="alignnone wp-image-1968 size-full" src="http://www.jhclaura.com/wp-content/uploads/2015/01/brain_node.png" alt="brain_node" width="400" height="157" /></p>
+<p>It&#8217;s a trial and error process, but thanks to magical <span style="color: #33cccc;"><a style="color: #33cccc;" href="http://www.zklogan.net/" target="_blank">Zoe Logan</a></span>, I learned different pliers and jigs to make proper(at least better than free style) steel wheel. The whole journey is a little bit pain in the ass, but the result is satisfying. Beside boosting my stamina with heavy laboring, I&#8217;m glad the efforts somehow accumulating into something weird and terrifying looking.</p>
+<p>&nbsp;</p>
+<p>I learned a lot from this transforming 2d ideas into 3d physical form process: the pros and cons of wire bending compare to the thick steel connected by welding; the limit of series connection the wheels with knotted ropes; the necessity of middleware of two big wheels to increase the tension.</p>
+
+<p>&nbsp;</p>
+<p><span style="font-family: 'Andale Mono', Times;"><strong>gamma version</strong></span></p>
+<p>Multiple motors to fully construct the node system of brain on all the faces. Pill the paper off the acrylic sheets so it&#8217;d be totally transparent. Could have multiple hand crank nodes as well so it will become a cooperative <em><span style="font-family: Georgia, Palatino;">&#8220;thinking&#8221;</span></em> system.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/brain_idea.png"><img loading="lazy" class="alignnone size-full wp-image-1967" src="http://www.jhclaura.com/wp-content/uploads/2015/01/brain_idea.png" alt="brain_idea" width="400" height="667" /></a></p>
+<p>&nbsp;</p>
+<p><span style="font-family: 'Andale Mono', Times;"><strong>Related posts</strong></span></p>
+<p><span style="color: #33cccc;"><a style="color: #33cccc;" title="{ Brain } – Automata Final" href="http://www.jhclaura.com/brain-automata-final/" target="_blank">Concept Sketch</a></span>, <span style="color: #33cccc;"><a style="color: #33cccc;" title="{ Brain } – process of painfully crafting your idea" href="http://www.jhclaura.com/brain-process-of-painfully-crafting-your-idea/" target="_blank">Process of Making</a></span>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/01/25/brain-_-beta-version/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>{ Brain } &#8211; process of painfully crafting your idea</title>
+		<link>/2014/12/01/brain-process-of-painfully-crafting-your-idea/</link>
+					<comments>/2014/12/01/brain-process-of-painfully-crafting-your-idea/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 01 Dec 2014 22:48:10 +0000</pubDate>
+				<category><![CDATA[Automata]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[motor]]></category>
+		<category><![CDATA[noooooo]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1757</guid>
+
+					<description><![CDATA[SO. Here&#8217;s the report of my { brain } automata making process. First, prototype with cardboard. Laser cut 11 pieces of pentagons, and stick them together with my favorite tool &#8211; duck tapes. &#160; And endless steel wire bending. &#160; Laser Cut transparent 3/16&#8243; acrylic and build into dodecahedron  with hinges and machine screws. And mount [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>SO. Here&#8217;s the report of my { brain } automata making process.</p>
+<p>First, prototype with cardboard. Laser cut 11 pieces of pentagons, and stick them together with my favorite tool &#8211; duck tapes.<br />
+<a href="http://www.jhclaura.com/wp-content/uploads/2014/12/helmet.jpg"><img loading="lazy" class="alignnone size-full wp-image-1758" src="http://www.jhclaura.com/wp-content/uploads/2014/12/helmet.jpg" alt="helmet" width="1000" height="1000" /></a></p>
+<p>&nbsp;</p>
+<p>And endless steel wire bending.<a href="http://www.jhclaura.com/wp-content/uploads/2014/12/2014-11-23-22.56.04.jpg"><img loading="lazy" class="alignnone size-full wp-image-1759" src="http://www.jhclaura.com/wp-content/uploads/2014/12/2014-11-23-22.56.04.jpg" alt="2014-11-23 22.56.04" width="1000" height="750" /></a></p>
+<p>&nbsp;</p>
+<p>Laser Cut transparent 3/16&#8243; acrylic and build into dodecahedron  with hinges and machine screws.<br />
+<a href="http://www.jhclaura.com/wp-content/uploads/2014/12/2014-11-30-17.00.26.jpg"><img loading="lazy" class="alignnone size-full wp-image-1760" src="http://www.jhclaura.com/wp-content/uploads/2014/12/2014-11-30-17.00.26.jpg" alt="2014-11-30 17.00.26" width="1000" height="750" /></a></p>
+<p>And mount the motor my pulley system!<br />
+<a href="http://www.jhclaura.com/wp-content/uploads/2014/12/pully_Motor.gif"><img loading="lazy" class="alignnone size-full wp-image-1762" src="http://www.jhclaura.com/wp-content/uploads/2014/12/pully_Motor.gif" alt="pully_Motor" width="492" height="264" /></a></p>
+<p>&nbsp;</p>
+<p>Things all sound easy but there are actually lot of painful struggling &#8211;&gt;</p>
+<ol>
+<li>Pre drilling hole on small wood tube is hard. Crack easily.</li>
+<li>Rope has to be trimmed neatly or it will stuck with wires.</li>
+<li>Bad binding with wire and motor shaft. Asked magical Ben Light, ordered a shaft coupler to connect wire and DC motor.</li>
+<li>Have to relocation the motor. Should leave more space for the shaft side.</li>
+<li>Friction debugging nightmare&#8230;</li>
+</ol>
+<p>SO. I&#8217;m really concerned about the possibility of finishing it before Final&#8230;. but whatever, I&#8217;ll keep working on it :DDDDD</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/12/01/brain-process-of-painfully-crafting-your-idea/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>{ Brain } &#8211; Automata Final</title>
+		<link>/2014/11/24/brain-automata-final/</link>
+					<comments>/2014/11/24/brain-automata-final/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2014 23:28:33 +0000</pubDate>
+				<category><![CDATA[Automata]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1754</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/11/automata_finalS.png"><img loading="lazy" class="alignnone size-full wp-image-1755" src="http://www.jhclaura.com/wp-content/uploads/2014/11/automata_finalS.png" alt="automata_finalS" width="1154" height="1500" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/11/24/brain-automata-final/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Salvation _ Automata Midterm</title>
+		<link>/2014/11/01/salvation-_-automata-midterm/</link>
+					<comments>/2014/11/01/salvation-_-automata-midterm/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2014 19:42:41 +0000</pubDate>
+				<category><![CDATA[Automata]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[mechanism]]></category>
+		<category><![CDATA[midterm]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1828</guid>
+
+					<description><![CDATA[&#8220;Nail hammering, finger nail pulling, brain stirring, body spinning. What do you feel watching those shadows thriving darkly?&#8221; A hand-crank automata with Cam &#38; Followers system. Refined version of this.]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" src="https://player.vimeo.com/video/112233174?color=c9ff23" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p><span style="font-family: 'Book Antiqua', Palatino; font-size: 12pt; color: #c40606;"><em><strong>&#8220;Nail hammering, finger nail pulling, brain stirring, body spinning.<br />
+What do you feel watching those shadows thriving darkly?&#8221;</strong></em></span></p>
+<p>A hand-crank automata with Cam &amp; Followers system.</p>
+<p>Refined version of <span style="color: #00ccff;"><strong><a style="color: #00ccff;" title="Automata_mechanism time!" href="http://www.jhclaura.com/automata_mechanism-time/" target="_blank">this</a></strong></span>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/11/01/salvation-_-automata-midterm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Automata_mechanism time!</title>
+		<link>/2014/10/06/automata_mechanism-time/</link>
+					<comments>/2014/10/06/automata_mechanism-time/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2014 19:46:50 +0000</pubDate>
+				<category><![CDATA[Automata]]></category>
+		<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1663</guid>
+
+					<description><![CDATA[For this week&#8217;s homework, I&#8217;m interested in hand crank and cam &#38; follower. Inspired by Arthur Ganson, I want to explore using simple mechanism to create rich emotions. Although I&#8217;m also fascinated by Jansen&#8217;s Strandbeest mechanism, I&#8217;ll leave it to next experiment and design my own cute creature 🙂 This time I chosed 3D print [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>For this week&#8217;s homework, I&#8217;m interested in hand crank and cam &amp; follower. Inspired by Arthur Ganson, I want to explore using simple mechanism to create rich emotions. Although I&#8217;m also fascinated by Jansen&#8217;s Strandbeest mechanism, I&#8217;ll leave it to next experiment and design my own cute creature <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>This time I chosed 3D print to fabricate since all the laser cut time slots were booked&#8230;</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/Screen-Shot-2014-10-04-at-7.31.56-PM.png"><img loading="lazy" class="alignnone size-full wp-image-1664" src="http://www.jhclaura.com/wp-content/uploads/2014/10/Screen-Shot-2014-10-04-at-7.31.56-PM.png" alt="cam in maya" width="1000" height="575" /></a></p>
+<p>But since it&#8217;s not a complicated structure at all, the cam &amp; follower thing will be built with wood, and I&#8217;ll use 3d print with other detailed stuff&#8230;</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/108164074?byline=0&amp;color=c9ff23" width="840" height="473" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/IMG_20141004_203041.jpg"><img loading="lazy" class="alignnone size-full wp-image-1666" src="http://www.jhclaura.com/wp-content/uploads/2014/10/IMG_20141004_203041.jpg" alt="IMG_20141004_203041" width="800" height="450" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/IMG_20141005_230705.jpg"><img loading="lazy" class="alignnone size-full wp-image-1670" src="http://www.jhclaura.com/wp-content/uploads/2014/10/IMG_20141005_225135.jpg" alt="IMG_20141005_225135" width="800" height="450" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/IMG_20141005_230705.jpg"><img loading="lazy" class="alignnone size-full wp-image-1668" src="http://www.jhclaura.com/wp-content/uploads/2014/10/IMG_20141005_230705.jpg" alt="IMG_20141005_230705" width="800" height="450" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/IMG_20141005_230821.jpg"><img loading="lazy" class="alignnone size-full wp-image-1669" src="http://www.jhclaura.com/wp-content/uploads/2014/10/IMG_20141005_230821.jpg" alt="IMG_20141005_230821" width="800" height="450" /></a></p>
+<p>And now I have to make objects to place on top of the up-and-down nails! Will have certain level of mechanism too, I hope <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div id="attachment_1671" style="width: 310px" class="wp-caption alignnone"><a href="http://www.jhclaura.com/wp-content/uploads/2014/10/IMG_20141006_105723.jpg"><img aria-describedby="caption-attachment-1671" loading="lazy" class="wp-image-1671 size-medium" src="http://www.jhclaura.com/wp-content/uploads/2014/10/IMG_20141006_105723-300x300.jpg" alt="" width="300" height="300" /></a><p id="caption-attachment-1671" class="wp-caption-text">I&#8217;m just a test.</p></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/10/06/automata_mechanism-time/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TRAF + Automata_Memory Glasses</title>
+		<link>/2014/09/29/traf-automata_memory-glasses/</link>
+					<comments>/2014/09/29/traf-automata_memory-glasses/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 29 Sep 2014 16:18:08 +0000</pubDate>
+				<category><![CDATA[Automata]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[To Remember And Forget]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1650</guid>
+
+					<description><![CDATA[It&#8217;s a cute but super finicky prototype. For TRAF class, I want to make a system that knows which bottle was picked up, and for how long, and for Automata class, I want to use solenoid to soundify the data that restored. The system worked but super unstable so I think it should be called [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s a cute but super finicky prototype. For TRAF class, I want to make a system that knows which bottle was picked up, and for how long, and for Automata class, I want to use solenoid to soundify the data that restored. The system worked but super unstable so I think it should be called as a failure but I learned a lot &#8216; v &#8216;</p>
+<p>The problem is the connection. Bottle is too light for pressing and closing the circuits with knots.</p>
+<p><img loading="lazy" class="alignnone" src="http://38.media.tumblr.com/9619d15a2776607ca854ae388936bd83/tumblr_ncnf2dD79u1tm3zuuo1_500.jpg" alt="" width="500" height="500" /></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/IMG_20140929_002931.jpg"><img loading="lazy" class="alignnone size-full wp-image-1651" src="http://www.jhclaura.com/wp-content/uploads/2014/09/IMG_20140929_002931.jpg" alt="IMG_20140929_002931" width="1000" height="563" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/IMG_20140929_012054.jpg"><img loading="lazy" class="alignnone size-full wp-image-1652" src="http://www.jhclaura.com/wp-content/uploads/2014/09/IMG_20140929_012054.jpg" alt="IMG_20140929_012054" width="1000" height="563" /></a></p>
+<p>&nbsp;</p>
+<p>Sadly not enough time to test the solenoid, so here&#8217;s the test Zoe and me had in the class!</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/108011616?byline=0&amp;color=c9ff23" width="840" height="630" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/09/29/traf-automata_memory-glasses/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Automata_motor w/ feedback</title>
+		<link>/2014/09/22/automata_motor-w-feedback/</link>
+					<comments>/2014/09/22/automata_motor-w-feedback/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2014 13:22:37 +0000</pubDate>
+				<category><![CDATA[Automata]]></category>
+		<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1617</guid>
+
+					<description><![CDATA[For 2nd assignment, make something with motor and feedback. And below is what i&#8217;ve learned: hack servo to read the info of its potentiometer instructable tepper motor continuous servo position 90 &#8211;&#62; pause, above &#8211;&#62; clockwise, below &#8211;&#62; counter clockwise EPROM library of Arduino The microcontroller on the Arduino board has EEPROM: memory whose values [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>For 2nd assignment, make something with motor and feedback. And below is what i&#8217;ve learned:</p>
+<ul>
+<li>hack servo to read the info of its potentiometer
+<ul>
+<li><a href="http://www.instructables.com/id/Servo-Feedback-Hack-free/">instructable</a></li>
+</ul>
+</li>
+</ul>
+<p><img loading="lazy" class="alignnone" src=" http://i.imgur.com/eg0mhYg.gif" alt="" width="450" height="253" /></p>
+<ul>
+<li>tepper motor</li>
+</ul>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/stepperMotor.jpg"><img loading="lazy" class="alignnone  wp-image-1622" src="http://www.jhclaura.com/wp-content/uploads/2014/09/stepperMotor.jpg" alt="stepperMotor" width="801" height="480" /></a></p>
+<ul>
+<li>continuous servo
+<ul>
+<li>position 90 &#8211;&gt; pause, above &#8211;&gt; clockwise, below &#8211;&gt; counter clockwise</li>
+</ul>
+</li>
+</ul>
+<p><img loading="lazy" class="alignnone" src="http://i.imgur.com/PEvecXc.gif" alt="" width="500" height="281" /></p>
+<ul>
+<li>EPROM library of Arduino
+<ul>
+<li>The microcontroller on the Arduino board has EEPROM: memory whose values are kept when the board is turned off (like a tiny hard drive). This library enables you to read and write those bytes.</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>And I want to keep testing stuff to make the &#8220;<em><span style="font-family: 'Andale Mono', Times; font-size: 10pt; color: #a60000;"><strong>Pull Your Guts Out</strong></span></em>&#8221; come to live. <a href="http://www.jhclaura.com/wp-content/uploads/2014/09/pull-the-guts-out.jpg"><img loading="lazy" class="alignnone size-full wp-image-1588" src="http://www.jhclaura.com/wp-content/uploads/2014/09/pull-the-guts-out.jpg" alt="pull the guts out" width="1000" height="385" /></a></p>
+<p>&nbsp;</p>
+<p>Here&#8217;s what I have so far, more to come!</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/106810451?byline=0&amp;color=c9ff23" width="840" height="473" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/09/22/automata_motor-w-feedback/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Automata_Salvation</title>
+		<link>/2014/09/11/automata_robots/</link>
+					<comments>/2014/09/11/automata_robots/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2014 14:12:55 +0000</pubDate>
+				<category><![CDATA[Automata]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[gear]]></category>
+		<category><![CDATA[mechanism]]></category>
+		<category><![CDATA[self-destruction]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1564</guid>
+
+					<description><![CDATA[AUTOMATA. VERY EXCITED. For the first assignment, we have to develop an idea for a project that involves Automata. Two quick studies that explore some facet of the design, experience or concept. Can be any materials or methods including software, models, mechanism mockup, etc. At least one physical studies. Because I&#8217;m still dizzy in the post-era of Maker Faire, I [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>AUTOMATA. VERY EXCITED.</p>
+<p>For the first assignment, we have to develop an idea for a project that involves Automata.</p>
+<ul>
+<li>Two quick studies that explore some facet of the design, experience or concept. Can be any materials or methods including software, models, mechanism mockup, etc.</li>
+<li>At least one physical studies.</li>
+</ul>
+<p>Because I&#8217;m still dizzy in the post-era of Maker Faire, I don&#8217;t have the whole picture about what I want to do with Automata, but I know I&#8217;m also fascinated by <em>chain reaction</em>, parts triggering parts sequentially in a strange and unexpected way, and I&#8217;d love to try out <span style="font-family: 'Andale Mono', Times; font-size: 12pt; color: #18dbb1;"><em><strong>Whirligigs</strong></em></span>!</p>
+<p>The idea of the project is &#8220;<em>after finding out what your decision did to yourself and bearing all the consequences, you will be less mad about yourself from watching yourself being punished</em>&#8220;, aka <span style="color: #00de98;"><em><strong><span style="font-family: 'Andale Mono', Times; font-size: 12pt;">Salvation</span></strong></em></span>.</p>
+<p>For the past two months, I felt I was running along the edge of the cliff. Holding all the stuff and running forward clumsily, and the deadline just kept poking me behind. And sometime it made me want to kill myself(<strong>METAPHORICALLY</strong>). And this whirligig of artist Ben Thal somehow has the healing effect on me.</p>
+<p><iframe loading="lazy" width="620" height="465" src="https://www.youtube.com/embed/ibXHXFnXoqE?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>I love this kind of simple movement repeat again and again and again, and it allows me to stare at it tirelessly and helps me to clear up my mind, especially the self-destruction genre.</p>
+<p>And my first design for this concept is <span style="color: #c20000;"><em><span style="font-family: 'Andale Mono', Times; font-size: 12pt;">Stab My Face</span></em></span>.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/sketch.jpg"><img loading="lazy" class="alignnone  wp-image-1589" src="http://www.jhclaura.com/wp-content/uploads/2014/09/stab-my-face.jpg" alt="stab my face" width="421" height="236" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/sketch.jpg"><img loading="lazy" class="alignnone  wp-image-1575" src="http://www.jhclaura.com/wp-content/uploads/2014/09/sketch.jpg" alt="sketch" width="458" height="408" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/hw1_small.gif"><img loading="lazy" class="alignnone size-full wp-image-1577" src="http://www.jhclaura.com/wp-content/uploads/2014/09/hw1_small.gif" alt="Stabbing My Face" width="600" height="338" /></a></p>
+<p>It&#8217;s also a practice of the amazing <a href="http://507movements.com/">Harry T. Brown&#8217;s 507 Mechanical Movements</a> #157. I chose it because it has a nice momentum to strike the stab, insteading of constant speed all the time.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/Screen-Shot-2014-10-09-at-7.20.24-PM.png"><img loading="lazy" class="alignnone size-medium wp-image-1679" src="http://www.jhclaura.com/wp-content/uploads/2014/09/Screen-Shot-2014-10-09-at-7.20.24-PM-300x274.png" alt="Screen Shot 2014-10-09 at 7.20.24 PM" width="300" height="274" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>Ideally, it should be <span style="text-decoration: underline;">driven by motor</span> instead of my clumsy fingers, and they all should be well designed and fabricated instead of taping everything on top of the shop table.</p>
+<p>And my second design for this concept is <span style="color: #c20000;"><em><span style="font-family: 'Andale Mono', Times; font-size: 12pt;">Pull the Guts Out</span></em></span>.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/pull-the-guts-out.jpg"><img loading="lazy" class="alignnone size-full wp-image-1588" src="http://www.jhclaura.com/wp-content/uploads/2014/09/pull-the-guts-out.jpg" alt="pull the guts out" width="1000" height="385" /></a></p>
+<p>It&#8217;s an automata that keeps pulling out the guts. The guts only moves when arm moves downward.</p>
+<p>Using the same gear setup #157, girl&#8217;s arm rotates up and down. And once the arm goes down, the stick connected to it pushes the gear with teeth rotate counterclockwise, and then drag the softmateral guts rotate counterclockwise too. The tricky part is, I&#8217;m not sure about the movement when arm moves upward. Ideally the gear would just have little movement when arm moves up because of the teeth.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/09/11/automata_robots/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

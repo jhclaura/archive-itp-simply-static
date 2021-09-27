@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>galaxy &#8211; ITP Days</title>
+	<atom:link href="/tag/galaxy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Thu, 06 Feb 2014 02:39:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>galaxy &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gif-Overload {Giphy API}</title>
+		<link>/2014/02/05/gif-overload-giphy-api/</link>
+					<comments>/2014/02/05/gif-overload-giphy-api/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2014 02:39:54 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[Mashups Web APIs]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[cat]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[galaxy]]></category>
+		<category><![CDATA[gif]]></category>
+		<category><![CDATA[php]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=955</guid>
+
+					<description><![CDATA[Last semester, for my final project for Comm Lab: Web, I made an API meshup website LOST, using Youtube, TheCatAPI, Iheartquotes API. It&#8217;s interesting to see images animated in the stop-motion way, so I want to do more with GIFs first, and then later maybe develop into video with sound. For an assignment to build  single [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Last semester, for my final project for Comm Lab: Web, I made an API meshup website <a href="http://jhclaura.com/web_final/lost.php" target="_blank"><em>LOST</em></a>, using Youtube, <a href="http://thecatapi.com/docs.html#categories-list" target="_blank">TheCatAPI</a>, <a href="http://iheartquotes.com/api" target="_blank">Iheartquotes</a> API.</p>
+<div id="attachment_957" style="width: 736px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-957" loading="lazy" class="size-full wp-image-957" style="line-height: 1.5em;" alt="past1" src="http://www.jhclaura.com/wp-content/uploads/2014/02/past1.gif" width="726" height="370" /><p id="caption-attachment-957" class="wp-caption-text">LOST_homepage</p></div>
+<div id="attachment_956" style="width: 738px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-956" loading="lazy" class="size-full wp-image-956" alt="past2" src="http://www.jhclaura.com/wp-content/uploads/2014/02/past2.gif" width="728" height="368" /><p id="caption-attachment-956" class="wp-caption-text">LOST_&#8221;No, I&#8217;m not.&#8221; page</p></div>
+<p>It&#8217;s interesting to see images animated in the stop-motion way, so I want to do more with GIFs first, and then later maybe develop into video with sound. For an assignment to build  single web page that displays (some of) the data you found with some basic css styling, I found an API from <a href="http://giphy.com/" target="_blank">Giphy</a>, a animated GIFs search website. On the Github of Giphy, the API is well documented and has following functions: <span style="text-decoration: underline;">search, GIF by id, translate, random, trending</span>. And also, according to their Github,</p>
+<blockquote><p>The Giphy API implements a REST-like interface. Connections can be made with any HTTP enabled programming language. The Giphy API also implements <a href="http://en.wikipedia.org/wiki/Cross-origin_resource_sharing">CORS</a>, allowing you to connect to Giphy from JavaScript / Web browsers on your own domain.</p></blockquote>
+<p>To warm up my API-skill for new semester, I use search function, and give 3 choices: Cat, Grilled Cheese, and Coding to display 25 related GIFs from Giphy API, and also a reset button to display pure background. Unfortunately the search function gives you fixed searching result. Might need to twig the offset parameter&#8230; <a href="http://jhclaura.com/meshup/giffff.php" target="_blank">Check it out</a>!</p>
+<p style="text-align: center;"><a href="http://jhclaura.com/meshup/giffff.php"><img loading="lazy" class="size-full wp-image-960 aligncenter" alt="Screen Shot 2014-02-05 at 8.33.47 PM" src="http://www.jhclaura.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-05-at-8.33.47-PM.png" width="600" height="328" srcset="/wp-content/uploads/2014/02/Screen-Shot-2014-02-05-at-8.33.47-PM.png 600w, /wp-content/uploads/2014/02/Screen-Shot-2014-02-05-at-8.33.47-PM-300x164.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p style="text-align: center;">
+<p style="text-align: left;">And here are the codes.</p>
+<p style="text-align: left;">php file</p>
+<pre class="brush: php; gutter: true">&lt;!DOCTYPE HTML&gt;
+
+&lt;html&gt; 
+	&lt;head&gt;
+		&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;style.css&quot;&gt;
+		&lt;link href=&#039;http://fonts.googleapis.com/css?family=Reenie+Beanie&#039; rel=&#039;stylesheet&#039; type=&#039;text/css&#039;&gt;
+
+		&lt;title&gt;Giffff&lt;/title&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+	&lt;!-- white words--&gt;
+	&lt;h1&gt;Gif-Overload!&lt;/h1&gt;
+	&lt;!-- rainbow words --&gt;
+	&lt;!-- &lt;h1&gt;&lt;span class=&quot;rainbow&quot;&gt;Gif-Overload!&lt;/span&gt;&lt;/h1&gt; --&gt;
+	&lt;form align=&quot;center&quot; method=&quot;post&quot;&gt;
+    	&lt;div class=&quot;button&quot;&gt;
+        	&lt;button type=&quot;submit&quot; value=&quot;clear&quot; name=&quot;choice&quot;&gt; Reset &lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;
+
+	&lt;form align=&quot;left&quot; method=&quot;post&quot;&gt;
+    	&lt;div class=&quot;button1&quot;&gt;
+        	&lt;button type=&quot;submit&quot; value=&quot;cat&quot; name=&quot;choice&quot;&gt; Cat &lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;
+
+	&lt;form align=&quot;center&quot; method=&quot;post&quot;&gt;
+    	&lt;div class=&quot;button&quot;&gt;
+        	&lt;button type=&quot;submit&quot; value=&quot;grilled+cheese&quot; name=&quot;choice&quot;&gt; Grilled Cheese &lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;	
+
+	&lt;form align=&quot;right&quot; method=&quot;post&quot;&gt;
+    	&lt;div class=&quot;button2&quot;&gt;
+        	&lt;button type=&quot;submit&quot; value=&quot;coding&quot; name=&quot;choice&quot;&gt; Coding &lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;
+
+	&lt;p align=&quot;center&quot;&gt;
+		&lt;?php
+
+		$choice = $_POST[&#039;choice&#039;];
+
+		// mode: search
+		$url = &#039;http://api.giphy.com/v1/gifs/search?q=&#039;.$choice.&#039;&amp;api_key=dc6zaTOxFJmzC&#039;;
+
+		// mode: translate
+		//$url = &#039;http://api.giphy.com/v1/gifs/translate?s=&#039;.$choice.&#039;&amp;api_key=dc6zaTOxFJmzC&#039;;
+
+		// mode: random
+		// $url = &#039;http://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&amp;tag=&#039;.$choice.&#039;&#039;;
+
+		// Get the document at this url
+		$response = file_get_contents($url); 
+		// echo $response; //debug
+
+		// Parse XML with SimpleXML in PHP http://www.php.net/manual/en/simplexml.examples-basic.php
+		$pics = json_decode($response);
+		//var_dump($pics); // take a look at this to see what data you get back
+
+		if ($choice == &#039;clear&#039;) {
+			echo &#039;&#039;;
+		} else {
+			for ($i=0; $i&lt;25; $i++) {
+				// mode: search
+				echo &#039;&lt;img src=&quot;&#039;.$pics-&gt;data[$i]-&gt;images-&gt;fixed_height-&gt;url.&#039;&quot;&gt;&#039;;
+			}
+		}
+
+		// mode: translate
+		//echo &#039;&lt;img src=&quot;&#039;.$pics-&gt;data-&gt;images-&gt;fixed_height-&gt;url.&#039;&quot;&gt;&#039;;
+
+		// mode: random
+		//echo &#039;&lt;img src=&quot;&#039;.$pics-&gt;data-&gt;image_url.&#039;&quot;&gt;&#039;;
+
+		?&gt;
+	&lt;/p	&gt;
+		
+&lt;/body&gt; 
+&lt;/html&gt;</pre>
+<p style="text-align: left;">css file</p>
+<pre class="brush: css; gutter: true">body{
+	background-image: url(&#039;galaxy.png&#039;);
+}
+
+h1{
+	text-align: center;
+	font-family: &#039;Reenie Beanie&#039;, cursive;
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+}
+
+
+.button1 {
+	position: absolute;
+	top: 140px;
+	left: 20%;
+}
+
+.button2 {
+	position: absolute;
+	top: 140px;
+	left: 80%;
+}</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/05/gif-overload-giphy-api/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

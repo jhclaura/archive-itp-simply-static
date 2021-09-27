@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>xbee &#8211; ITP Days</title>
+	<atom:link href="/tag/xbee/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Fri, 06 Dec 2013 21:14:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>xbee &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>PComp_Dope Ropes</title>
+		<link>/2013/12/06/pcomp_dope-ropes/</link>
+					<comments>/2013/12/06/pcomp_dope-ropes/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2013 21:14:50 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[group]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[presentation]]></category>
+		<category><![CDATA[xbee]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=510</guid>
+
+					<description><![CDATA[Those crazy ropes have their own homepage ohya! Click click click me! Group project with fabrication king Billy.]]></description>
+										<content:encoded><![CDATA[<p><a href="http://doperopes.tumblr.com/" target="_blank">Those crazy ropes have their own homepage ohya! Click click click me!</a></p>
+<p>Group project with fabrication king <a href="http://ifiwerericher.com/" target="_blank">Billy</a>.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/12/dope_ropes.jpeg"><img loading="lazy" class="aligncenter size-full wp-image-535" alt="dope_ropes" src="http://www.jhclaura.com/wp-content/uploads/2013/12/dope_ropes.jpeg" width="1000" height="1500" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/12/06/pcomp_dope-ropes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

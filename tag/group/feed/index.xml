@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>group &#8211; ITP Days</title>
+	<atom:link href="/tag/group/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Thu, 11 Sep 2014 13:57:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>group &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>HHouse_Immersive Performance_Elevator Ticket</title>
+		<link>/2014/09/11/hhouse_immersive-performance/</link>
+					<comments>/2014/09/11/hhouse_immersive-performance/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2014 13:57:54 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Haunted House]]></category>
+		<category><![CDATA[group]]></category>
+		<category><![CDATA[performance]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1558</guid>
+
+					<description><![CDATA[For the first week assignment &#8211; a simple immersive performance, to put a new slant on an everyday situation or interaction.Ben, Tom and me present the Elevator Ticket! And here&#8217;s the nicely put-together by Tom: In New York there isn’t much more routine then taking an elevator ride. With the exception of freak accidents elevators usually [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>For the first week assignment &#8211; a simple immersive performance, to put a new slant on an everyday situation or interaction.Ben, Tom and me present the <span style="font-family: 'Andale Mono', Times; font-size: 12pt; color: #ff6600;"><strong>Elevator Ticket</strong></span>!</p>
+<p><iframe loading="lazy" src="https://player.vimeo.com/video/105708701" width="620" height="349" frameborder="0" title="Elevator Ticket" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p>And here&#8217;s the nicely put-together by Tom:</p>
+<p style="padding-left: 30px;">In New York there isn’t much more routine then taking an elevator ride. With the exception of <a href="http://www.nytimes.com/2011/12/15/nyregion/elevator-accident-kills-a-woman-in-a-madison-avenue-building.html?_r=0">freak accidents</a> elevators usually function in the same way. Press the button, wait, get in and awkwardly attempt not to look at other people, get off.</p>
+<p style="padding-left: 30px;">As routine as elevator rides may be, we imagined disrupting the routine of elevator usage.</p>
+<p style="padding-left: 30px;">In the style of old train tickets, we created an elevator ticket and instructed visitors to the NYU Tisch building that a ticket was required for using the elevator.</p>
+<p style="padding-left: 30px;">Using the reasoning of ‘safety’ and ‘efficiency’ we asked visitors for his/her destination floor and collected tickets prior to boarding the elevator. The ticket was not presented as an option but instead as a requirement to use the elevator.</p>
+<p style="padding-left: 30px;">The responses varied from mild amusement, to annoyance and non compliance. It was interesting that most elevator users accepted the reasoning of ‘efficiency’ or ‘safety’ at face value, even as we were not dressed in a way that might suggest authority.</p>
+<p style="padding-left: 30px;">We imagined that to enhance the performance we could  dress in uniform and have operators standing inside of the elevator asking for tickets from passengers and pressing floor button for them. During the ride the operator could talk about the imaginary floor news and wish passengers a merry imaginary scenario day when arriving.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/09/11/hhouse_immersive-performance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>{Walk &#038; Talk}</title>
+		<link>/2014/05/15/walk-n-talk/</link>
+					<comments>/2014/05/15/walk-n-talk/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 16 May 2014 01:01:20 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Spatial Media]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[group]]></category>
+		<category><![CDATA[kinect]]></category>
+		<category><![CDATA[Openframeworks]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1430</guid>
+
+					<description><![CDATA[Walk &#38; Talk is the final project of me and Ziv for Spatial Media. &#160; Ideas For the final of Spatial Media, there&#8217;s no restriction on content and context, so because of the struggling process of brainstorming, we decided to make a project helping brainstorming! Getting the inspirations from Land and Sea, a game heard from Ziv from [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/IMG_5162-copy.jpg"><img loading="lazy" class="alignnone size-full wp-image-1525" src="http://www.jhclaura.com/wp-content/uploads/2014/04/IMG_5162-copy.jpg" alt="IMG_5162 copy" width="800" height="1200" /></a></p>
+<p><span style="color: #33cccc; font-size: 14pt;"><strong><span style="font-family: 'andale mono', times;">Walk &amp; Talk</span></strong></span></p>
+<p>is the final project of me and <a href="http://zivschneider.com/" target="_blank">Ziv</a> for Spatial Media.</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/96936924?byline=0&amp;color=c9ff23" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/96968168?byline=0&amp;color=c9ff23" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt; font-family: 'andale mono', times;">Ideas</span></p>
+<p>For the final of Spatial Media, there&#8217;s no restriction on content and context, so because of the struggling process of brainstorming, we decided to make a project helping brainstorming! Getting the inspirations from <em>Land and Sea</em>, a game heard from Ziv from Israel, and the <a href="http://www.snibbe.com/projects/interactive/boundaryfunctions" target="_blank">Boundary Functions</a> of Scott Snibbe that exploring the relation between people and spaces, we built up a system that people can expand their territory by walking and shaking, and once people stop moving, their territories will shrink and eventually disappear. Based on several researches proved that “Body Movements Can Influence Problem Solving”(e.g. Science Daily, May 13, 2009), it has the potential to be installed in office space, and help employees brainstorming.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/traditional_territory_small.jpg"><img loading="lazy" class="alignnone size-full wp-image-1529" src="http://www.jhclaura.com/wp-content/uploads/2014/04/traditional_territory_small.jpg" alt="traditional_territory_small" width="698" height="800" /></a></p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: 14pt; font-family: 'andale mono', times;">Concept</span></strong></p>
+<p>Each person in the game is assigned an initial territory, which he can expand by walking. If they don&#8217;t walk, their territory gets smaller. Also, if they don&#8217;t talk (to brainstorm or just chit chat), their territories will shrink. This way, people have to <span style="font-family: 'book antiqua', palatino; font-size: 12pt;"><strong><span style="color: #00ccff;">walk and talk</span></strong></span> in order to keep his/her territory.</p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: 14pt; font-family: 'andale mono', times;">Context</span></strong></p>
+<p>This game can be used for multiple purposes, e.g. DECISION MAKING • BRAINSTORMING • VOTING ON IDEAS • BUDGET PLANNING. Overall the main function is provoking thoughts about sharing and space with movements.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/walk-n-talk.pdf">http://www.jhclaura.com/wp-content/uploads/2014/04/walk-n-talk.pdf</a></p>
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt;"><strong><span style="font-family: 'andale mono', times;">Technique</span></strong></span></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/04/process.png"><img loading="lazy" class="alignnone size-full wp-image-1527" src="http://www.jhclaura.com/wp-content/uploads/2014/04/process.png" alt="process" width="1482" height="253" /></a></p>
+<p><strong>Tools</strong>: OpenFrameworks, Kinect*1, projectors*2.</p>
+<p>&nbsp;</p>
+<p><strong><span style="font-family: 'andale mono', times; font-size: 14pt;">Developing</span></strong></p>
+<p>1) The first attempt to expand the territories based on the blobs movement captured by Kinect.</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/93098890?byline=0&amp;color=c9ff23" width="800" height="565" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>2) Using ofPolylines to smooth the shape of geometry.</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/96971421?byline=0&amp;color=c9ff23" width="800" height="595" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>3) Beautiful mistakes <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/93806426?byline=0&amp;color=c9ff23" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>4) Final version of color-filled geometry.</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/96995503?byline=0&amp;color=c9ff23" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/05/15/walk-n-talk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Roofwing</title>
+		<link>/2014/03/14/roofwing/</link>
+					<comments>/2014/03/14/roofwing/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sat, 15 Mar 2014 00:49:28 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Spatial Media]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[computer vision]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[documentation]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[group]]></category>
+		<category><![CDATA[midterm]]></category>
+		<category><![CDATA[Openframeworks]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1246</guid>
+
+					<description><![CDATA[A flying + walking, surreal experience design for rooftop. Work done with amazing John. It&#8217;s all start from an assignment in the class Spatial Media, with specific requirement as below: + be site specific (i.e. be designed for an actual location) + be designed for use by more than one person + involve a horizontal [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/03/IMG_1826.jpg"><img loading="lazy" class="alignnone size-large wp-image-1253" alt="IMG_1826" src="http://www.jhclaura.com/wp-content/uploads/2014/03/IMG_1826-1024x682.jpg" width="1024" height="682" /></a></p>
+<p>A flying + walking, surreal experience design for <em><span style="font-family: Georgia, Palatino; font-size: medium;">rooftop</span></em>. Work done with amazing <a href="http://www.j-namuchoi.com/" target="_blank">John</a>.</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/89071351?byline=0&amp;color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>It&#8217;s all start from an assignment in the class <span style="font-family: Georgia, Palatino;"><em>Spatial Media</em></span>, with specific requirement as below:<span style="font-family: Verdana, Geneva;"><br />
+</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;">+ be site specific (i.e. be designed for an actual location)</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;"> + be designed for use by more than one person</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;"> + involve a horizontal surface</span></p>
+<p><span style="font-family: Consolas, Monaco, monospace; font-size: 12px; line-height: 18px;">START FROM SPACE</span></p>
+<p>Because we wanted the experience to be strongly connected with space, we developed the idea starting from <span style="font-size: medium;"><em><span style="font-family: Georgia, Palatino;">space</span></em></span>. We chose rooftop because its exciting yet rusted characters, and we thought it has the potential to be a relaxing playground for citizens, especially for cities with limited space.</p>
+<p><span style="font-family: Consolas, Monaco, monospace; font-size: 12px; line-height: 18px;">CONCEPT</span></p>
+<p><span style="font-family: Verdana, Geneva;"><span style="font-family: Georgia, Palatino; font-size: small;">+ Utilize the height and windy characters directly from space</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;">+ Cooperate with your teammates to maximize and exaggerate the excitement</span><br />
+</span></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/02/SP_Rooftop_old.jpeg"><img loading="lazy" class="alignnone size-large wp-image-1067" alt="SP_Rooftop_old" src="http://www.jhclaura.com/wp-content/uploads/2014/02/SP_Rooftop_old-1024x854.jpeg" width="1024" height="854" /></a></p>
+<p><span style="font-family: Consolas, Monaco, monospace; font-size: 12px; line-height: 18px;">SWINGS PRODUCTION(making miniature!)</span></p>
+<p><span style="font-family: Georgia, Palatino; font-size: small;">+ woods</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;"> + necklace chains &amp; rings</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;"> + thin hemp rope</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;"> + webcam</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;"> + monitor</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;"> + white board</span></p>
+
+<p><span style="font-family: Consolas, Monaco, monospace; font-size: 12px; line-height: 18px;">TECHNIQUES</span></p>
+<p><span style="font-family: Georgia, Palatino; font-size: small;"> + Openframeworks</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;"> + videoGrabber</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;"> + videoPlayer</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;"> + color detection</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;"> + image sequences</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;"> + soundPlayer</span></p>
+<p><em>Swing range test</em><br />
+<iframe loading="lazy" src="//player.vimeo.com/video/88273783?byline=0&amp;color=c9ff23" height="597" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p><em>Infinite Loop</em><br />
+This is one of the amazing beautiful mistake with the infinite loop between monitor showing what camera capturing and camera capturing monitor.<br />
+<iframe loading="lazy" src="//player.vimeo.com/video/89045870?byline=0&amp;color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p><span style="font-family: Consolas, Monaco, monospace; font-size: 12px; line-height: 18px;">HOW IT WORKS</span></p>
+<p><span style="font-family: Georgia, Palatino; font-size: small;"> + Team A &amp; Team B</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;"> + swing people*5 need to cooperate to swing as high as they can to shoot out the strong thunder, or either weak thunder or NO thunder will be shoot out(different thunder sound effects).</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;"> + people in the center can block the thunders by stepping on them(scoring sound effect + spark sequence), so two team have to try to rope in the people in the center</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;"> + once thunders reach the other side, strong thunder gets 2 scores, weak thunder gets 1 score.</span><br />
+<span style="font-family: Georgia, Palatino; font-size: small;"> + SWING OR DIE.</span></p>
+
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/03/14/roofwing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Touch Light</title>
+		<link>/2014/02/03/touch-light/</link>
+					<comments>/2014/02/03/touch-light/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 03 Feb 2014 08:06:50 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Bridging Worlds]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[doodle]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[group]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=938</guid>
+
+					<description><![CDATA[For &#8220;Listening Tour&#8221;(Create an experience that is driven from passive input gathered in a location), Touch Light is a space gathering data from direct contacts, and answering with lighting up the light bulbs.]]></description>
+										<content:encoded><![CDATA[<p>For &#8220;Listening Tour&#8221;(Create an experience that is driven from passive input gathered in a location), <strong>Touch Light</strong> is a space gathering data from direct contacts, and answering with lighting up the light bulbs.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/02/listening-tour.png"><img loading="lazy" class="alignnone size-full wp-image-939" alt="listening tour" src="http://www.jhclaura.com/wp-content/uploads/2014/02/listening-tour.png" width="1500" height="915" srcset="/wp-content/uploads/2014/02/listening-tour.png 1500w, /wp-content/uploads/2014/02/listening-tour-300x183.png 300w, /wp-content/uploads/2014/02/listening-tour-1024x625.png 1024w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/03/touch-light/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Application_Let&#8217;s Talk. About Money.</title>
+		<link>/2013/12/13/application_lets-talk-about-money/</link>
+					<comments>/2013/12/13/application_lets-talk-about-money/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2013 16:45:45 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[group]]></category>
+		<category><![CDATA[presentation]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=543</guid>
+
+					<description><![CDATA[For the application presentation, Pam, Rodrigo, Tessa and I made a survey for ITP, reflecting on the speaker Tricia Wang, an sociologist and ethnographer. Click on &#8220;The Elephant in the Room&#8221; to enter our survey page and the result &#38; analysis of it. Below is the video we made for our presentation in class. Let&#8217;s talk. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>For the application presentation, Pam, Rodrigo, Tessa and I made a survey for ITP, reflecting on the speaker Tricia Wang, an sociologist and ethnographer. Click on &#8220;The Elephant in the Room&#8221; to enter our survey page and the result &amp; analysis of it. Below is the video we made for our presentation in class.</p>
+<p style="text-align: left;"><em><strong>Let&#8217;s talk.</strong></em></p>
+<p><a href="http://bit.ly/itpletstalk"><img loading="lazy" class="wp-image-544 alignnone" alt="ele_02" src="http://www.jhclaura.com/wp-content/uploads/2013/12/ele_02.gif" width="536" height="429" /></a></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><iframe loading="lazy" src="//player.vimeo.com/video/81757413?color=c9ff23" height="394" width="700" allowfullscreen="" frameborder="0"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/12/13/application_lets-talk-about-money/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PComp_Dope Ropes</title>
+		<link>/2013/12/06/pcomp_dope-ropes/</link>
+					<comments>/2013/12/06/pcomp_dope-ropes/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2013 21:14:50 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[group]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[presentation]]></category>
+		<category><![CDATA[xbee]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=510</guid>
+
+					<description><![CDATA[Those crazy ropes have their own homepage ohya! Click click click me! Group project with fabrication king Billy.]]></description>
+										<content:encoded><![CDATA[<p><a href="http://doperopes.tumblr.com/" target="_blank">Those crazy ropes have their own homepage ohya! Click click click me!</a></p>
+<p>Group project with fabrication king <a href="http://ifiwerericher.com/" target="_blank">Billy</a>.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/12/dope_ropes.jpeg"><img loading="lazy" class="aligncenter size-full wp-image-535" alt="dope_ropes" src="http://www.jhclaura.com/wp-content/uploads/2013/12/dope_ropes.jpeg" width="1000" height="1500" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/12/06/pcomp_dope-ropes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PComp_Hang and Pull_vMidterm</title>
+		<link>/2013/11/23/pcomp_hang-and-pull_vmidterm/</link>
+					<comments>/2013/11/23/pcomp_hang-and-pull_vmidterm/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 24 Nov 2013 01:23:19 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[group]]></category>
+		<category><![CDATA[midterm]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=428</guid>
+
+					<description><![CDATA[Pullllling to make/alter sounnnnnd. &#160; &#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p>Pullllling to make/alter sounnnnnd.</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/80164050?color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/11/Pull_closeUPS.jpeg"><img loading="lazy" class="aligncenter size-full wp-image-431" alt="Pull_closeUPS" src="http://www.jhclaura.com/wp-content/uploads/2013/11/Pull_closeUPS.jpeg" width="900" height="600" srcset="/wp-content/uploads/2013/11/Pull_closeUPS.jpeg 900w, /wp-content/uploads/2013/11/Pull_closeUPS-300x200.jpeg 300w" sizes="(max-width: 900px) 100vw, 900px" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/11/Pull_wholeS.jpeg"><img loading="lazy" class="aligncenter size-full wp-image-432" alt="Pull_wholeS" src="http://www.jhclaura.com/wp-content/uploads/2013/11/Pull_wholeS.jpeg" width="642" height="900" srcset="/wp-content/uploads/2013/11/Pull_wholeS.jpeg 642w, /wp-content/uploads/2013/11/Pull_wholeS-214x300.jpeg 214w" sizes="(max-width: 642px) 100vw, 642px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/11/23/pcomp_hang-and-pull_vmidterm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ani_Butter</title>
+		<link>/2013/11/17/ani_butter/</link>
+					<comments>/2013/11/17/ani_butter/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 17 Nov 2013 06:05:56 +0000</pubDate>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[group]]></category>
+		<category><![CDATA[midterm]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=412</guid>
+
+					<description><![CDATA[With amazing Kate &#60;3 links: trailer, production post. &#160; Set gallery and our lovely character melty close shot. &#160;]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" src="//player.vimeo.com/video/79166131?color=c9ff23" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>With amazing <a href="http://make.kategodwin.com/" target="_blank">Kate</a> &lt;3</p>
+<p>links: <a href="http://www.jhclaura.com/ani_butter_trailer/" target="_blank">trailer</a>, <a href="http://www.jhclaura.com/ani_butter-test-shot/" target="_blank">production post</a>.</p>
+<p>&nbsp;</p>
+<p><strong>Set gallery</strong> and our lovely character melty <strong>close shot</strong>.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/11/feed_011_01_X1_0008.jpg"><img loading="lazy" class="alignnone size-full wp-image-721" src="http://www.jhclaura.com/wp-content/uploads/2013/11/feed_011_01_X1_0008.jpg" alt="http://www.jhclaura.com/ani_butter/" width="1024" height="680" srcset="/wp-content/uploads/2013/11/feed_011_01_X1_0008.jpg 1024w, /wp-content/uploads/2013/11/feed_011_01_X1_0008-300x199.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/11/feed_011_01_X1_0010.jpg"><img loading="lazy" class="alignnone size-full wp-image-720" src="http://www.jhclaura.com/wp-content/uploads/2013/11/feed_011_01_X1_0010.jpg" alt="feed_011_01_X1_0010" width="1024" height="680" srcset="/wp-content/uploads/2013/11/feed_011_01_X1_0010.jpg 1024w, /wp-content/uploads/2013/11/feed_011_01_X1_0010-300x199.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/11/feed_011_01_X1_0015.jpg"><img loading="lazy" class="alignnone size-full wp-image-718" src="http://www.jhclaura.com/wp-content/uploads/2013/11/feed_011_01_X1_0015.jpg" alt="feed_011_01_X1_0015" width="1024" height="680" srcset="/wp-content/uploads/2013/11/feed_011_01_X1_0015.jpg 1024w, /wp-content/uploads/2013/11/feed_011_01_X1_0015-300x199.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/11/feed_011_01_X1_0016.jpg"><img loading="lazy" class="alignnone size-full wp-image-717" src="http://www.jhclaura.com/wp-content/uploads/2013/11/feed_011_01_X1_0016.jpg" alt="feed_011_01_X1_0016" width="1024" height="680" srcset="/wp-content/uploads/2013/11/feed_011_01_X1_0016.jpg 1024w, /wp-content/uploads/2013/11/feed_011_01_X1_0016-300x199.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/11/feed_011_01_X1_0018.jpg"><img loading="lazy" class="alignnone size-full wp-image-716" src="http://www.jhclaura.com/wp-content/uploads/2013/11/feed_011_01_X1_0018.jpg" alt="feed_011_01_X1_0018" width="1024" height="680" srcset="/wp-content/uploads/2013/11/feed_011_01_X1_0018.jpg 1024w, /wp-content/uploads/2013/11/feed_011_01_X1_0018-300x199.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/11/feed_011_01_X1_0019.jpg"><img loading="lazy" class="alignnone size-full wp-image-715" src="http://www.jhclaura.com/wp-content/uploads/2013/11/feed_011_01_X1_0019.jpg" alt="feed_011_01_X1_0019" width="1024" height="680" srcset="/wp-content/uploads/2013/11/feed_011_01_X1_0019.jpg 1024w, /wp-content/uploads/2013/11/feed_011_01_X1_0019-300x199.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/11/17/ani_butter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ani_Butter_Trailer</title>
+		<link>/2013/11/09/ani_butter_trailer/</link>
+					<comments>/2013/11/09/ani_butter_trailer/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sat, 09 Nov 2013 21:36:56 +0000</pubDate>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[group]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=389</guid>
+
+					<description><![CDATA[Enjoy the greasy!]]></description>
+										<content:encoded><![CDATA[<p>Enjoy the greasy!</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/78992016?color=c9ff23" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/11/09/ani_butter_trailer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>V&#038;S_Kickstarter_FACK</title>
+		<link>/2013/11/07/vs_kickstarter_fack/</link>
+					<comments>/2013/11/07/vs_kickstarter_fack/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 07 Nov 2013 04:07:34 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Video and Sounds]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[group]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=383</guid>
+
+					<description><![CDATA[It&#8217;s the final group project with Hellyn and Mex, for Video and Sound, a fake Kickstarter video. Our product is a sticker that will remind you if you forgot anything to bring with and also inform you the location of object. We need your help us to make this come true 😉]]></description>
+										<content:encoded><![CDATA[<p style="text-align: left;">It&#8217;s the final group project with <a href="http://www.hellyn.com/" target="_blank">Hellyn</a> and <a href="http://babelbubble.com/" target="_blank">Mex</a>, for <strong><em>Video and Sound</em></strong>, a fake Kickstarter video. Our product is a sticker that will remind you if you forgot anything to bring with and also inform you the location of object.</p>
+<p>We need your help us to make this come true <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/78048130?byline=0&amp;portrait=0&amp;color=c9ff23" height="437" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/11/07/vs_kickstarter_fack/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

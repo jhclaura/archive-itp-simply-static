@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fun &#8211; ITP Days</title>
+	<atom:link href="/category/fun/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Sun, 16 Nov 2014 00:14:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>Fun &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[Stupid_Hackathon] Stupid Font</title>
+		<link>/2014/11/15/stupid_hackathon-stupid-font/</link>
+					<comments>/2014/11/15/stupid_hackathon-stupid-font/#comments</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 16 Nov 2014 00:14:29 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fall 2014]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[font]]></category>
+		<category><![CDATA[stupid hackathon]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1730</guid>
+
+					<description><![CDATA[For the 3rd Stupid Shit No One Needs And Terrible Ideas Hackathon, I made three fonts: Stupid.ttf ReallyStupid.ttf Laura.ttf Here to download the package and it&#8217;s of course free to use! The idea for each one is: Hand tracing the most expensive font in the world. If user likes it, user will eventually buy the most expensive [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>For the 3rd <strong><span style="color: #33cccc;"><a style="color: #33cccc;" href="http://stupidhackathon.com/" target="_blank">Stupid Shit No One Needs And Terrible Ideas Hackathon</a></span>, </strong>I made three fonts:</p>
+<ol>
+<li>Stupid.ttf</li>
+<li>ReallyStupid.ttf</li>
+<li>Laura.ttf</li>
+</ol>
+<p><span style="color: #99cc00;"><a style="color: #99cc00;" href="http://bit.ly/stupidfont" target="_blank"><strong>Here to download the package</strong></a></span> and it&#8217;s of course free to use!</p>
+<p>The idea for each one is:</p>
+<ol>
+<li>Hand tracing the most expensive font in the world. If user likes it, user will eventually buy the most expensive font in the world.<img loading="lazy" class="alignnone size-full wp-image-1742" src="http://www.jhclaura.com/wp-content/uploads/2014/11/stupidFont_11.png" alt="stupidFont_1" width="2000" height="540" /></li>
+<li>A really stupid font that when user types &#8220;I&#8217;m smart&#8221;, it shows &#8220;I&#8217;m stupid.&#8221; And also exchange + / -,  , / ., { / }, crossed out $ and ∞, etc.<img loading="lazy" class="alignnone size-full wp-image-1741" src="http://www.jhclaura.com/wp-content/uploads/2014/11/stupidFont_2.png" alt="stupidFont_2" width="2000" height="552" /></li>
+<li>For presenting artistic proposal for various projects. From now on, I don&#8217;t have to hand trace Times New Roman anymore.<a href="http://www.jhclaura.com/wp-content/uploads/2014/11/lauraFont.png"><img loading="lazy" class="alignnone size-full wp-image-1745" src="http://www.jhclaura.com/wp-content/uploads/2014/11/lauraFont.png" alt="lauraFont" width="2000" height="474" /></a></li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/11/15/stupid_hackathon-stupid-font/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>webbbb {self_documentary}</title>
+		<link>/2014/02/16/webbbb-self_documentary/</link>
+					<comments>/2014/02/16/webbbb-self_documentary/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 16 Feb 2014 23:42:23 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[Mashups Web APIs]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[experiment]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1091</guid>
+
+					<description><![CDATA[Ok pal, THIS is the absolutely non-sense web page about my super basic experiment about WEB. So -_-, so non-sense. But since the class is called &#8220;Meshups&#8221;, I guess it makes sense, kind of. &#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p>Ok pal, <a href="http://jhclaura.com/meshup/meshupSelfS/index.html" target="_blank"><span style="text-decoration: underline; color: #11eec1;"><strong>THIS</strong></span></a> is the absolutely non-sense web page about my super basic experiment about WEB.</p>
+<p>So -_-, so non-sense. But since the class is called &#8220;Meshups&#8221;, I guess it makes sense, kind of.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-1094" alt="baby" src="http://www.jhclaura.com/wp-content/uploads/2014/02/baby.gif" width="400" height="225" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/16/webbbb-self_documentary/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gif-Overload {Giphy API}</title>
+		<link>/2014/02/05/gif-overload-giphy-api/</link>
+					<comments>/2014/02/05/gif-overload-giphy-api/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2014 02:39:54 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[Mashups Web APIs]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[cat]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[galaxy]]></category>
+		<category><![CDATA[gif]]></category>
+		<category><![CDATA[php]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=955</guid>
+
+					<description><![CDATA[Last semester, for my final project for Comm Lab: Web, I made an API meshup website LOST, using Youtube, TheCatAPI, Iheartquotes API. It&#8217;s interesting to see images animated in the stop-motion way, so I want to do more with GIFs first, and then later maybe develop into video with sound. For an assignment to build  single [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Last semester, for my final project for Comm Lab: Web, I made an API meshup website <a href="http://jhclaura.com/web_final/lost.php" target="_blank"><em>LOST</em></a>, using Youtube, <a href="http://thecatapi.com/docs.html#categories-list" target="_blank">TheCatAPI</a>, <a href="http://iheartquotes.com/api" target="_blank">Iheartquotes</a> API.</p>
+<div id="attachment_957" style="width: 736px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-957" loading="lazy" class="size-full wp-image-957" style="line-height: 1.5em;" alt="past1" src="http://www.jhclaura.com/wp-content/uploads/2014/02/past1.gif" width="726" height="370" /><p id="caption-attachment-957" class="wp-caption-text">LOST_homepage</p></div>
+<div id="attachment_956" style="width: 738px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-956" loading="lazy" class="size-full wp-image-956" alt="past2" src="http://www.jhclaura.com/wp-content/uploads/2014/02/past2.gif" width="728" height="368" /><p id="caption-attachment-956" class="wp-caption-text">LOST_&#8221;No, I&#8217;m not.&#8221; page</p></div>
+<p>It&#8217;s interesting to see images animated in the stop-motion way, so I want to do more with GIFs first, and then later maybe develop into video with sound. For an assignment to build  single web page that displays (some of) the data you found with some basic css styling, I found an API from <a href="http://giphy.com/" target="_blank">Giphy</a>, a animated GIFs search website. On the Github of Giphy, the API is well documented and has following functions: <span style="text-decoration: underline;">search, GIF by id, translate, random, trending</span>. And also, according to their Github,</p>
+<blockquote><p>The Giphy API implements a REST-like interface. Connections can be made with any HTTP enabled programming language. The Giphy API also implements <a href="http://en.wikipedia.org/wiki/Cross-origin_resource_sharing">CORS</a>, allowing you to connect to Giphy from JavaScript / Web browsers on your own domain.</p></blockquote>
+<p>To warm up my API-skill for new semester, I use search function, and give 3 choices: Cat, Grilled Cheese, and Coding to display 25 related GIFs from Giphy API, and also a reset button to display pure background. Unfortunately the search function gives you fixed searching result. Might need to twig the offset parameter&#8230; <a href="http://jhclaura.com/meshup/giffff.php" target="_blank">Check it out</a>!</p>
+<p style="text-align: center;"><a href="http://jhclaura.com/meshup/giffff.php"><img loading="lazy" class="size-full wp-image-960 aligncenter" alt="Screen Shot 2014-02-05 at 8.33.47 PM" src="http://www.jhclaura.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-05-at-8.33.47-PM.png" width="600" height="328" srcset="/wp-content/uploads/2014/02/Screen-Shot-2014-02-05-at-8.33.47-PM.png 600w, /wp-content/uploads/2014/02/Screen-Shot-2014-02-05-at-8.33.47-PM-300x164.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p style="text-align: center;">
+<p style="text-align: left;">And here are the codes.</p>
+<p style="text-align: left;">php file</p>
+<pre class="brush: php; gutter: true">&lt;!DOCTYPE HTML&gt;
+
+&lt;html&gt; 
+	&lt;head&gt;
+		&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;style.css&quot;&gt;
+		&lt;link href=&#039;http://fonts.googleapis.com/css?family=Reenie+Beanie&#039; rel=&#039;stylesheet&#039; type=&#039;text/css&#039;&gt;
+
+		&lt;title&gt;Giffff&lt;/title&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+	&lt;!-- white words--&gt;
+	&lt;h1&gt;Gif-Overload!&lt;/h1&gt;
+	&lt;!-- rainbow words --&gt;
+	&lt;!-- &lt;h1&gt;&lt;span class=&quot;rainbow&quot;&gt;Gif-Overload!&lt;/span&gt;&lt;/h1&gt; --&gt;
+	&lt;form align=&quot;center&quot; method=&quot;post&quot;&gt;
+    	&lt;div class=&quot;button&quot;&gt;
+        	&lt;button type=&quot;submit&quot; value=&quot;clear&quot; name=&quot;choice&quot;&gt; Reset &lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;
+
+	&lt;form align=&quot;left&quot; method=&quot;post&quot;&gt;
+    	&lt;div class=&quot;button1&quot;&gt;
+        	&lt;button type=&quot;submit&quot; value=&quot;cat&quot; name=&quot;choice&quot;&gt; Cat &lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;
+
+	&lt;form align=&quot;center&quot; method=&quot;post&quot;&gt;
+    	&lt;div class=&quot;button&quot;&gt;
+        	&lt;button type=&quot;submit&quot; value=&quot;grilled+cheese&quot; name=&quot;choice&quot;&gt; Grilled Cheese &lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;	
+
+	&lt;form align=&quot;right&quot; method=&quot;post&quot;&gt;
+    	&lt;div class=&quot;button2&quot;&gt;
+        	&lt;button type=&quot;submit&quot; value=&quot;coding&quot; name=&quot;choice&quot;&gt; Coding &lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;
+
+	&lt;p align=&quot;center&quot;&gt;
+		&lt;?php
+
+		$choice = $_POST[&#039;choice&#039;];
+
+		// mode: search
+		$url = &#039;http://api.giphy.com/v1/gifs/search?q=&#039;.$choice.&#039;&amp;api_key=dc6zaTOxFJmzC&#039;;
+
+		// mode: translate
+		//$url = &#039;http://api.giphy.com/v1/gifs/translate?s=&#039;.$choice.&#039;&amp;api_key=dc6zaTOxFJmzC&#039;;
+
+		// mode: random
+		// $url = &#039;http://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&amp;tag=&#039;.$choice.&#039;&#039;;
+
+		// Get the document at this url
+		$response = file_get_contents($url); 
+		// echo $response; //debug
+
+		// Parse XML with SimpleXML in PHP http://www.php.net/manual/en/simplexml.examples-basic.php
+		$pics = json_decode($response);
+		//var_dump($pics); // take a look at this to see what data you get back
+
+		if ($choice == &#039;clear&#039;) {
+			echo &#039;&#039;;
+		} else {
+			for ($i=0; $i&lt;25; $i++) {
+				// mode: search
+				echo &#039;&lt;img src=&quot;&#039;.$pics-&gt;data[$i]-&gt;images-&gt;fixed_height-&gt;url.&#039;&quot;&gt;&#039;;
+			}
+		}
+
+		// mode: translate
+		//echo &#039;&lt;img src=&quot;&#039;.$pics-&gt;data-&gt;images-&gt;fixed_height-&gt;url.&#039;&quot;&gt;&#039;;
+
+		// mode: random
+		//echo &#039;&lt;img src=&quot;&#039;.$pics-&gt;data-&gt;image_url.&#039;&quot;&gt;&#039;;
+
+		?&gt;
+	&lt;/p	&gt;
+		
+&lt;/body&gt; 
+&lt;/html&gt;</pre>
+<p style="text-align: left;">css file</p>
+<pre class="brush: css; gutter: true">body{
+	background-image: url(&#039;galaxy.png&#039;);
+}
+
+h1{
+	text-align: center;
+	font-family: &#039;Reenie Beanie&#039;, cursive;
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+}
+
+
+.button1 {
+	position: absolute;
+	top: 140px;
+	left: 20%;
+}
+
+.button2 {
+	position: absolute;
+	top: 140px;
+	left: 80%;
+}</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/05/gif-overload-giphy-api/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5-in-5_Day4_Fungus</title>
+		<link>/2014/01/25/5-in-5_day4_fungus/</link>
+					<comments>/2014/01/25/5-in-5_day4_fungus/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sat, 25 Jan 2014 17:54:52 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Design/Doodle]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[Fungus Among Us]]></category>
+		<category><![CDATA[5-in-5]]></category>
+		<category><![CDATA[doodle]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[PS]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=769</guid>
+
+					<description><![CDATA[5-in-5 Day4 is fungus day! Fungus all day long. Failed to do javascript w/ fungus but I finished the post about it! Ready to start the spring semester. Welcomed by a broken arm with FUNGUS on it HUHOO. &#8212; close shot of beautiful mushroomsss &#8212;]]></description>
+										<content:encoded><![CDATA[<p>5-in-5 Day4 is fungus day! Fungus all day long. Failed to do javascript w/ fungus but I finished the post about it!</p>
+<p>Ready to start the spring semester. Welcomed by a broken arm with FUNGUS on it HUHOO.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/01/fungus_spring2014.jpg"><img loading="lazy" class="size-large wp-image-770 alignnone" alt="fungus_spring2014" src="http://www.jhclaura.com/wp-content/uploads/2014/01/fungus_spring2014-1024x468.jpg" width="1024" height="468" /></a></p>
+<p>&#8212; close shot of beautiful mushroomsss &#8212;</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/01/fungus_spring_copy.jpg"><img loading="lazy" class="size-full wp-image-771 alignnone" alt="fungus_spring_copy" src="http://www.jhclaura.com/wp-content/uploads/2014/01/fungus_spring_copy.jpg" width="943" height="362" srcset="/wp-content/uploads/2014/01/fungus_spring_copy.jpg 943w, /wp-content/uploads/2014/01/fungus_spring_copy-300x115.jpg 300w" sizes="(max-width: 943px) 100vw, 943px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/01/25/5-in-5_day4_fungus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5-in-5_Day3_Breathe</title>
+		<link>/2014/01/24/5-in-5_day3_breathe/</link>
+					<comments>/2014/01/24/5-in-5_day3_breathe/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2014 09:07:37 +0000</pubDate>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Design/Doodle]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[Video and Sounds]]></category>
+		<category><![CDATA[5-in-5]]></category>
+		<category><![CDATA[AE]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[test]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=754</guid>
+
+					<description><![CDATA[(a teaser) More to come, too cold to edit at 4am&#8230; **Update** Inspired by Wriggles &#38; Robins(check out theirs!) Set up in my bedroom with window wide open at night, tempurature -12ºC/10ºF, LG HX350T projector, a lot of layers, and hot water stand by. Animation made in AE! For now, it&#8217;s just a one-day simple projecting [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/01/tease.gif"><img loading="lazy" class="size-full wp-image-755 alignnone" alt="tease" src="http://www.jhclaura.com/wp-content/uploads/2014/01/tease.gif" width="668" height="402" /></a>(a teaser)</p>
+<p>More to come, too <strong><span style="color: #00ccff;">cold</span></strong> to edit at 4am&#8230;</p>
+<p><strong><span style="color: #ff0000;">**Update**</span></strong></p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/84986753?color=c9ff23" height="438" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Inspired by <a href="http://wrigglesandrobins.com/" target="_blank"><strong>Wriggles &amp; Robins</strong></a>(check out <a href="http://vimeo.com/59624820" target="_blank">theirs</a>!)<br />
+Set up in my bedroom with window wide open at night, tempurature -12ºC/10ºF,<br />
+LG HX350T projector, a lot of layers, and hot water stand by. Animation made in AE!</p>
+<p>For now, it&#8217;s just a one-day simple projecting test. For future, I&#8217;d love to connect this with more interactions, exploring possibility to be generic art of emotions and communications. Pam suggested using words recognition to tell user&#8217;s speaking content then it can easily avoid pre-rendering! Seems to be having a lot of potentials. Exciting!</p>
+<p>Oh there&#8217;s one big cannot unsee problem. It&#8217;s restricted by the temperature and amount of breath! Hmmm&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/01/24/5-in-5_day3_breathe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Design_&#8221;Her&#8221; the movie</title>
+		<link>/2014/01/20/design_her-the-movie/</link>
+					<comments>/2014/01/20/design_her-the-movie/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2014 08:39:13 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Design/Doodle]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[banner]]></category>
+		<category><![CDATA[doodle]]></category>
+		<category><![CDATA[movie]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=727</guid>
+
+					<description><![CDATA[A banner, or actually a hearty doodle.]]></description>
+										<content:encoded><![CDATA[<p><a style="line-height: 1.5em;" href="http://www.jhclaura.com/wp-content/uploads/2014/01/her2.jpg"><img loading="lazy" class="size-large wp-image-730 alignnone" alt="her2" src="http://www.jhclaura.com/wp-content/uploads/2014/01/her2-1024x487.jpg" width="1024" height="487" srcset="/wp-content/uploads/2014/01/her2-1024x487.jpg 1024w, /wp-content/uploads/2014/01/her2-300x143.jpg 300w, /wp-content/uploads/2014/01/her2.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><span style="line-height: 1.5em;">A banner, or actually a hearty doodle.</span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/01/20/design_her-the-movie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hacking flashlight for party!</title>
+		<link>/2013/12/29/hacking-flashlight-for-party/</link>
+					<comments>/2013/12/29/hacking-flashlight-for-party/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 29 Dec 2013 08:32:20 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fall 2013]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[PComp_Physical Computing]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=641</guid>
+
+					<description><![CDATA[Collaborated w/ Ziv, Alex, Jorge, and Kristina. Long long time ago(Oct, 2013), Ziv came out of an idea for the photo booth of ITP Halloween party&#8211;&#62; Photoboo, which is using strong light to frighten whoever walk in and taking pictures of them. Big success. I was responsible for the light part and came out of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Collaborated w/ <a href="http://youareblank.com/" target="_blank">Ziv</a>, <a href="http://acoym.com/" target="_blank">Alex</a>, <a href="http://jabrake.com/" target="_blank">Jorge</a>, and <a href="http://www.kristinabudelis.com/itpblog/" target="_blank">Kristina</a>.</p>
+<p>Long long time ago(Oct, 2013), Ziv came out of an idea for the photo booth of ITP Halloween party&#8211;&gt; <strong>Photoboo</strong>, which is using strong light to frighten whoever walk in and taking pictures of them. Big success.</p>
+<p>I was responsible for the light part and came out of an idea that just using the external flashlight kit of Canon 5D. With this <a href="http://www.glacialwanderer.com/hobbyrobotics/?p=10" target="_blank">reference</a>, flashlight worked like a charm with a simple button(P.s. We used transistor instead of optoisolator).</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/82868863?color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Connected to the complicated Max/MSP patch Alex made, the flashlight triggered once infrared sensor detecting people approaching.</p>
+<p>Here&#8217;s the simple circuit.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/12/flashlight_hack.jpeg"><img loading="lazy" class="wp-image-642 alignnone" alt="flashlight_hack" src="http://www.jhclaura.com/wp-content/uploads/2013/12/flashlight_hack.jpeg" width="1200" height="642" srcset="/wp-content/uploads/2013/12/flashlight_hack.jpeg 1200w, /wp-content/uploads/2013/12/flashlight_hack-300x161.jpeg 300w, /wp-content/uploads/2013/12/flashlight_hack-1024x548.jpeg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
+<p>And here&#8217;s the code for Arduino.</p>
+<pre class="brush: cpp; gutter: true">#define CAMERA_FLASH_PIN 8
+#define BUTTOM_PIN 2
+
+void setup()
+{
+  pinMode(BUTTOM_PIN, INPUT);
+  pinMode(CAMERA_FLASH_PIN, OUTPUT);
+  digitalWrite(CAMERA_FLASH_PIN, LOW);
+  Serial.begin(9600); // open serial
+  Serial.println(&quot;Press the button to trigger the flash&quot;);
+}
+
+void loop()
+{
+  if (digitalRead(BUTTOM_PIN) == HIGH) {
+    digitalWrite(CAMERA_FLASH_PIN, HIGH);
+    delay(100);
+    digitalWrite(CAMERA_FLASH_PIN, LOW);
+  }
+  else {
+    digitalWrite(CAMERA_FLASH_PIN, LOW);
+
+    Serial.println(&quot;Press the button to trigger the flash&quot;);
+  }
+}</pre>
+<p>&nbsp;</p>
+<p>And&#8230;. I also designed some frames for the Photoboo!</p>
+
+<a href='/halloween_frame_laura_a/'><img width="583" height="350" src="/wp-content/uploads/2013/12/halloween_frame_laura_A.png" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/halloween_frame_laura_A.png 1044w, /wp-content/uploads/2013/12/halloween_frame_laura_A-300x180.png 300w, /wp-content/uploads/2013/12/halloween_frame_laura_A-1024x615.png 1024w" sizes="(max-width: 583px) 100vw, 583px" /></a>
+<a href='/halloween_frame_laura_b/'><img width="575" height="350" src="/wp-content/uploads/2013/12/halloween_frame_laura_B.png" class="attachment-620x350 size-620x350" alt="" loading="lazy" srcset="/wp-content/uploads/2013/12/halloween_frame_laura_B.png 1041w, /wp-content/uploads/2013/12/halloween_frame_laura_B-300x183.png 300w, /wp-content/uploads/2013/12/halloween_frame_laura_B-1024x624.png 1024w" sizes="(max-width: 575px) 100vw, 575px" /></a>
+
+<p>&nbsp;</p>
+<p>Happy time <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/78495010?color=c9ff23" height="450" width="800" allowfullscreen="" frameborder="0"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/12/29/hacking-flashlight-for-party/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Application_What&#8217;s your definition of time?</title>
+		<link>/2013/11/04/application_whats-your-definition-of-time/</link>
+					<comments>/2013/11/04/application_whats-your-definition-of-time/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Mon, 04 Nov 2013 20:02:37 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[feedback]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[mind-blown]]></category>
+		<category><![CDATA[observation]]></category>
+		<category><![CDATA[reading]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=346</guid>
+
+					<description><![CDATA[It&#8217;s a response to Einstein&#8217;s Dream, written by Alan Lightman. Einstein&#8217;s Dream is a novel depicts several kinds(approximately 27, I counted) of world views, based on Time. In one world, time is circle that bends back, in one world cause and effect are erratic, and in one world time has changed plans thus sometimes people [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div id="attachment_353" style="width: 710px" class="wp-caption aligncenter"><a href="http://www.jhclaura.com/wp-content/uploads/2013/11/a-glass-of-wine-and-a-clip-of-time.jpg"><img aria-describedby="caption-attachment-353" loading="lazy" class="size-full wp-image-353" alt="a glass of wine and a clip of time." src="http://www.jhclaura.com/wp-content/uploads/2013/11/a-glass-of-wine-and-a-clip-of-time.jpg" width="700" height="412" srcset="/wp-content/uploads/2013/11/a-glass-of-wine-and-a-clip-of-time.jpg 700w, /wp-content/uploads/2013/11/a-glass-of-wine-and-a-clip-of-time-300x177.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a><p id="caption-attachment-353" class="wp-caption-text">a glass of wine and a clip of time.</p></div>
+<p>It&#8217;s a response to <span style="color: #99cc00;"><a href="http://en.wikipedia.org/wiki/Einstein's_Dreams" target="_blank"><span style="color: #99cc00;">Einstein&#8217;s Dream</span></a></span>, written by Alan Lightman. Einstein&#8217;s Dream is a novel depicts several kinds(approximately 27, I counted) of world views, based on Time. In one world, time is circle that bends back, in one world cause and effect are erratic, and in one world time has changed plans thus sometimes people can glimpse the future. Beautiful and sad stories happen. Being a fiction novel, the book well translated the vision of Einstein in an artistic way.</p>
+<p>As for my thoughts  &#8211;time exists in each individual&#8217;s mind. We can decide our own setting of time, just like what the book depicts. It might flows backward, or it might be in what people live just one day. Once our mindset changes, we can live in whatever kinds of the world the book depicts, and of course in the world you define.</p>
+<p>Right now, I live in the world where everyday is the day before due. Chased by deadline, sometimes I work hard to try to win the race against time. Like trying to occupy all the seats in a hall against time. Compared to my rush and anxiety, time moves on gracefully in its pace. Or sometimes, I ignore the existence of deadline in the  &#8220;Oh Whatever&#8221; way. I explore the environment leisurely and spend time admiring surprising details of life. It&#8217;s like comfily curling in a sled, and let time drag me forward. I still do my work, and it probably just turns out being ordinary, but I&#8217;ll never be left behind. I can choose to be either kind of person. It all depends.</p>
+<p>But this is not my ultimate dreamy setting of time. The one which is closest to my ultimate dreamy setting, SO FAR, would be &#8211;time is like the video clips you can stroll around on Youtube. Sometime at night, after all the work, it&#8217;s time for a glass of wine and a clip of time. Vividly, you see the beloved eyes from your grand grandmother, the ones without wrinkles, and you interpret the words from her that you couldn&#8217;t before. Or it&#8217;s a chilly random night, you and he continued the first acquaintance at bar to a 24/7 breakfast branch. You re-cover the taste of alcohol with eggs and pancake, and re-cover the talks of non-sense with visions of future. Or it&#8217;s an unexpected museum visiting, and you re-feel the shocks and touch of amaze from the first time of seeing the workpiece of your all time favorite artist.</p>
+<p>In this closest to ultimate dreamy definition of time, that each clips of time is reachable, I can hold the one I thought I&#8217;d never be able to hold again, and I can recapture the sudden emotion pulse I thought I&#8217;d never be able to feel it again. Dose it sound too beautiful to be perfect? What&#8217;s the drawback of this? And what&#8217;s your ultimate(or the closest)dreamy setting of time? Those are the questions I&#8217;d love to quest you guys <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/11/04/application_whats-your-definition-of-time/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Web_Drink or Dare!</title>
+		<link>/2013/11/02/web_drink-or-dare/</link>
+					<comments>/2013/11/02/web_drink-or-dare/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2013 03:12:12 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[CommLab Web]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=342</guid>
+
+					<description><![CDATA[My first web game v.PHP yah! click click click me! And below are my php codes. Page_1 &#60;?php /* ----- This script makes you drink more merrily. ----- */ ?&#62; &#60;!DOCTYPE HTML&#62; &#60;html&#62; &#60;head&#62; &#60;title&#62;Drinking Game!&#60;/title&#62; &#60;/head&#62; &#60;body&#62; &#60;h1 align=&#34;center&#34;&#62;Drink or Dare!&#60;/h1&#62; &#60;p align=&#34;center&#34;&#62;&#60;img src=&#34;beer.png&#34; alt=&#34;Beer&#34;/&#62;&#60;/p&#62; &#60;p align=&#34;center&#34;&#62;How many players are here? &#60;br/&#62;&#60;strong&#62;Index&#60;/strong&#62; each one [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/11/beer.png"><img loading="lazy" class="size-full wp-image-344 alignnone" alt="beer" src="http://www.jhclaura.com/wp-content/uploads/2013/11/beer.png" width="128" height="128" /></a></p>
+<p>My first web game v.PHP yah!</p>
+<p><a href="http://jhclaura.com/web_02/drinking_game.php" target="_blank"><strong><span style="color: #99cc00;">click click click</span></strong></a> me!</p>
+<p>And below are my php codes.</p>
+<p><span id="more-342"></span></p>
+<p>Page_1</p>
+<pre class="brush: php; gutter: true">&lt;?php
+/* 
+-----
+This script makes you drink more merrily.
+-----
+*/
+?&gt;
+&lt;!DOCTYPE HTML&gt; 
+&lt;html&gt; 
+	&lt;head&gt;
+		&lt;title&gt;Drinking Game!&lt;/title&gt;
+	&lt;/head&gt;
+	
+	&lt;body&gt;
+	&lt;h1 align=&quot;center&quot;&gt;Drink or Dare!&lt;/h1&gt;
+	
+	&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;beer.png&quot; alt=&quot;Beer&quot;/&gt;&lt;/p&gt;
+	
+	&lt;p align=&quot;center&quot;&gt;How many players are here? &lt;br/&gt;&lt;strong&gt;Index&lt;/strong&gt; each one of you and 
+		&lt;strong&gt;submit&lt;/strong&gt; the total number yo!&lt;/p&gt;
+		
+	&lt;form align=&quot;center&quot; action=&quot;/web_02/player_2.php&quot; method=&quot;post&quot;&gt;
+		&lt;div&gt;
+  			&lt;label for=&quot;players&quot;&gt;Players #:&lt;/label&gt;
+        	&lt;input type=&quot;number&quot; min=&quot;1&quot; max=&quot;20&quot; step=&quot;1&quot; name=&quot;players&quot; /&gt;
+	    &lt;/div&gt;
+    	&lt;div class=&quot;button&quot;&gt;
+        	&lt;button type=&quot;submit&quot;&gt;submit.&lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;
+	
+	
+
+&lt;/body&gt; 
+&lt;/html&gt;</pre>
+<p>Page_2</p>
+<pre class="brush: php; gutter: true">&lt;?php
+	session_start();
+		
+	if ( empty($_POST[&#039;players&#039;]) ) {
+		echo &quot;Please enter the number of players!&quot;;
+	} else {
+		$players = $_POST[&#039;players&#039;];
+		$aPlayer = rand(1, $players);
+		do {
+			$bPlayer = rand(1, $players);
+		} while ($bPlayer == $aPlayer);
+	
+		$_SESSION[&#039;aPlayer&#039;] = $aPlayer;
+		$_SESSION[&#039;bPlayer&#039;] = $bPlayer;
+		
+		$title = &quot;Congrats Player Num&lt;strong&gt;&quot; . $aPlayer . &quot;&lt;/strong&gt;, you&#039;re chosen!&quot;;
+		}
+?&gt;
+
+&lt;!DOCTYPE HTML&gt; 
+&lt;html&gt; 
+	&lt;head&gt;
+		&lt;title&gt;
+		&lt;?php 
+			if ( empty($_POST[&#039;players&#039;]) ) {
+				echo &quot;Oops!&quot;;
+			} else {
+				echo &quot;Hi Player$aPlayer!&quot;;
+			}		
+		?&gt;
+		&lt;/title&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+	
+	&lt;p align=&quot;center&quot;&gt;&lt;?php echo $title ?&gt;&lt;br/&gt;
+		Now please fill out the form below.&lt;/p&gt;
+	
+	&lt;form align=&quot;center&quot; action=&quot;/web_02/form_2.php&quot; method=&quot;post&quot;&gt;
+	    &lt;div&gt;
+    	    &lt;label for=&quot;name&quot;&gt;Your name:&lt;/label&gt;
+        	&lt;input type=&quot;text&quot; name=&quot;name&quot; /&gt;
+	    &lt;/div&gt;
+	    &lt;div&gt;
+    	    &lt;label for=&quot;amount&quot;&gt;How many glasses will you drink:&lt;/label&gt;
+        	&lt;input type=&quot;number&quot; min=&quot;0&quot; max=&quot;4&quot; step=&quot;1&quot; name=&quot;amount&quot; /&gt;
+	    &lt;/div&gt;
+    	&lt;div&gt;
+        	&lt;label for=&quot;partA&quot;&gt;Favorite human part:&lt;/label&gt;
+	        &lt;input type=&quot;text&quot; name=&quot;partA&quot; /&gt;
+    	&lt;/div&gt;
+    	&lt;div&gt;
+        	&lt;label for=&quot;partB&quot;&gt;Less favorite human part:&lt;/label&gt;
+	        &lt;input type=&quot;text&quot; name=&quot;partB&quot; /&gt;
+    	&lt;/div&gt;
+    	&lt;div class=&quot;button&quot;&gt;
+        	&lt;button type=&quot;submit&quot;&gt;I made my mind.&lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;
+	
+
+&lt;/body&gt; 
+&lt;/html&gt;</pre>
+<p>Page_3</p>
+<pre class="brush: php; gutter: true"> &lt;?php
+	session_start();
+	$playerA = $_SESSION[&#039;aPlayer&#039;];
+	$playerB = $_SESSION[&#039;bPlayer&#039;];
+	
+	$amount = $_POST[&#039;amount&#039;];
+	$partA = $_POST[&#039;partA&#039;];
+	$partB = $_POST[&#039;partB&#039;];
+
+
+	$actions = array(
+	4 =&gt; &#039;blow to&#039;,
+	3 =&gt; &#039;touch&#039;,
+	2 =&gt; &#039;kiss&#039;,
+	1 =&gt; &#039;bite&#039;,
+	0 =&gt; &#039;lick&#039;
+	);
+	
+	$do = $actions[$amount];
+	
+?&gt;
+
+&lt;!DOCTYPE HTML&gt; 
+&lt;html&gt; 
+	&lt;head&gt;
+		&lt;title&gt;Obey the order!&lt;/title&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+	
+	&lt;h1 align=&quot;center&quot;&gt;
+&lt;?php
+
+		echo &quot;Player$playerA, please $do the $partA of Player$playerB.&lt;br/&gt;
+		Or you can choose to let Player$playerB $do your $partB.&lt;br/&gt;
+		&lt;br/&gt;
+		Don&#039;t be shy, Player$playerA and Player$playerB.&quot;;
+
+		$name = &quot;$playerA&quot;;
+		$message = &quot; chose drink $amount beer(s),&lt;br/&gt; 
+		so he/she has to either $do the $partA of Player$playerB, &lt;br/&gt;
+		or let Player$playerB $do his/her $partB.&lt;br/&gt;&lt;br/&gt;&quot;;
+
+
+
+		$dsn = &#039;mysql:dbname=jhclaura_newbie;host=mysql.jhclaura.com&#039;;
+		$user = &#039;jhclauracom&#039;;
+		$password = &#039;NpE^yQ7c&#039;;
+
+		/* Create PDO object */
+		$pdo = new PDO($dsn, $user, $password);
+		
+		
+		/* Write the SQL */	
+		$sql = &quot;INSERT INTO drinkResult (name,message) VALUES(?,?)&quot;;
+
+		/* prepare the SQL statement and return a PDOStatement object */
+		$statement = $pdo-&gt;prepare($sql);
+		
+		/* Execute the SQL with the data */ 	
+		if ($statement-&gt;execute(array($name,$message))){ // returns true if it worked
+			// echo &quot;Success! New message added.&quot;;		
+		} else {
+			echo &quot;There was an error and the post could not be added.&lt;br/&gt;n&quot;;
+			// Debug: show the error message
+			print_r( $statement-&gt;errorInfo());
+		}
+?&gt;
+	&lt;/h1&gt;
+	
+	&lt;p align=&quot;center&quot;&gt;
+	&lt;a href=&quot;drinking_game.php&quot;&gt;Again!&lt;/a&gt;&lt;/li&gt;
+	&lt;/p&gt;
+
+	&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;History of DrinkingGame&lt;/strong&gt;
+	&lt;/p&gt;
+
+	&lt;p align=&quot;center&quot;&gt;
+&lt;?php
+	
+	$getSql = &#039;SELECT * FROM drinkResult&#039;;
+
+	$statement = $pdo-&gt;query($getSql);
+
+	$result = $statement-&gt;fetchAll();
+
+	foreach ($result as $row) {
+		echo &quot;Player&quot;;
+		echo $row[&#039;name&#039;];
+		echo $row[&#039;message&#039;];
+		echo &quot;n&quot;;
+	}
+
+?&gt;
+	&lt;/p&gt;
+	
+	
+&lt;/body&gt; 
+&lt;/html&gt;</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/11/02/web_drink-or-dare/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ICM_Video_Let&#8217;s have Fun!</title>
+		<link>/2013/10/24/icm_video_lets-have-fun/</link>
+					<comments>/2013/10/24/icm_video_lets-have-fun/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 24 Oct 2013 06:41:02 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[Fungus Among Us]]></category>
+		<category><![CDATA[ICM_Processing]]></category>
+		<category><![CDATA[processing]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=306</guid>
+
+					<description><![CDATA[OpenCV Library Just tweaking around Daniel Shiffman&#8217;s LiveFaceDetect example with OpenCV library. Photoshopped off the face of Mushroom. And I&#8217;m proud that I mapped the position and the scale well! So FIT hahaha. Below is my mushroom hat mapping code. if (faces != null) { for (int i = 0; i &#60; faces.length; i++) { [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>OpenCV Library</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/10/OpenCV_mushroom.jpg"><img loading="lazy" class=" wp-image-309 alignnone" alt="OpenCV_mushroom" src="http://www.jhclaura.com/wp-content/uploads/2013/10/OpenCV_mushroom-1024x613.jpg" width="550" height="329" srcset="/wp-content/uploads/2013/10/OpenCV_mushroom-1024x613.jpg 1024w, /wp-content/uploads/2013/10/OpenCV_mushroom-300x180.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2013/10/Mushroom.png"><img loading="lazy" class=" wp-image-311 alignnone" alt="Mushroom" src="http://www.jhclaura.com/wp-content/uploads/2013/10/Mushroom.png" width="546" height="505" srcset="/wp-content/uploads/2013/10/Mushroom.png 607w, /wp-content/uploads/2013/10/Mushroom-300x277.png 300w" sizes="(max-width: 546px) 100vw, 546px" /></a></p>
+<p>Just tweaking around Daniel Shiffman&#8217;s <a href="https://github.com/shiffman/Face-It/blob/master/OpenCV/LiveFaceDetect/LiveFaceDetect.pde" target="_blank">LiveFaceDetect</a> example with <a href="https://github.com/atduskgreg/opencv-processing/releases" target="_blank">OpenCV library</a>. Photoshopped off the face of Mushroom. And I&#8217;m proud that I mapped the position and the scale well! So FIT hahaha. Below is my mushroom hat mapping code.</p>
+<pre class="brush: java; gutter: true">if (faces != null) {
+    for (int i = 0; i &lt; faces.length; i++) {
+      // image size: 500
+      // maps image size with face scale
+      float w = map(img.width, 200, 1, 1, faces[i].width);
+      float h = map(img.height, 200, 1, 1, faces[i].height);
+
+      image(img, faces[i].x+faces[i].width/2-(w)/2, faces[i].y-(h)/2, w, h);
+    }
+  }</pre>
+<p>And here&#8217;s the video for it. Fun!<br />
+<iframe loading="lazy" src="//www.youtube.com/embed/JLf_7t_6brk?rel=0" height="315" width="420" allowfullscreen="" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/10/24/icm_video_lets-have-fun/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

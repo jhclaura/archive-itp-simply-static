@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>first time &#8211; ITP Days</title>
+	<atom:link href="/tag/first-time/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Sun, 25 Jan 2015 23:19:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>first time &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>{ Brain } &#8211; beta version</title>
+		<link>/2015/01/25/brain-_-beta-version/</link>
+					<comments>/2015/01/25/brain-_-beta-version/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 25 Jan 2015 23:19:50 +0000</pubDate>
+				<category><![CDATA[Automata]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fall 2014]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[experiment]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[final]]></category>
+		<category><![CDATA[first time]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1953</guid>
+
+					<description><![CDATA[Brain &#60;beta version&#62; Brain is an automata that shows how the brain works when you think. Composed of handmade steel wires and knotted rope as pulley system. Brain functions in two ways: 1) Conscious &#8211;&#62; Hand cranking the steel wheel to fluctuate the shells, and also rotating the wheels on the other face of brain. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/6B2A0867.jpg"><img loading="lazy" class="alignnone size-large wp-image-1957" src="http://www.jhclaura.com/wp-content/uploads/2015/01/6B2A0867-1024x683.jpg" alt="6B2A0867" width="1024" height="683" /></a></p>
+<p><span style="font-size: 12pt;"><strong><span style="font-family: 'Andale Mono', Times;">Brain &lt;beta version&gt;</span></strong></span></p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/117744115?color=c9ff23" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Brain is an automata that shows how the brain works when you think. Composed of handmade steel wires and knotted rope as pulley system. Brain functions in two ways:</p>
+<p>1) <span style="font-family: Georgia, Palatino;"><em>Conscious</em></span> &#8211;&gt; Hand cranking the steel wheel to fluctuate the shells, and also rotating the wheels on the other face of brain.</p>
+<p>2) <span style="font-family: Georgia, Palatino;">Subconscious</span> &#8211;&gt; Using ultrasonic sensor to measure the distance, part of the brain will function automatically once the user is in position / wearing the helmet.</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 12pt;"><strong><span style="font-family: 'Andale Mono', Times;">Exposing yourself &amp; Taking in the unknown</span></strong></span></p>
+<p>The most exciting/weird experience of this project is the moment you stick your head into it. The motor above you starts moving; the vibration and sounds of the pulley system; the view you see through the wood cubes, knotted ropes, and steel wheels. It&#8217;s the mixture feelling of exposing yourself to undergo the vulnerability, and taking in the unknown to activate all your senses in the narrow space.</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 12pt; font-family: 'Andale Mono', Times;"><strong>2D/paper &#8211;&gt; 3D/physical</strong></span></p>
+<p>Inspired by renowned kinetic sculptor <span style="color: #33cccc;"><a style="color: #33cccc;" href="http://www.arthurganson.com/" target="_blank">Arthur Ganson</a></span>, I decided to use steel wire as the means for my <span style="color: #33cccc;"><a style="color: #33cccc;" href="http://www.jhclaura.com/category/automata/" target="_blank">Automata</a></span> final project. Based on the photos and videos collecting from internet, I sketched out the shape first, and then tried to figure out how to bend the steel wire into wheel.</p>
+<p><img loading="lazy" class="alignnone wp-image-1968 size-full" src="http://www.jhclaura.com/wp-content/uploads/2015/01/brain_node.png" alt="brain_node" width="400" height="157" /></p>
+<p>It&#8217;s a trial and error process, but thanks to magical <span style="color: #33cccc;"><a style="color: #33cccc;" href="http://www.zklogan.net/" target="_blank">Zoe Logan</a></span>, I learned different pliers and jigs to make proper(at least better than free style) steel wheel. The whole journey is a little bit pain in the ass, but the result is satisfying. Beside boosting my stamina with heavy laboring, I&#8217;m glad the efforts somehow accumulating into something weird and terrifying looking.</p>
+<p>&nbsp;</p>
+<p>I learned a lot from this transforming 2d ideas into 3d physical form process: the pros and cons of wire bending compare to the thick steel connected by welding; the limit of series connection the wheels with knotted ropes; the necessity of middleware of two big wheels to increase the tension.</p>
+
+<p>&nbsp;</p>
+<p><span style="font-family: 'Andale Mono', Times;"><strong>gamma version</strong></span></p>
+<p>Multiple motors to fully construct the node system of brain on all the faces. Pill the paper off the acrylic sheets so it&#8217;d be totally transparent. Could have multiple hand crank nodes as well so it will become a cooperative <em><span style="font-family: Georgia, Palatino;">&#8220;thinking&#8221;</span></em> system.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/brain_idea.png"><img loading="lazy" class="alignnone size-full wp-image-1967" src="http://www.jhclaura.com/wp-content/uploads/2015/01/brain_idea.png" alt="brain_idea" width="400" height="667" /></a></p>
+<p>&nbsp;</p>
+<p><span style="font-family: 'Andale Mono', Times;"><strong>Related posts</strong></span></p>
+<p><span style="color: #33cccc;"><a style="color: #33cccc;" title="{ Brain } – Automata Final" href="http://www.jhclaura.com/brain-automata-final/" target="_blank">Concept Sketch</a></span>, <span style="color: #33cccc;"><a style="color: #33cccc;" title="{ Brain } – process of painfully crafting your idea" href="http://www.jhclaura.com/brain-process-of-painfully-crafting-your-idea/" target="_blank">Process of Making</a></span>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/01/25/brain-_-beta-version/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>DigiFab_Hello Vectorworks</title>
+		<link>/2014/09/11/digifab_hello-vectorworks/</link>
+					<comments>/2014/09/11/digifab_hello-vectorworks/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2014 14:07:33 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Design for Digital Fabrication]]></category>
+		<category><![CDATA[CAD]]></category>
+		<category><![CDATA[first time]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1562</guid>
+
+					<description><![CDATA[And goodbye T_T Couldn&#8217;t get in the class because no one dropped. Here&#8217;s the first CAD drawing and hope I&#8217;ll make more in the future :))]]></description>
+										<content:encoded><![CDATA[<p>And goodbye T_T</p>
+<p>Couldn&#8217;t get in the class because no one dropped. Here&#8217;s the first CAD drawing and hope I&#8217;ll make more in the future :))</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/10682324_10152384379852993_4082094929920652538_o.jpg"><img loading="lazy" class="alignnone size-full wp-image-1603" src="http://www.jhclaura.com/wp-content/uploads/2014/09/10682324_10152384379852993_4082094929920652538_o.jpg" alt="10682324_10152384379852993_4082094929920652538_o" width="1432" height="806" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/09/11/digifab_hello-vectorworks/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Thoughts about Fungus(update)</title>
+		<link>/2014/01/25/thoughts-about-fungi/</link>
+					<comments>/2014/01/25/thoughts-about-fungi/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sat, 25 Jan 2014 22:09:08 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fungus Among Us]]></category>
+		<category><![CDATA[first time]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[social]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=774</guid>
+
+					<description><![CDATA[This semester I&#8217;m taking class of &#8220;Fungus Among Us&#8221;, and I&#8217;ve found some aspects of fungus I&#8217;m particular interested about, and would love to develop project based on them: Gift to Gross Out People Every time I google &#8220;fungus&#8221;, I can always have some valuable &#8220;wtf&#8221; moments, and I think it&#8217;s an amazing power deserved [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="wp-image-778 alignnone" alt="doodle" src="http://www.jhclaura.com/wp-content/uploads/2014/01/doodle-1024x785.jpeg" width="1024" height="785" srcset="/wp-content/uploads/2014/01/doodle-1024x785.jpeg 1024w, /wp-content/uploads/2014/01/doodle-300x230.jpeg 300w, /wp-content/uploads/2014/01/doodle.jpeg 1997w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>This semester I&#8217;m taking class of &#8220;Fungus Among Us&#8221;, and I&#8217;ve found some aspects of fungus I&#8217;m particular interested about, and would love to develop project based on them:</p>
+<p><strong style="font-family: sans-serif; font-size: medium; font-style: normal; font-variant: normal; line-height: normal;">Gift to Gross Out People</strong></p>
+<p style="padding-left: 30px;">Every time I google &#8220;fungus&#8221;, I can always have some valuable &#8220;wtf&#8221; moments, and I think it&#8217;s an amazing power deserved to be explored. Is it because fungus usually comes along with rotten, dead stuff and thus build up the association? Are we scared of its decomposing ability because it makes us relate to our future death? I&#8217;m interested in how we can do this kind of power of horror.</p>
+<p><strong style="font-family: sans-serif; font-size: medium; font-style: normal; font-variant: normal; line-height: normal;">Super Adaptive Behavior</strong></p>
+<p style="padding-left: 30px;">Fungus grows and prospers anywhere it lands. I&#8217;d love to grow them on different materials and different locations, and see how different the fungus will be. After that, I plan to gather those fungi together and see how their information/consciousness network work. Will they merge into each other and become a new kind of fungus?</p>
+<p><strong style="font-family: sans-serif; font-size: medium; font-style: normal; font-variant: normal; line-height: normal;">Peculiar Round Shape</strong></p>
+<p style="padding-left: 30px;">Fungus usually has circular shape because it grows by spreading out in all directions from a central point, where the original spore germinates. It&#8217;s an interesting feature I&#8217;d love to try with computer vision. The different looks of Pileus and there different functions can be inspirations for interactive devices too.</p>
+<p>&nbsp;</p>
+<p>So, for the possible future <em><span style="color: #000000;">project</span></em>, I would either</p>
+<ol>
+<li>try to grow fungus into terrifying one, as <strong>horrible</strong> as it can be, and see how the power of horrors can be apply to<span style="color: #99cc00;">(psychology aspect)</span>, or</li>
+<li>grow same fungus in different environments and see how people&#8217;s affect them, and after that see what they will <strong>communicate</strong> with each other by meshing up, and it might somehow representing the meshing up behaviors of people&#8217;s<span style="color: #99cc00;">(communication/network aspect)</span>? Or</li>
+<li>explore more about the structure and function of different shape of Pileus and see how it can be applied to enhance the communication/interaction among people as a <strong>wearable device</strong><span style="color: #99cc00;">(pcomp project)</span>.</li>
+</ol>
+<p>&nbsp;</p>
+<p><em>responds</em> to <a href="http://itp.nyu.edu/renatured/texts/formandfungus.pdf" target="_blank">Form And Fungus</a>, <a href="http://itp.nyu.edu/classes/fungus/txts/stamets_magic_mushrooms.pdf" target="_blank">Magic of Mushrooms</a>, <a href="http://www.ted.com/talks/paul_stamets_on_6_ways_mushrooms_can_save_the_world.html" target="_blank">Paul Stamets&#8217;s TED talk</a></p>
+<p><em>website</em> <a href="http://philross.org/" target="_blank">philross</a></p>
+<p><em>sources</em> <a href="http://www.greenmedinfo.com/blog/are-fungi-earths-natural-internet" target="_blank">are-fungi-earths-natural-internet</a>, <a href="http://everydaylife.globalpost.com/role-fungi-play-food-chains-38357.html" target="_blank">what role do fungi play in food chain</a>,</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/01/25/thoughts-about-fungi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5-in-5_Day2_Moving Eye</title>
+		<link>/2014/01/23/5-in-5_day2_moving-eye/</link>
+					<comments>/2014/01/23/5-in-5_day2_moving-eye/#comments</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2014 08:54:04 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[CommLab Web]]></category>
+		<category><![CDATA[5-in-5]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[first time]]></category>
+		<category><![CDATA[javascript]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=749</guid>
+
+					<description><![CDATA[(click pic to play! Using keyboard&#8217;s ↑ ↓ ← →) JavaScript, first time! Nearly die&#8230;. I think I&#8217;m too used to Java/C++ syntax and too greedy/ambitious to try to do projects with JS&#8230; I spent whole afternoon searching on internet, and although I did found some awesome source codes, they just simply blown my mind. SO [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://jhclaura.com/js/imgMove/index4.html"><img loading="lazy" class="wp-image-750 alignnone" alt="eyes" src="http://www.jhclaura.com/wp-content/uploads/2014/01/eyes.jpg" width="1000" height="681" srcset="/wp-content/uploads/2014/01/eyes.jpg 1000w, /wp-content/uploads/2014/01/eyes-300x204.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p>
+<p style="text-align: center;"><strong>(click <span style="color: #999999;">pic</span> to play! Using keyboard&#8217;s </strong>↑ ↓ ← →<strong>)</strong></p>
+<p style="text-align: left;">JavaScript, first time! Nearly die&#8230;. I think I&#8217;m too used to Java/C++ syntax and too greedy/ambitious to try to do projects with JS&#8230; I spent whole afternoon searching on internet, and although I did found some awesome source codes, they just simply blown my mind. SO FOREIGN.</p>
+<p style="text-align: left;">Thanks to <a href="http://andysigler.com/" target="_blank">Andy</a>&#8216;s suggestion, I narrowed down my goal to make a simple bouncing image in window. And it worked! After kind of (really just kind of) understanding JavaScript&#8217;s syntax and structure, I added extra functions: auto-moving and controlled by arrow keys at same time, and speed up/slow down feature.</p>
+<p style="text-align: left;">Below are some of the resources I found:</p>
+<ul>
+<li><a href="http://jstherightway.org/" target="_blank">http://jstherightway.org/</a> &lt;&#8211; suggested by <a href="https://vimeo.com/mackhowell" target="_blank">Mack</a> <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li><a href="http://www.html5gamedevelopment.com/html5-game-tutorials" target="_blank">http://www.html5gamedevelopment.com/html5-game-tutorials</a></li>
+<li><a href="http://javascriptissexy.com/how-to-learn-javascript-properly/" target="_blank">http://javascriptissexy.com/how-to-learn-javascript-properly/</a></li>
+<li><a href="http://javascriptissexy.com/how-to-learn-javascript-properly/" target="_blank">http://www.reddit.com/r/learnjavascript/comments/1ceefw/learn_javascript_properly_omnibus_post/</a></li>
+<li><a href="http://dev.tutsplus.com/articles/learn-html5-with-this-simple-avoider-game-tutorial--active-9653" target="_blank">http://dev.tutsplus.com/articles/learn-html5-with-this-simple-avoider-game-tutorial&#8211;active-9653</a></li>
+<li><a href="http://cssdeck.com/post/64/codecast-courses" target="_blank">http://cssdeck.com/post/64/codecast-courses</a></li>
+<li>&#8230;&#8230;too many</li>
+</ul>
+<p>I know right? Crazy.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/01/23/5-in-5_day2_moving-eye/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>circuits &#8211; ITP Days</title>
+	<atom:link href="/tag/circuits/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Fri, 06 Feb 2015 03:04:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>circuits &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ledEYE &#8211; surface mount circuits</title>
+		<link>/2015/02/05/ledeye-surface-mount-circuits-design/</link>
+					<comments>/2015/02/05/ledeye-surface-mount-circuits-design/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2015 03:04:22 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Circuit Design and Prototyping]]></category>
+		<category><![CDATA[circuits]]></category>
+		<category><![CDATA[Eagle]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=2005</guid>
+
+					<description><![CDATA[It&#8217;s an eye, or a tadpole with a lot of legs. &#160;]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s an eye, or a tadpole with a lot of legs.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-7.54.52-PM.png"><img loading="lazy" class="alignnone size-full wp-image-2007" src="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-7.54.52-PM.png" alt="Screen Shot 2015-02-05 at 7.54.52 PM" width="1043" height="579" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-7.54.04-PM.png"><img loading="lazy" class="alignnone size-full wp-image-2006" src="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-7.54.04-PM.png" alt="Screen Shot 2015-02-05 at 7.54.04 PM" width="1000" height="557" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/02/05/ledeye-surface-mount-circuits-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>{ Flash } &#8211; An unfinished music instrument in Summer 14&#8242;</title>
+		<link>/2015/01/29/flash-_-an-unfinished-music-instrument-in-summer-14/</link>
+					<comments>/2015/01/29/flash-_-an-unfinished-music-instrument-in-summer-14/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 30 Jan 2015 04:42:41 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Summer 2014]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[circuits]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[unfinished]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1978</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/2014-09-10-07.58.27.jpg"><img loading="lazy" class="alignnone size-large wp-image-1980" src="http://www.jhclaura.com/wp-content/uploads/2015/01/2014-09-10-07.58.27-1024x765.jpg" alt="2014-09-10 07.58.27" width="1024" height="765" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/board.jpg"><img loading="lazy" class="alignnone size-large wp-image-1981" src="http://www.jhclaura.com/wp-content/uploads/2015/01/board-1024x576.jpg" alt="board" width="1024" height="576" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/01/flashes.jpg"><img loading="lazy" class="alignnone size-large wp-image-1982" src="http://www.jhclaura.com/wp-content/uploads/2015/01/flashes-1024x614.jpg" alt="flashes" width="1024" height="614" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/01/29/flash-_-an-unfinished-music-instrument-in-summer-14/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>555 transistor to flash LED!</title>
+		<link>/2014/02/22/555-transistor-to-flash-led/</link>
+					<comments>/2014/02/22/555-transistor-to-flash-led/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sat, 22 Feb 2014 15:16:06 +0000</pubDate>
+				<category><![CDATA[Basic Analog Circuits]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[circuits]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<category><![CDATA[pure electronic]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1127</guid>
+
+					<description><![CDATA[Flash the LED without Arduino. Pure electrons flow between resistors, capacitors, diodes, and 555 transistor. Feeling gradually getting more well along with electronic schematic. Love the class and teacher Eric! Proof below.]]></description>
+										<content:encoded><![CDATA[<p><img style="border-style: none; height: 467px; width: 605px;" alt="" src="http://www.basicanalogcircuits.com/Session_4_files/555_LED_Flasher.png" /></p>
+<p>Flash the LED <strong>without Arduino</strong>. Pure electrons flow between resistors, capacitors, diodes, and 555 transistor. Feeling gradually getting more well along with electronic schematic. Love the <a href="http://www.basicanalogcircuits.com/Syllabus.html" target="_blank"><strong>class</strong></a> and teacher Eric!</p>
+<p>Proof below.</p>
+<p><iframe loading="lazy" src="//player.vimeo.com/video/87334047?byline=0&amp;color=c9ff23" height="394" width="700" allowfullscreen="" frameborder="0"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/22/555-transistor-to-flash-led/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

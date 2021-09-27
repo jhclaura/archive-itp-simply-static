@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eagle &#8211; ITP Days</title>
+	<atom:link href="/tag/eagle/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Thu, 09 Apr 2015 18:02:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>Eagle &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>muscle sensor schematics</title>
+		<link>/2015/04/09/muscle-sensor-schematics/</link>
+					<comments>/2015/04/09/muscle-sensor-schematics/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2015 18:02:31 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Circuit Design and Prototyping]]></category>
+		<category><![CDATA[Eagle]]></category>
+		<category><![CDATA[muscle sensor]]></category>
+		<category><![CDATA[schematics]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=2083</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone" src="https://lh4.googleusercontent.com/CeHbqpjQDX61GftVnSzkxulO8BocvcFOJ_URKLK5Bck=w958-h498-no" alt="" width="958" height="498" /></p>
+<p><img loading="lazy" class="alignnone" src="https://lh5.googleusercontent.com/rxgYev1eHeLfs6ujSKA4nggwDBe-kJFSERg7XNV9NPI=w752-h501-no" alt="" width="752" height="501" /></p>
+<p><img loading="lazy" class="alignnone" src="https://lh6.googleusercontent.com/iKzUEqQQByfEDSFTWvn5BCoErWq57p6kfYLqzeS60f4=w894-h596-no" alt="" width="894" height="596" /></p>
+<p><img loading="lazy" class="alignnone" src="https://lh6.googleusercontent.com/Cw7DRCsdVEKMflvuYWhL3aLSFuohBg36WUWOxWP7cRE=w795-h596-no" alt="" width="795" height="596" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/04/09/muscle-sensor-schematics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ledEYE &#8211; surface mount circuits</title>
+		<link>/2015/02/05/ledeye-surface-mount-circuits-design/</link>
+					<comments>/2015/02/05/ledeye-surface-mount-circuits-design/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2015 03:04:22 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Circuit Design and Prototyping]]></category>
+		<category><![CDATA[circuits]]></category>
+		<category><![CDATA[Eagle]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=2005</guid>
+
+					<description><![CDATA[It&#8217;s an eye, or a tadpole with a lot of legs. &#160;]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s an eye, or a tadpole with a lot of legs.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-7.54.52-PM.png"><img loading="lazy" class="alignnone size-full wp-image-2007" src="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-7.54.52-PM.png" alt="Screen Shot 2015-02-05 at 7.54.52 PM" width="1043" height="579" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-7.54.04-PM.png"><img loading="lazy" class="alignnone size-full wp-image-2006" src="http://www.jhclaura.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-7.54.04-PM.png" alt="Screen Shot 2015-02-05 at 7.54.04 PM" width="1000" height="557" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/02/05/ledeye-surface-mount-circuits-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

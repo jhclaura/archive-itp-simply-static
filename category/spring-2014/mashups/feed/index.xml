@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mashups Web APIs &#8211; ITP Days</title>
+	<atom:link href="/category/spring-2014/mashups/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Tue, 27 May 2014 18:44:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>Mashups Web APIs &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>{Tune In, Tune Out}</title>
+		<link>/2014/05/27/tune-in-tune-out/</link>
+					<comments>/2014/05/27/tune-in-tune-out/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Tue, 27 May 2014 18:44:19 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Mashups Web APIs]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1507</guid>
+
+					<description><![CDATA[For the final of Mash-up class, Jeff Ong and I teamed up and made &#8220;Tune In, Tune Out&#8221;. It&#8217;s a webite uses your computer&#8217;s on-board microphone, listens to the surrounding environmental sound, and translates it into a musical landscape. An accompanying visualization appears on-screen, along with options to change the musical fundamentals (key, scale, mode) [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/05/Screen-Shot-2014-05-27-at-2.34.35-PM.png"><img loading="lazy" class="alignnone size-full wp-image-1509" src="http://www.jhclaura.com/wp-content/uploads/2014/05/Screen-Shot-2014-05-27-at-2.34.35-PM.png" alt="Screen Shot 2014-05-27 at 2.34.35 PM" width="1500" height="765" /></a></p>
+<p>For the final of Mash-up class, <a href="https://jffng.com/" target="_blank">Jeff Ong</a> and I teamed up and made &#8220;Tune In, Tune Out&#8221;. It&#8217;s a webite uses your computer&#8217;s on-board microphone, listens to the surrounding environmental sound, and translates it into a musical landscape.</p>
+<p>An accompanying visualization appears on-screen, along with options to change the musical fundamentals (key, scale, mode) of the sounds. Build with Web Audio API and Tone.js for audio, and Three.js for visual.</p>
+<p>We started idea of filtering out the &#8220;sound of the sound&#8221;. So much effort and energy has gone into our attempts to &#8220;escape&#8221; our immediate sonic environment: conversations, distracting noises, and try to drown out the surrounding chaos.</p>
+<p>There&#8217;s no denying the need to focus, and there&#8217;s also no shortage of aural distractions, especially living in urban areas. &#8220;Tune In, Tune Out&#8221; offers an alternative to the music and tools we use to tune out the noise around us, channeling that very noise into a sonic landscape.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/05/The_eight_musical_modes.png"><img loading="lazy" class="alignnone size-full wp-image-1508" src="http://www.jhclaura.com/wp-content/uploads/2014/05/The_eight_musical_modes.png" alt="The_eight_musical_modes" width="1500" height="386" /></a></p>
+<p>An additional project inspiration and goal is to build some basic tools around making it easier to use music theory concepts in tandem with data representation. There are different types of <strong>Key</strong>, <strong>Mode</strong>, <strong>Scale</strong>, and <strong>Sound Wave</strong> to choose from. Thank <a href="http://www.ambientisotopy.com/" target="_blank">Aaron Arntz</a> for the music theory Fly by!</p>
+<p><a href="https://github.com/jffng/tune-in-tune-out" target="_blank">GitHub</a> here.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/05/27/tune-in-tune-out/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>css update: Healthy Movie Night</title>
+		<link>/2014/03/23/css-update-healthy-movie-night/</link>
+					<comments>/2014/03/23/css-update-healthy-movie-night/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 23 Mar 2014 13:22:14 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Mashups Web APIs]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[update]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1351</guid>
+
+					<description><![CDATA[One page web-fantasy UPDATE! GO PLAY. Type in the movie you&#8217;re going to see. Type in the food you&#8217;re going to eat. Choose which exercise you&#8217;re going to take. Type in your weight, in kg or lbs. Base on the duration of movie, the calories of the food, the amount of calories born in certain [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>One page web-fantasy UPDATE! <span style="font-size: large;"><strong><a href="http://jhclaura.com/meshup/HealthyMovieNight/index.html" target="_blank">GO PLAY</a></strong></span>.</p>
+<ol>
+<li>Type in the <span style="font-family: 'Andale Mono', Times; color: #00ccff;"><strong>movie</strong></span> you&#8217;re going to see.</li>
+<li>Type in the <span style="color: #00ccff;"><strong><span style="font-family: 'Andale Mono', Times;">food</span></strong></span> you&#8217;re going to eat.</li>
+<li>Choose which <span style="font-family: 'Andale Mono', Times; color: #00ccff;"><strong>exercise</strong></span> you&#8217;re going to take.</li>
+<li>Type in your <span style="font-family: 'Andale Mono', Times; color: #00ccff;"><strong>weight</strong></span>, in kg or lbs.</li>
+<li>Base on the <em>duration</em> of movie, the <em>calories</em> of the food, the amount of calories born in certain exercise, and your <em>weights</em>, Healthy Movie Night gives you back <span style="color: #00ccff; font-size: medium;">how much food you can eat without worrying gaining any weights</span>!</li>
+</ol>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-23-at-9.03.15-AM.png"><img loading="lazy" class="alignnone size-full wp-image-1352" alt="Screen Shot 2014-03-23 at 9.03.15 AM" src="http://www.jhclaura.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-23-at-9.03.15-AM.png" width="1000" height="506" /></a></p>
+<p>&nbsp;</p>
+<p>e.g. <em>&#8220;The Grand Budapest Hotel&#8221;</em>, pizza, Jog in Water, 51kg.<br />
+<a href="http://www.jhclaura.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-23-at-9.03.49-AM.png"><img loading="lazy" class="alignnone size-large wp-image-1353" alt="Screen Shot 2014-03-23 at 9.03.49 AM" src="http://www.jhclaura.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-23-at-9.03.49-AM.png" width="1000" height="509" /></a></p>
+<p>&nbsp;</p>
+<p>e.g. &#8220;Wanted&#8221;, spaghetti,  fishing, 51kg.<br />
+<a href="http://www.jhclaura.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-23-at-9.05.09-AM.png"><img loading="lazy" class="alignnone size-large wp-image-1354" alt="Screen Shot 2014-03-23 at 9.05.09 AM" src="http://www.jhclaura.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-23-at-9.05.09-AM.png" width="1000" height="511" /></a></p>
+<p>&nbsp;</p>
+<p>e.g. &#8220;Alice in Wonderland&#8221;, cake, Ballet, 51kg.<br />
+<a href="http://www.jhclaura.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-23-at-9.05.51-AM.png"><img loading="lazy" class="alignnone size-large wp-image-1355" alt="Screen Shot 2014-03-23 at 9.05.51 AM" src="http://www.jhclaura.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-23-at-9.05.51-AM.png" width="1000" height="511" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/03/23/css-update-healthy-movie-night/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HealthyMovieNight</title>
+		<link>/2014/03/02/healthymovienight/</link>
+					<comments>/2014/03/02/healthymovienight/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 02 Mar 2014 19:57:29 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Mashups Web APIs]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[life]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1161</guid>
+
+					<description><![CDATA[(click pic to enter) Idea: choose your movie choose your food give me your weight movie length * calories burn by exercising per min = calories of food in certain amount you have. Issues: hard to find regular food calories API right now just use the first item in the array pizza has no serving [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h1><a href="http://jhclaura.com/meshup/HealthyMovieNight/index.html"><img loading="lazy" class="alignnone size-large wp-image-1149" alt="Eat wo Quilt" src="http://www.jhclaura.com/wp-content/uploads/2014/02/Eat-wo-Quilt-689x1024.jpg" width="689" height="1024" /></a></h1>
+<h2><strong><span style="color: #07f7d5;">(click pic to enter)</span></strong></h2>
+<p>Idea:</p>
+<ol>
+<li>choose your movie</li>
+<li>choose your food</li>
+<li>give me your weight</li>
+<li>movie length * calories burn by exercising per min = calories of food in certain amount you have.</li>
+</ol>
+<p>Issues:</p>
+<ol>
+<li>hard to find regular food calories API
+<ul>
+<li>right now just use the first item in the array</li>
+</ul>
+</li>
+<li>pizza has no serving size unit(null)</li>
+<li>id &#8211;&gt; name</li>
+</ol>
+<p>API:</p>
+<ol>
+<li><a href="http://docs.themoviedb.apiary.io/" target="_blank">The Movie Database API</a></li>
+<li><a href="https://developer.nutritionix.com/" target="_blank">Nutritionix</a></li>
+</ol>
+<p>Source:</p>
+<ul>
+<li><a href="http://www.nutristrategy.com/activitylist4.htm" target="_blank">Calories Burned During Exercise by NutriStrategy</a></li>
+</ul>
+<p>&nbsp;</p>
+<p>html</p>
+<pre class="brush: html; gutter: true">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;meta charset=&quot;utf-8&quot;/&gt;
+		&lt;title&gt; FanGuide &lt;/title&gt;
+		&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;style.css&quot;/&gt;
+
+		&lt;script type=&quot;text/javascript&quot; src=&quot;http://code.jquery.com/jquery-2.0.3.min.js&quot;&gt;&lt;/script&gt;
+		&lt;script type=&quot;text/javascript&quot; src=&quot;http://underscorejs.org/underscore-min.js&quot;&gt;&lt;/script&gt;
+
+	&lt;/head&gt;
+	&lt;body&gt;
+		&lt;p&gt;The Movie Tonight
+		&lt;input id=&quot;movie&quot; type=&quot;text&quot;/&gt;&lt;/p&gt;
+		&lt;p&gt;The Food Tonight
+		&lt;input id=&quot;food&quot; type=&quot;text&quot;/&gt;&lt;/p&gt;
+		&lt;p&gt;Feel Like
+		&lt;button id=&quot;saw&quot;&gt;Forestry&lt;/button&gt; 
+		&lt;button id=&quot;fish&quot;&gt;Fishing&lt;/button&gt;
+		&lt;button id=&quot;dance&quot;&gt;Ballet&lt;/button&gt;
+		&lt;button id=&quot;jog&quot;&gt;Water Jogging&lt;/button&gt;
+		Tonight&lt;/p&gt;
+		&lt;p&gt;Your Weight
+		&lt;input id=&quot;weight&quot; type=&quot;text&quot;/&gt;
+		&lt;button id=&quot;kgButton&quot;&gt;kg&lt;/button&gt;
+		&lt;button id=&quot;lbsButton&quot;&gt;lbs&lt;/button&gt;
+		&lt;/p&gt;
+
+		&lt;button id=&quot;searchButton&quot;&gt;Search&lt;/button&gt;
+		&lt;!-- &lt;button onClick=&quot;getFoodData();return false;&quot;&gt;ARMS Surveys&lt;/button&gt;
+		&lt;div id=&quot;divResultARMS&quot;&gt;&lt;/div&gt; --&gt;
+		&lt;!-- &lt;button id=&quot;update&quot;&gt;UPDATE&lt;/button&gt; --&gt;
+		&lt;div id=&quot;articles&quot;&gt;&lt;/div&gt;
+		&lt;div id=&quot;articles2&quot;&gt;&lt;/div&gt;
+
+	&lt;/body&gt;
+		&lt;script type=&quot;text/javascript&quot; src=&quot;script_new.js&quot;&gt;&lt;/script&gt;
+&lt;/html&gt;</pre>
+<p>js</p>
+<pre class="brush: javascript; gutter: true">var idMovie;
+var movieTitle;
+var duration;
+
+var idFood;
+var nameFood;
+var calories;
+var servingSize;
+var servingSizeUnit;
+
+var weightUnit;
+var exerciseType;	// int
+var exerciseTypeText;
+var caloriesExercise;
+
+var caloriesBurnAfterExersice;
+var amountToEat;
+
+var base_url = &quot;http://image.tmdb.org/t/p/w500&quot;;
+
+function getDuration(){
+	var url = &#039;https://api.themoviedb.org/3/&#039;,
+		mode = &#039;movie/&#039;,
+		key = &#039;?api_key=YourKey&#039;;
+
+	$.ajax({
+		url: url + mode + idMovie + key,
+		dataType: &#039;jsonp&#039;,
+		success: function(data){
+			console.log(data);
+			console.log(&quot;&lt;img srt=&quot;&quot; + base_url + data.backdrop_path + &quot;&quot;&gt;&quot;);
+
+			movieTitle = data.original_title;
+
+			duration = data.runtime;
+			$(&#039;#articles&#039;).append(&quot;&lt;div class=&#039;articleBox&#039;&gt;&quot;);
+			//$(&#039;#articles&#039;).append(&quot;&lt;p&gt;&quot; + movieTitle + &quot;&#039;s runtime: &quot; + duration +&quot;min&quot; + &quot;&lt;/p&gt;&quot;);
+			//$(&#039;#articles&#039;).append(&quot;&lt;img src=&quot;&quot; + base_url + data.backdrop_path + &quot;&quot;&gt;&quot;);
+			$(&#039;#articles&#039;).append(&quot;&lt;/div&gt;&quot;);
+
+			$(&#039;#articles&#039;).css({
+				&quot;color&quot;: &quot;white&quot;
+			});
+
+			$(&#039;body&#039;).css({
+				&quot;background-image&quot;: &quot;url(&quot;&quot; + base_url + data.backdrop_path + &quot;&quot;)&quot;,
+				&quot;color&quot;: &quot;white&quot;
+			});
+			getFoodID();
+		}
+	});
+
+}
+
+function getFoodID(){
+	var url = &#039;https://api.nutritionix.com/v1_1/&#039;,
+		search = &#039;search/&#039;,
+		appId = &#039;&amp;appId=YourId&#039;,
+		appKey = &#039;&amp;appKey=YourKey&#039;,
+		setUp = &#039;results=0%3A10&amp;cal_min=0&amp;cal_max=50000&amp;fields=item_name%2Cbrand_name%2Citem_id%2Cbrand_id&#039;;
+
+	var input = $(&#039;#food&#039;).val(),
+		foodName = encodeURI(input);
+
+	$.ajax({
+		url: url + search + foodName + &#039;?&#039; + setUp + appId + appKey,
+		dataType: &#039;json&#039;,
+
+		error: function(data){
+			console.log(&quot;Something wrong!&quot;);
+		},
+		success: function(data){
+			console.log(data);
+
+			idFood = data.hits[0]._id;
+			nameFood = data.hits[0].fields.brand_name + &quot;&#039;s &quot; + data.hits[0].fields.item_name;
+
+			console.log(idFood + nameFood);
+
+			getNutrition();
+		}
+	});
+
+}
+
+function getNutrition(){
+	var url = &#039;https://api.nutritionix.com/v1_1/&#039;,
+		item = &#039;item?&#039;,
+		appId = &#039;&amp;appId=YourId&#039;,
+		appKey = &#039;&amp;appKey=YourKey&#039;;
+
+	// nutrition search
+	$.ajax({
+		url: url + item + &#039;id=&#039; + idFood + appId + appKey,
+		dataType: &#039;json&#039;,
+
+		error: function(data){
+			console.log(&quot;Something wrong!&quot;);
+		},
+		success: function(data){
+			console.log(data);
+
+			// calories = data.nf_calories;
+			// servingSize = data.nf_serving_size_qty;
+			if(data.nf_serving_size_unit !== null){
+				servingSizeUnit = data.nf_serving_size_unit;
+			}
+
+			if(data.nf_serving_size_qty !== null){
+				calories = data.nf_calories / data.nf_serving_size_qty;
+			} else {
+				calories = data.nf_calories;
+			}
+
+			$(&#039;#articles&#039;).append(&quot;&lt;div class=&#039;articleBox&#039;&gt;&quot;);
+			//$(&#039;#articles&#039;).append(&quot;&lt;p&gt;&quot; + nameFood + &quot;&#039;s calories: &quot; + calories + &quot; per 1 &quot; + servingSizeUnit + &quot;&lt;/p&gt;&quot;);
+			$(&#039;#articles&#039;).append(&quot;&lt;/div&gt;&quot;);
+
+			calculateEat();
+		}
+	});
+}
+
+function caloriesSetUp(){
+
+	$(&#039;#jog&#039;).click(function(){
+		exerciseType = 363;
+		exerciseTypeText = &quot;jog in water&quot;;
+	});
+
+	$(&#039;#saw&#039;).click(function(){
+		exerciseType = 318;
+		exerciseTypeText = &quot;saw trees&quot;;
+	});
+
+	$(&#039;#fish&#039;).click(function(){
+		exerciseType = 114;
+		exerciseTypeText = &quot;fish&quot;;
+	});
+
+	$(&#039;#dance&#039;).click(function(){
+		exerciseType = 205;
+		exerciseTypeText = &quot;dance ballet&quot;;
+	});
+
+	// unit set-up
+	$(&#039;#kgButton&#039;).click(function(){
+		weightUnit = &quot;kg&quot;;
+	});
+
+	$(&#039;#lbsButton&#039;).click(function(){
+		weightUnit = &quot;lbs&quot;;
+	});
+
+}
+
+function caloriesBurn(){
+
+	var input = $(&#039;#weight&#039;).val();
+	if (weightUnit == &quot;lbs&quot;) {
+		caloriesExercise = exerciseType / 100 * input;
+	} else {
+		caloriesExercise = exerciseType / 100 * (input*2.20462);
+	}
+
+	return caloriesExercise;
+}
+
+function calculateEat(){
+
+	caloriesBurn();
+
+	// how many calories it will burn after exercising
+	caloriesBurnAfterExersice = caloriesExercise / 60 * duration;
+
+	// for certain calories, how many I can eat(per 1 serving size)
+	amountToEat = caloriesBurnAfterExersice / calories;
+	amountToEat = Math.round( amountToEat *10)/10;
+
+	console.log(amountToEat);
+
+	$(&#039;#articles2&#039;).append(&quot;&lt;div class=&#039;articleBox&#039;&gt;&quot;);
+	if(servingSizeUnit !== null){
+		$(&#039;#articles2&#039;).append(&quot;&lt;p&gt;During &quot; + movieTitle + &quot;, if you &quot; + exerciseTypeText + &quot; all the way through it, you can eat &quot; + amountToEat + &quot; &quot; + servingSizeUnit + &quot; of &quot; + nameFood + &quot; without worrying gaining any weights!&lt;/p&gt;&quot;);
+	} else {
+		$(&#039;#articles2&#039;).append(&quot;&lt;p&gt;During &quot; + movieTitle + &quot;, if you &quot; + exerciseTypeText + &quot; all the way through it, you can eat &quot; + amountToEat + &quot; &quot; + nameFood + &quot; without worrying gaining any weights!&lt;/p&gt;&quot;);
+	}
+	$(&#039;#articles2&#039;).append(&quot;&lt;p&gt;Calories burnnnnnn.&lt;/p&gt;&quot;);
+	// $(&#039;#articles&#039;).append(&quot;&lt;img src=&quot;&quot; + base_url + data.backdrop_path + &quot;&quot;&gt;&quot;);
+	$(&#039;#articles2&#039;).append(&quot;&lt;/div&gt;&quot;);
+}
+
+$(document).ready(function(){
+	var url = &#039;https://api.themoviedb.org/3/&#039;,
+		mode = &#039;search/movie&#039;,
+		input,
+		movieName,
+		//var url = &quot;https://api.themoviedb.org/3/movie/550?api_key=&quot;;
+		key = &#039;?api_key=YourKey&#039;;
+
+	caloriesSetUp();
+
+	$(&#039;#searchButton&#039;).click(function(){
+		var input = $(&#039;#movie&#039;).val(),
+			movieName = encodeURI(input);
+
+		$.ajax({
+			url: url + mode + key + &#039;&amp;query=&#039; + movieName,
+			dataType: &#039;jsonp&#039;,
+			success: function(data){
+				console.log(data);
+
+				idMovie = data.results[0].id;
+
+				getDuration();
+
+			}
+		});
+
+	});
+
+});</pre>
+<p>css</p>
+<pre class="brush: css; gutter: true">.searchButton{
+	width: 100px;
+	height: 50px;
+	text-align: center
+}
+
+.articles {
+	text-align: center;
+
+}</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/03/02/healthymovienight/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Eat w/o Quilt.</title>
+		<link>/2014/02/24/eat-wo-quilt/</link>
+					<comments>/2014/02/24/eat-wo-quilt/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2014 03:32:25 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Mashups Web APIs]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[idea]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1147</guid>
+
+					<description><![CDATA[Happy Movie Night Woohoo! Let&#8217;s enjoy the lovely film with your nom nom food, without quilt. Type in the movie you want to watch. Type in the food you want to eat. Choose the workout you want to do. BANG. Just have the exact portion you get from website, and enjoy the film without even noticing you&#8217;re [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Happy Movie Night Woohoo! Let&#8217;s enjoy the lovely film with your nom nom food, <strong>without quilt</strong>.</p>
+<p>Type in the movie you want to watch. Type in the food you want to eat. Choose the workout you want to do.</p>
+<p>BANG. Just have the exact portion you get from website, and enjoy the film without even noticing you&#8217;re exercising.</p>
+<h1><a style="font-size: 14px; line-height: 1em;" href="http://www.jhclaura.com/wp-content/uploads/2014/02/Eat-wo-Quilt.jpg"><img loading="lazy" class="alignnone  wp-image-1149" alt="Eat wo Quilt" src="http://www.jhclaura.com/wp-content/uploads/2014/02/Eat-wo-Quilt-689x1024.jpg" width="516" height="768" /></a></h1>
+<p>&nbsp;</p>
+<p>API: <a href="https://developer.nutritionix.com/">Nutritionixn</a>, <a href="http://www.omdbapi.com/" target="_blank">OMDB</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/24/eat-wo-quilt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>webbbb {self_documentary}</title>
+		<link>/2014/02/16/webbbb-self_documentary/</link>
+					<comments>/2014/02/16/webbbb-self_documentary/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Sun, 16 Feb 2014 23:42:23 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[Mashups Web APIs]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[brain-squeezing]]></category>
+		<category><![CDATA[experiment]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[ohyay]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1091</guid>
+
+					<description><![CDATA[Ok pal, THIS is the absolutely non-sense web page about my super basic experiment about WEB. So -_-, so non-sense. But since the class is called &#8220;Meshups&#8221;, I guess it makes sense, kind of. &#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p>Ok pal, <a href="http://jhclaura.com/meshup/meshupSelfS/index.html" target="_blank"><span style="text-decoration: underline; color: #11eec1;"><strong>THIS</strong></span></a> is the absolutely non-sense web page about my super basic experiment about WEB.</p>
+<p>So -_-, so non-sense. But since the class is called &#8220;Meshups&#8221;, I guess it makes sense, kind of.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-1094" alt="baby" src="http://www.jhclaura.com/wp-content/uploads/2014/02/baby.gif" width="400" height="225" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/16/webbbb-self_documentary/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>answers to hw and hopely to project</title>
+		<link>/2014/02/13/answers-to-hw-and-hopely-to-project/</link>
+					<comments>/2014/02/13/answers-to-hw-and-hopely-to-project/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2014 19:37:24 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Mashups Web APIs]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1060</guid>
+
+					<description><![CDATA[Answer#1 var print = &#34;#&#34;; for(var i=0; i&#60;7; i++){ console.log(print); print += &#34;#&#34;; } Answer#2 for(var i=0; i&#60;100; i++){ if((i+1)%3==0 &#124;&#124; (i+1)%5==0){ console.log(&#34;FizzBuzz&#34;); } else { console.log(i+1); } } Answer#3 var size = 8; var print1 = &#34;#&#34;; var print2 = &#34; &#34;; var printFinal1 = &#34;&#34;; var printFinal2 = &#34;&#34;; for(var i=1; i&#60;size+1; i++){ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Answer#1</p>
+<pre class="brush: javascript; gutter: true">var print = &quot;#&quot;;
+for(var i=0; i&lt;7; i++){
+
+	console.log(print);
+	print += &quot;#&quot;;	
+}</pre>
+<p>Answer#2</p>
+<pre class="brush: javascript; gutter: true">for(var i=0; i&lt;100; i++){
+
+	if((i+1)%3==0 || (i+1)%5==0){
+		console.log(&quot;FizzBuzz&quot;);
+	} else {
+	console.log(i+1);
+	}
+}</pre>
+<p>Answer#3</p>
+<pre class="brush: javascript; gutter: true">var size = 8;
+var print1 = &quot;#&quot;;
+var print2 = &quot; &quot;;
+var printFinal1 = &quot;&quot;;
+var printFinal2 = &quot;&quot;;
+for(var i=1; i&lt;size+1; i++){
+	if (i%2==1){
+		printFinal1+=print1;
+		printFinal2+=print2;
+	}
+	else{
+		printFinal1+=print2;
+		printFinal2+=print1;
+	}
+}
+
+for(var i=0; i&lt;printFinal.length; i++){
+	if(i%2==0){
+		console.log(printFinal1);
+	} else {
+		console.log(printFinal2);
+	}
+}</pre>
+<p>Yeah hay.</p>
+<p>As for the project that</p>
+<blockquote><p>Create a single web page experience that, <span style="text-decoration: underline;">upon user input</span>, responds with data from<span style="text-decoration: underline;"> at least 2 web apis</span>. (1) a user needs to &#8220;trigger&#8221; an event, (2) data needs to be requested via AJAX from two APIs, (3) and the page should update appropriately.</p></blockquote>
+<p>I&#8217;m not sure yet&#8230; stiill tuning!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/13/answers-to-hw-and-hopely-to-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gif-Overload {Giphy API}</title>
+		<link>/2014/02/05/gif-overload-giphy-api/</link>
+					<comments>/2014/02/05/gif-overload-giphy-api/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2014 02:39:54 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[Mashups Web APIs]]></category>
+		<category><![CDATA[Spring 2014]]></category>
+		<category><![CDATA[cat]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[galaxy]]></category>
+		<category><![CDATA[gif]]></category>
+		<category><![CDATA[php]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=955</guid>
+
+					<description><![CDATA[Last semester, for my final project for Comm Lab: Web, I made an API meshup website LOST, using Youtube, TheCatAPI, Iheartquotes API. It&#8217;s interesting to see images animated in the stop-motion way, so I want to do more with GIFs first, and then later maybe develop into video with sound. For an assignment to build  single [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Last semester, for my final project for Comm Lab: Web, I made an API meshup website <a href="http://jhclaura.com/web_final/lost.php" target="_blank"><em>LOST</em></a>, using Youtube, <a href="http://thecatapi.com/docs.html#categories-list" target="_blank">TheCatAPI</a>, <a href="http://iheartquotes.com/api" target="_blank">Iheartquotes</a> API.</p>
+<div id="attachment_957" style="width: 736px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-957" loading="lazy" class="size-full wp-image-957" style="line-height: 1.5em;" alt="past1" src="http://www.jhclaura.com/wp-content/uploads/2014/02/past1.gif" width="726" height="370" /><p id="caption-attachment-957" class="wp-caption-text">LOST_homepage</p></div>
+<div id="attachment_956" style="width: 738px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-956" loading="lazy" class="size-full wp-image-956" alt="past2" src="http://www.jhclaura.com/wp-content/uploads/2014/02/past2.gif" width="728" height="368" /><p id="caption-attachment-956" class="wp-caption-text">LOST_&#8221;No, I&#8217;m not.&#8221; page</p></div>
+<p>It&#8217;s interesting to see images animated in the stop-motion way, so I want to do more with GIFs first, and then later maybe develop into video with sound. For an assignment to build  single web page that displays (some of) the data you found with some basic css styling, I found an API from <a href="http://giphy.com/" target="_blank">Giphy</a>, a animated GIFs search website. On the Github of Giphy, the API is well documented and has following functions: <span style="text-decoration: underline;">search, GIF by id, translate, random, trending</span>. And also, according to their Github,</p>
+<blockquote><p>The Giphy API implements a REST-like interface. Connections can be made with any HTTP enabled programming language. The Giphy API also implements <a href="http://en.wikipedia.org/wiki/Cross-origin_resource_sharing">CORS</a>, allowing you to connect to Giphy from JavaScript / Web browsers on your own domain.</p></blockquote>
+<p>To warm up my API-skill for new semester, I use search function, and give 3 choices: Cat, Grilled Cheese, and Coding to display 25 related GIFs from Giphy API, and also a reset button to display pure background. Unfortunately the search function gives you fixed searching result. Might need to twig the offset parameter&#8230; <a href="http://jhclaura.com/meshup/giffff.php" target="_blank">Check it out</a>!</p>
+<p style="text-align: center;"><a href="http://jhclaura.com/meshup/giffff.php"><img loading="lazy" class="size-full wp-image-960 aligncenter" alt="Screen Shot 2014-02-05 at 8.33.47 PM" src="http://www.jhclaura.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-05-at-8.33.47-PM.png" width="600" height="328" srcset="/wp-content/uploads/2014/02/Screen-Shot-2014-02-05-at-8.33.47-PM.png 600w, /wp-content/uploads/2014/02/Screen-Shot-2014-02-05-at-8.33.47-PM-300x164.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p style="text-align: center;">
+<p style="text-align: left;">And here are the codes.</p>
+<p style="text-align: left;">php file</p>
+<pre class="brush: php; gutter: true">&lt;!DOCTYPE HTML&gt;
+
+&lt;html&gt; 
+	&lt;head&gt;
+		&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;style.css&quot;&gt;
+		&lt;link href=&#039;http://fonts.googleapis.com/css?family=Reenie+Beanie&#039; rel=&#039;stylesheet&#039; type=&#039;text/css&#039;&gt;
+
+		&lt;title&gt;Giffff&lt;/title&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+	&lt;!-- white words--&gt;
+	&lt;h1&gt;Gif-Overload!&lt;/h1&gt;
+	&lt;!-- rainbow words --&gt;
+	&lt;!-- &lt;h1&gt;&lt;span class=&quot;rainbow&quot;&gt;Gif-Overload!&lt;/span&gt;&lt;/h1&gt; --&gt;
+	&lt;form align=&quot;center&quot; method=&quot;post&quot;&gt;
+    	&lt;div class=&quot;button&quot;&gt;
+        	&lt;button type=&quot;submit&quot; value=&quot;clear&quot; name=&quot;choice&quot;&gt; Reset &lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;
+
+	&lt;form align=&quot;left&quot; method=&quot;post&quot;&gt;
+    	&lt;div class=&quot;button1&quot;&gt;
+        	&lt;button type=&quot;submit&quot; value=&quot;cat&quot; name=&quot;choice&quot;&gt; Cat &lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;
+
+	&lt;form align=&quot;center&quot; method=&quot;post&quot;&gt;
+    	&lt;div class=&quot;button&quot;&gt;
+        	&lt;button type=&quot;submit&quot; value=&quot;grilled+cheese&quot; name=&quot;choice&quot;&gt; Grilled Cheese &lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;	
+
+	&lt;form align=&quot;right&quot; method=&quot;post&quot;&gt;
+    	&lt;div class=&quot;button2&quot;&gt;
+        	&lt;button type=&quot;submit&quot; value=&quot;coding&quot; name=&quot;choice&quot;&gt; Coding &lt;/button&gt;
+	    &lt;/div&gt;
+	&lt;/form&gt;
+
+	&lt;p align=&quot;center&quot;&gt;
+		&lt;?php
+
+		$choice = $_POST[&#039;choice&#039;];
+
+		// mode: search
+		$url = &#039;http://api.giphy.com/v1/gifs/search?q=&#039;.$choice.&#039;&amp;api_key=dc6zaTOxFJmzC&#039;;
+
+		// mode: translate
+		//$url = &#039;http://api.giphy.com/v1/gifs/translate?s=&#039;.$choice.&#039;&amp;api_key=dc6zaTOxFJmzC&#039;;
+
+		// mode: random
+		// $url = &#039;http://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&amp;tag=&#039;.$choice.&#039;&#039;;
+
+		// Get the document at this url
+		$response = file_get_contents($url); 
+		// echo $response; //debug
+
+		// Parse XML with SimpleXML in PHP http://www.php.net/manual/en/simplexml.examples-basic.php
+		$pics = json_decode($response);
+		//var_dump($pics); // take a look at this to see what data you get back
+
+		if ($choice == &#039;clear&#039;) {
+			echo &#039;&#039;;
+		} else {
+			for ($i=0; $i&lt;25; $i++) {
+				// mode: search
+				echo &#039;&lt;img src=&quot;&#039;.$pics-&gt;data[$i]-&gt;images-&gt;fixed_height-&gt;url.&#039;&quot;&gt;&#039;;
+			}
+		}
+
+		// mode: translate
+		//echo &#039;&lt;img src=&quot;&#039;.$pics-&gt;data-&gt;images-&gt;fixed_height-&gt;url.&#039;&quot;&gt;&#039;;
+
+		// mode: random
+		//echo &#039;&lt;img src=&quot;&#039;.$pics-&gt;data-&gt;image_url.&#039;&quot;&gt;&#039;;
+
+		?&gt;
+	&lt;/p	&gt;
+		
+&lt;/body&gt; 
+&lt;/html&gt;</pre>
+<p style="text-align: left;">css file</p>
+<pre class="brush: css; gutter: true">body{
+	background-image: url(&#039;galaxy.png&#039;);
+}
+
+h1{
+	text-align: center;
+	font-family: &#039;Reenie Beanie&#039;, cursive;
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+}
+
+
+.button1 {
+	position: absolute;
+	top: 140px;
+	left: 20%;
+}
+
+.button2 {
+	position: absolute;
+	top: 140px;
+	left: 80%;
+}</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/02/05/gif-overload-giphy-api/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

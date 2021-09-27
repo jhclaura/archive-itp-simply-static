@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>self-destruction &#8211; ITP Days</title>
+	<atom:link href="/tag/self-destruction/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Very cool days</description>
+	<lastBuildDate>Thu, 11 Sep 2014 14:12:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/09/cropped-hat-32x32.jpg</url>
+	<title>self-destruction &#8211; ITP Days</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Automata_Salvation</title>
+		<link>/2014/09/11/automata_robots/</link>
+					<comments>/2014/09/11/automata_robots/#respond</comments>
+		
+		<dc:creator><![CDATA[jhclaura]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2014 14:12:55 +0000</pubDate>
+				<category><![CDATA[Automata]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[gear]]></category>
+		<category><![CDATA[mechanism]]></category>
+		<category><![CDATA[self-destruction]]></category>
+		<guid isPermaLink="false">http://www.jhclaura.com/?p=1564</guid>
+
+					<description><![CDATA[AUTOMATA. VERY EXCITED. For the first assignment, we have to develop an idea for a project that involves Automata. Two quick studies that explore some facet of the design, experience or concept. Can be any materials or methods including software, models, mechanism mockup, etc. At least one physical studies. Because I&#8217;m still dizzy in the post-era of Maker Faire, I [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>AUTOMATA. VERY EXCITED.</p>
+<p>For the first assignment, we have to develop an idea for a project that involves Automata.</p>
+<ul>
+<li>Two quick studies that explore some facet of the design, experience or concept. Can be any materials or methods including software, models, mechanism mockup, etc.</li>
+<li>At least one physical studies.</li>
+</ul>
+<p>Because I&#8217;m still dizzy in the post-era of Maker Faire, I don&#8217;t have the whole picture about what I want to do with Automata, but I know I&#8217;m also fascinated by <em>chain reaction</em>, parts triggering parts sequentially in a strange and unexpected way, and I&#8217;d love to try out <span style="font-family: 'Andale Mono', Times; font-size: 12pt; color: #18dbb1;"><em><strong>Whirligigs</strong></em></span>!</p>
+<p>The idea of the project is &#8220;<em>after finding out what your decision did to yourself and bearing all the consequences, you will be less mad about yourself from watching yourself being punished</em>&#8220;, aka <span style="color: #00de98;"><em><strong><span style="font-family: 'Andale Mono', Times; font-size: 12pt;">Salvation</span></strong></em></span>.</p>
+<p>For the past two months, I felt I was running along the edge of the cliff. Holding all the stuff and running forward clumsily, and the deadline just kept poking me behind. And sometime it made me want to kill myself(<strong>METAPHORICALLY</strong>). And this whirligig of artist Ben Thal somehow has the healing effect on me.</p>
+<p><iframe loading="lazy" width="620" height="465" src="https://www.youtube.com/embed/ibXHXFnXoqE?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>I love this kind of simple movement repeat again and again and again, and it allows me to stare at it tirelessly and helps me to clear up my mind, especially the self-destruction genre.</p>
+<p>And my first design for this concept is <span style="color: #c20000;"><em><span style="font-family: 'Andale Mono', Times; font-size: 12pt;">Stab My Face</span></em></span>.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/sketch.jpg"><img loading="lazy" class="alignnone  wp-image-1589" src="http://www.jhclaura.com/wp-content/uploads/2014/09/stab-my-face.jpg" alt="stab my face" width="421" height="236" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/sketch.jpg"><img loading="lazy" class="alignnone  wp-image-1575" src="http://www.jhclaura.com/wp-content/uploads/2014/09/sketch.jpg" alt="sketch" width="458" height="408" /></a></p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/hw1_small.gif"><img loading="lazy" class="alignnone size-full wp-image-1577" src="http://www.jhclaura.com/wp-content/uploads/2014/09/hw1_small.gif" alt="Stabbing My Face" width="600" height="338" /></a></p>
+<p>It&#8217;s also a practice of the amazing <a href="http://507movements.com/">Harry T. Brown&#8217;s 507 Mechanical Movements</a> #157. I chose it because it has a nice momentum to strike the stab, insteading of constant speed all the time.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/Screen-Shot-2014-10-09-at-7.20.24-PM.png"><img loading="lazy" class="alignnone size-medium wp-image-1679" src="http://www.jhclaura.com/wp-content/uploads/2014/09/Screen-Shot-2014-10-09-at-7.20.24-PM-300x274.png" alt="Screen Shot 2014-10-09 at 7.20.24 PM" width="300" height="274" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>Ideally, it should be <span style="text-decoration: underline;">driven by motor</span> instead of my clumsy fingers, and they all should be well designed and fabricated instead of taping everything on top of the shop table.</p>
+<p>And my second design for this concept is <span style="color: #c20000;"><em><span style="font-family: 'Andale Mono', Times; font-size: 12pt;">Pull the Guts Out</span></em></span>.</p>
+<p><a href="http://www.jhclaura.com/wp-content/uploads/2014/09/pull-the-guts-out.jpg"><img loading="lazy" class="alignnone size-full wp-image-1588" src="http://www.jhclaura.com/wp-content/uploads/2014/09/pull-the-guts-out.jpg" alt="pull the guts out" width="1000" height="385" /></a></p>
+<p>It&#8217;s an automata that keeps pulling out the guts. The guts only moves when arm moves downward.</p>
+<p>Using the same gear setup #157, girl&#8217;s arm rotates up and down. And once the arm goes down, the stick connected to it pushes the gear with teeth rotate counterclockwise, and then drag the softmateral guts rotate counterclockwise too. The tricky part is, I&#8217;m not sure about the movement when arm moves upward. Ideally the gear would just have little movement when arm moves up because of the teeth.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/09/11/automata_robots/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
